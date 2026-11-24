@@ -1,0 +1,127 @@
+scope,comparison,lag_h,train_n,train_storms,test_n,test_counties,median_prior_age_h,median_target_lead_h,model,mae_pp
+all eligible first ten days,available at each lag,0,1203,8,210,21,11.0,13.0,persistence,13.768347150554378
+all eligible first ten days,available at each lag,0,1203,8,210,21,11.0,13.0,history,28.9844457884723
+all eligible first ten days,available at each lag,0,1203,8,210,21,11.0,13.0,transport,26.72453988326774
+all eligible first ten days,available at each lag,0,1203,8,210,21,11.0,13.0,all_causes,28.895786235188616
+all eligible first ten days,available at each lag,6,1203,8,210,21,11.0,13.0,persistence,13.768347150554378
+all eligible first ten days,available at each lag,6,1203,8,210,21,11.0,13.0,history,28.9844457884723
+all eligible first ten days,available at each lag,6,1203,8,210,21,11.0,13.0,transport,26.72453988326774
+all eligible first ten days,available at each lag,6,1203,8,210,21,11.0,13.0,all_causes,28.895786235188616
+all eligible first ten days,same historical and Helene keys at 6–48 hours,6,642,4,189,21,11.0,13.0,persistence,7.605609417823765
+all eligible first ten days,same historical and Helene keys at 6–48 hours,6,642,4,189,21,11.0,13.0,history,19.691800349974525
+all eligible first ten days,same historical and Helene keys at 6–48 hours,6,642,4,189,21,11.0,13.0,transport,18.20914553082152
+all eligible first ten days,same historical and Helene keys at 6–48 hours,6,642,4,189,21,11.0,13.0,all_causes,20.213157257008003
+all eligible first ten days,available at each lag,11,900,6,210,21,11.0,13.0,persistence,13.768347150554378
+all eligible first ten days,available at each lag,11,900,6,210,21,11.0,13.0,history,23.3836103705162
+all eligible first ten days,available at each lag,11,900,6,210,21,11.0,13.0,transport,23.315829237910286
+all eligible first ten days,available at each lag,11,900,6,210,21,11.0,13.0,all_causes,27.813201831783747
+all eligible first ten days,available at each lag,12,900,6,210,21,35.0,13.0,persistence,25.654536770135383
+all eligible first ten days,available at each lag,12,900,6,210,21,35.0,13.0,history,30.61413876765422
+all eligible first ten days,available at each lag,12,900,6,210,21,35.0,13.0,transport,29.843404261084647
+all eligible first ten days,available at each lag,12,900,6,210,21,35.0,13.0,all_causes,31.12746066052233
+all eligible first ten days,same historical and Helene keys at 6–48 hours,12,642,4,189,21,35.0,13.0,persistence,20.441645523461624
+all eligible first ten days,same historical and Helene keys at 6–48 hours,12,642,4,189,21,35.0,13.0,history,24.578396090954392
+all eligible first ten days,same historical and Helene keys at 6–48 hours,12,642,4,189,21,35.0,13.0,transport,22.9453204428893
+all eligible first ten days,same historical and Helene keys at 6–48 hours,12,642,4,189,21,35.0,13.0,all_causes,24.4694160346388
+all eligible first ten days,available at each lag,18,900,6,210,21,35.0,13.0,persistence,25.654536770135383
+all eligible first ten days,available at each lag,18,900,6,210,21,35.0,13.0,history,30.61413876765422
+all eligible first ten days,available at each lag,18,900,6,210,21,35.0,13.0,transport,29.843404261084647
+all eligible first ten days,available at each lag,18,900,6,210,21,35.0,13.0,all_causes,31.12746066052233
+all eligible first ten days,available at each lag,24,900,6,210,21,35.0,13.0,persistence,25.654536770135383
+all eligible first ten days,available at each lag,24,900,6,210,21,35.0,13.0,history,30.61413876765422
+all eligible first ten days,available at each lag,24,900,6,210,21,35.0,13.0,transport,29.843404261084647
+all eligible first ten days,available at each lag,24,900,6,210,21,35.0,13.0,all_causes,31.12746066052233
+all eligible first ten days,same historical and Helene keys at 6–48 hours,24,642,4,189,21,35.0,13.0,persistence,20.441645523461624
+all eligible first ten days,same historical and Helene keys at 6–48 hours,24,642,4,189,21,35.0,13.0,history,24.578396090954392
+all eligible first ten days,same historical and Helene keys at 6–48 hours,24,642,4,189,21,35.0,13.0,transport,22.9453204428893
+all eligible first ten days,same historical and Helene keys at 6–48 hours,24,642,4,189,21,35.0,13.0,all_causes,24.4694160346388
+all eligible first ten days,available at each lag,30,900,6,210,21,35.0,13.0,persistence,25.654536770135383
+all eligible first ten days,available at each lag,30,900,6,210,21,35.0,13.0,history,30.61413876765422
+all eligible first ten days,available at each lag,30,900,6,210,21,35.0,13.0,transport,29.843404261084647
+all eligible first ten days,available at each lag,30,900,6,210,21,35.0,13.0,all_causes,31.12746066052233
+all eligible first ten days,available at each lag,35,642,4,210,21,35.0,13.0,persistence,25.654536770135383
+all eligible first ten days,available at each lag,35,642,4,210,21,35.0,13.0,history,36.281830985035434
+all eligible first ten days,available at each lag,35,642,4,210,21,35.0,13.0,transport,36.736363527343904
+all eligible first ten days,available at each lag,35,642,4,210,21,35.0,13.0,all_causes,36.736363527343904
+all eligible first ten days,available at each lag,36,642,4,189,21,59.0,13.0,persistence,31.085529116469285
+all eligible first ten days,available at each lag,36,642,4,189,21,59.0,13.0,history,27.430467427448068
+all eligible first ten days,available at each lag,36,642,4,189,21,59.0,13.0,transport,26.10156097679929
+all eligible first ten days,available at each lag,36,642,4,189,21,59.0,13.0,all_causes,26.846346978401908
+all eligible first ten days,same historical and Helene keys at 6–48 hours,36,642,4,189,21,59.0,13.0,persistence,31.085529116469285
+all eligible first ten days,same historical and Helene keys at 6–48 hours,36,642,4,189,21,59.0,13.0,history,27.430467427448068
+all eligible first ten days,same historical and Helene keys at 6–48 hours,36,642,4,189,21,59.0,13.0,transport,26.10156097679929
+all eligible first ten days,same historical and Helene keys at 6–48 hours,36,642,4,189,21,59.0,13.0,all_causes,26.846346978401908
+all eligible first ten days,available at each lag,48,642,4,189,21,59.0,13.0,persistence,31.085529116469285
+all eligible first ten days,available at each lag,48,642,4,189,21,59.0,13.0,history,27.430467427448068
+all eligible first ten days,available at each lag,48,642,4,189,21,59.0,13.0,transport,26.10156097679929
+all eligible first ten days,available at each lag,48,642,4,189,21,59.0,13.0,all_causes,26.846346978401908
+all eligible first ten days,same historical and Helene keys at 6–48 hours,48,642,4,189,21,59.0,13.0,persistence,31.085529116469285
+all eligible first ten days,same historical and Helene keys at 6–48 hours,48,642,4,189,21,59.0,13.0,history,27.430467427448068
+all eligible first ten days,same historical and Helene keys at 6–48 hours,48,642,4,189,21,59.0,13.0,transport,26.10156097679929
+all eligible first ten days,same historical and Helene keys at 6–48 hours,48,642,4,189,21,59.0,13.0,all_causes,26.846346978401908
+all eligible first ten days,available at each lag,59,0,0,189,21,59.0,13.0,persistence,31.085529116469285
+all eligible first ten days,available at each lag,60,0,0,0,0,,,none,
+all eligible first ten days,available at each lag,72,0,0,0,0,,,none,
+days 3–9 with equal prior and target totals,available at each lag,0,631,6,144,21,11.0,13.0,persistence,7.451757559478419
+days 3–9 with equal prior and target totals,available at each lag,0,631,6,144,21,11.0,13.0,history,12.937570486083443
+days 3–9 with equal prior and target totals,available at each lag,0,631,6,144,21,11.0,13.0,transport,12.19220739024626
+days 3–9 with equal prior and target totals,available at each lag,0,631,6,144,21,11.0,13.0,all_causes,13.55038231456188
+days 3–9 with equal prior and target totals,available at each lag,6,631,6,144,21,11.0,13.0,persistence,7.451757559478419
+days 3–9 with equal prior and target totals,available at each lag,6,631,6,144,21,11.0,13.0,history,12.937570486083443
+days 3–9 with equal prior and target totals,available at each lag,6,631,6,144,21,11.0,13.0,transport,12.19220739024626
+days 3–9 with equal prior and target totals,available at each lag,6,631,6,144,21,11.0,13.0,all_causes,13.55038231456188
+days 3–9 with equal prior and target totals,same historical and Helene keys at 6–48 hours,6,556,4,137,21,11.0,13.0,persistence,7.417735367876596
+days 3–9 with equal prior and target totals,same historical and Helene keys at 6–48 hours,6,556,4,137,21,11.0,13.0,history,12.120224547918212
+days 3–9 with equal prior and target totals,same historical and Helene keys at 6–48 hours,6,556,4,137,21,11.0,13.0,transport,11.539780962615033
+days 3–9 with equal prior and target totals,same historical and Helene keys at 6–48 hours,6,556,4,137,21,11.0,13.0,all_causes,12.773536753001899
+days 3–9 with equal prior and target totals,available at each lag,11,559,4,144,21,11.0,13.0,persistence,7.451757559478419
+days 3–9 with equal prior and target totals,available at each lag,11,559,4,144,21,11.0,13.0,history,14.501033051943567
+days 3–9 with equal prior and target totals,available at each lag,11,559,4,144,21,11.0,13.0,transport,14.181448968350244
+days 3–9 with equal prior and target totals,available at each lag,11,559,4,144,21,11.0,13.0,all_causes,16.699497838871977
+days 3–9 with equal prior and target totals,available at each lag,12,559,4,140,21,35.0,13.0,persistence,15.024291784748298
+days 3–9 with equal prior and target totals,available at each lag,12,559,4,140,21,35.0,13.0,history,14.347943554660286
+days 3–9 with equal prior and target totals,available at each lag,12,559,4,140,21,35.0,13.0,transport,13.355458472179322
+days 3–9 with equal prior and target totals,available at each lag,12,559,4,140,21,35.0,13.0,all_causes,14.985168994151936
+days 3–9 with equal prior and target totals,same historical and Helene keys at 6–48 hours,12,556,4,137,21,35.0,13.0,persistence,14.980471774713465
+days 3–9 with equal prior and target totals,same historical and Helene keys at 6–48 hours,12,556,4,137,21,35.0,13.0,history,14.382370835749708
+days 3–9 with equal prior and target totals,same historical and Helene keys at 6–48 hours,12,556,4,137,21,35.0,13.0,transport,13.415916000126499
+days 3–9 with equal prior and target totals,same historical and Helene keys at 6–48 hours,12,556,4,137,21,35.0,13.0,all_causes,14.99100964428092
+days 3–9 with equal prior and target totals,available at each lag,18,559,4,140,21,35.0,13.0,persistence,15.024291784748298
+days 3–9 with equal prior and target totals,available at each lag,18,559,4,140,21,35.0,13.0,history,14.347943554660286
+days 3–9 with equal prior and target totals,available at each lag,18,559,4,140,21,35.0,13.0,transport,13.355458472179322
+days 3–9 with equal prior and target totals,available at each lag,18,559,4,140,21,35.0,13.0,all_causes,14.985168994151936
+days 3–9 with equal prior and target totals,available at each lag,24,559,4,140,21,35.0,13.0,persistence,15.024291784748298
+days 3–9 with equal prior and target totals,available at each lag,24,559,4,140,21,35.0,13.0,history,14.347943554660286
+days 3–9 with equal prior and target totals,available at each lag,24,559,4,140,21,35.0,13.0,transport,13.355458472179322
+days 3–9 with equal prior and target totals,available at each lag,24,559,4,140,21,35.0,13.0,all_causes,14.985168994151936
+days 3–9 with equal prior and target totals,same historical and Helene keys at 6–48 hours,24,556,4,137,21,35.0,13.0,persistence,14.980471774713465
+days 3–9 with equal prior and target totals,same historical and Helene keys at 6–48 hours,24,556,4,137,21,35.0,13.0,history,14.382370835749708
+days 3–9 with equal prior and target totals,same historical and Helene keys at 6–48 hours,24,556,4,137,21,35.0,13.0,transport,13.415916000126499
+days 3–9 with equal prior and target totals,same historical and Helene keys at 6–48 hours,24,556,4,137,21,35.0,13.0,all_causes,14.99100964428092
+days 3–9 with equal prior and target totals,available at each lag,30,559,4,140,21,35.0,13.0,persistence,15.024291784748298
+days 3–9 with equal prior and target totals,available at each lag,30,559,4,140,21,35.0,13.0,history,14.347943554660286
+days 3–9 with equal prior and target totals,available at each lag,30,559,4,140,21,35.0,13.0,transport,13.355458472179322
+days 3–9 with equal prior and target totals,available at each lag,30,559,4,140,21,35.0,13.0,all_causes,14.985168994151936
+days 3–9 with equal prior and target totals,available at each lag,35,556,4,140,21,35.0,13.0,persistence,15.024291784748298
+days 3–9 with equal prior and target totals,available at each lag,35,556,4,140,21,35.0,13.0,history,23.378420920663174
+days 3–9 with equal prior and target totals,available at each lag,35,556,4,140,21,35.0,13.0,transport,23.378420920663174
+days 3–9 with equal prior and target totals,available at each lag,35,556,4,140,21,35.0,13.0,all_causes,23.378420920663174
+days 3–9 with equal prior and target totals,available at each lag,36,556,4,138,21,59.0,13.0,persistence,22.5410359509691
+days 3–9 with equal prior and target totals,available at each lag,36,556,4,138,21,59.0,13.0,history,15.506623053798625
+days 3–9 with equal prior and target totals,available at each lag,36,556,4,138,21,59.0,13.0,transport,13.86553779024958
+days 3–9 with equal prior and target totals,available at each lag,36,556,4,138,21,59.0,13.0,all_causes,14.757208168242533
+days 3–9 with equal prior and target totals,same historical and Helene keys at 6–48 hours,36,556,4,137,21,59.0,13.0,persistence,22.558744662080294
+days 3–9 with equal prior and target totals,same historical and Helene keys at 6–48 hours,36,556,4,137,21,59.0,13.0,history,15.293060508710747
+days 3–9 with equal prior and target totals,same historical and Helene keys at 6–48 hours,36,556,4,137,21,59.0,13.0,transport,13.687272059338612
+days 3–9 with equal prior and target totals,same historical and Helene keys at 6–48 hours,36,556,4,137,21,59.0,13.0,all_causes,14.554827469912077
+days 3–9 with equal prior and target totals,available at each lag,48,556,4,138,21,59.0,13.0,persistence,22.5410359509691
+days 3–9 with equal prior and target totals,available at each lag,48,556,4,138,21,59.0,13.0,history,15.506623053798625
+days 3–9 with equal prior and target totals,available at each lag,48,556,4,138,21,59.0,13.0,transport,13.86553779024958
+days 3–9 with equal prior and target totals,available at each lag,48,556,4,138,21,59.0,13.0,all_causes,14.757208168242533
+days 3–9 with equal prior and target totals,same historical and Helene keys at 6–48 hours,48,556,4,137,21,59.0,13.0,persistence,22.558744662080294
+days 3–9 with equal prior and target totals,same historical and Helene keys at 6–48 hours,48,556,4,137,21,59.0,13.0,history,15.293060508710747
+days 3–9 with equal prior and target totals,same historical and Helene keys at 6–48 hours,48,556,4,137,21,59.0,13.0,transport,13.687272059338612
+days 3–9 with equal prior and target totals,same historical and Helene keys at 6–48 hours,48,556,4,137,21,59.0,13.0,all_causes,14.554827469912077
+days 3–9 with equal prior and target totals,available at each lag,59,0,0,138,21,59.0,13.0,persistence,22.5410359509691
+days 3–9 with equal prior and target totals,available at each lag,60,0,0,0,0,,,none,
+days 3–9 with equal prior and target totals,available at each lag,72,0,0,0,0,,,none,

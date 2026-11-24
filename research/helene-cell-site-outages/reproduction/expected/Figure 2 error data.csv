@@ -1,0 +1,7 @@
+model,county_target_pairs,mae_pp,display_label
+persistence,210,13.768347150554376,FCC carry-forward
+learned_fcc,210,28.9844457884723,Learned FCC
+power_only,210,29.08942268125066,+ Power-related outages
+transport_only,210,26.72453988326774,+ Telecom transport outages
+damage_only,210,30.032225480228455,+ Damage-related outages
+causes,210,28.895786235188616,+ All reported causes

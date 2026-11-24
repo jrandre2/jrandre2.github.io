@@ -1,0 +1,85 @@
+horizon,response,validation,model,n,mae_pp
+oct10,all,counties,initial,21,7.848454109956488
+oct10,all,counties,initial + candidate proximity,21,7.494373861181346
+oct10,all,counties,initial + closure density,21,7.894045460628798
+oct10,all,counties,initial + weather and location,21,7.889159799479134
+oct10,all,counties,"initial + weather, location, candidate proximity",21,7.0651129087118045
+oct10,all,counties,"initial + weather, location, closure density",21,8.631509290491092
+oct10,all,counties,"initial + weather, location, post-target starts (placebo)",21,6.172332295023306
+oct10,all,spatial bands,initial,21,8.753005589042314
+oct10,all,spatial bands,initial + candidate proximity,21,8.56922399461441
+oct10,all,spatial bands,initial + closure density,21,9.075686724071343
+oct10,all,spatial bands,initial + weather and location,21,14.706786899542589
+oct10,all,spatial bands,"initial + weather, location, candidate proximity",21,13.390736835039041
+oct10,all,spatial bands,"initial + weather, location, closure density",21,15.831462332253533
+oct10,all,spatial bands,"initial + weather, location, post-target starts (placebo)",21,17.31660850427783
+oct10,power,counties,initial,21,1.9342986522851051
+oct10,power,counties,initial + candidate proximity,21,2.018985572527434
+oct10,power,counties,initial + closure density,21,2.066536789740084
+oct10,power,counties,initial + weather and location,21,1.990973445457772
+oct10,power,counties,"initial + weather, location, candidate proximity",21,2.090822087182949
+oct10,power,counties,"initial + weather, location, closure density",21,1.9998306174115572
+oct10,power,counties,"initial + weather, location, post-target starts (placebo)",21,2.217772435753826
+oct10,power,spatial bands,initial,21,2.5067159902790728
+oct10,power,spatial bands,initial + candidate proximity,21,2.6604329077218325
+oct10,power,spatial bands,initial + closure density,21,2.6629935468874626
+oct10,power,spatial bands,initial + weather and location,21,6.052369184700251
+oct10,power,spatial bands,"initial + weather, location, candidate proximity",21,6.148304867956675
+oct10,power,spatial bands,"initial + weather, location, closure density",21,5.97549649420961
+oct10,power,spatial bands,"initial + weather, location, post-target starts (placebo)",21,7.444249329181163
+oct10,transport,counties,initial,21,6.887513851099148
+oct10,transport,counties,initial + candidate proximity,21,6.58881761242299
+oct10,transport,counties,initial + closure density,21,6.963969621825209
+oct10,transport,counties,initial + weather and location,21,6.824530192820906
+oct10,transport,counties,"initial + weather, location, candidate proximity",21,5.558465033656022
+oct10,transport,counties,"initial + weather, location, closure density",21,7.358904822460628
+oct10,transport,counties,"initial + weather, location, post-target starts (placebo)",21,4.368737098491183
+oct10,transport,spatial bands,initial,21,6.6473902404492575
+oct10,transport,spatial bands,initial + candidate proximity,21,6.888420920141036
+oct10,transport,spatial bands,initial + closure density,21,7.145932454439678
+oct10,transport,spatial bands,initial + weather and location,21,11.365532929872675
+oct10,transport,spatial bands,"initial + weather, location, candidate proximity",21,8.61687565034999
+oct10,transport,spatial bands,"initial + weather, location, closure density",21,11.597765988642868
+oct10,transport,spatial bands,"initial + weather, location, post-target starts (placebo)",21,9.119198417280213
+oct12,all,counties,initial,21,3.6145270679857124
+oct12,all,counties,initial + candidate proximity,21,3.5653281129658088
+oct12,all,counties,initial + closure density,21,3.617214474847679
+oct12,all,counties,initial + weather and location,21,3.7490713086962972
+oct12,all,counties,"initial + weather, location, candidate proximity",21,3.1569613170137254
+oct12,all,counties,"initial + weather, location, closure density",21,4.154553261376996
+oct12,all,counties,"initial + weather, location, post-target starts (placebo)",21,3.553713419561207
+oct12,all,spatial bands,initial,21,3.600552386494229
+oct12,all,spatial bands,initial + candidate proximity,21,3.545698296868641
+oct12,all,spatial bands,initial + closure density,21,3.80252464013194
+oct12,all,spatial bands,initial + weather and location,21,5.428273979030807
+oct12,all,spatial bands,"initial + weather, location, candidate proximity",21,4.920688296367678
+oct12,all,spatial bands,"initial + weather, location, closure density",21,6.181272637174586
+oct12,all,spatial bands,"initial + weather, location, post-target starts (placebo)",21,3.7803876159574994
+oct12,power,counties,initial,21,1.1881641058533685
+oct12,power,counties,initial + candidate proximity,21,1.2410125942433587
+oct12,power,counties,initial + closure density,21,1.2658983711308007
+oct12,power,counties,initial + weather and location,21,1.3495398942003178
+oct12,power,counties,"initial + weather, location, candidate proximity",21,1.404536463688294
+oct12,power,counties,"initial + weather, location, closure density",21,1.3806908404589724
+oct12,power,counties,"initial + weather, location, post-target starts (placebo)",21,1.4273198301564218
+oct12,power,spatial bands,initial,21,1.0713954227460547
+oct12,power,spatial bands,initial + candidate proximity,21,1.117260535685761
+oct12,power,spatial bands,initial + closure density,21,1.121210947558504
+oct12,power,spatial bands,initial + weather and location,21,2.0131689590843687
+oct12,power,spatial bands,"initial + weather, location, candidate proximity",21,2.0552886818561737
+oct12,power,spatial bands,"initial + weather, location, closure density",21,2.0411783613719
+oct12,power,spatial bands,"initial + weather, location, post-target starts (placebo)",21,1.8615810461990046
+oct12,transport,counties,initial,21,2.4393216227216152
+oct12,transport,counties,initial + candidate proximity,21,2.297065570120382
+oct12,transport,counties,initial + closure density,21,2.5702550362219574
+oct12,transport,counties,initial + weather and location,21,2.499863351239204
+oct12,transport,counties,"initial + weather, location, candidate proximity",21,1.752094447444882
+oct12,transport,counties,"initial + weather, location, closure density",21,2.7831005805857405
+oct12,transport,counties,"initial + weather, location, post-target starts (placebo)",21,2.638275793104941
+oct12,transport,spatial bands,initial,21,2.465620574486889
+oct12,transport,spatial bands,initial + candidate proximity,21,2.4440930034071884
+oct12,transport,spatial bands,initial + closure density,21,2.8128748510157644
+oct12,transport,spatial bands,initial + weather and location,21,4.405434124495374
+oct12,transport,spatial bands,"initial + weather, location, candidate proximity",21,3.887247953777307
+oct12,transport,spatial bands,"initial + weather, location, closure density",21,4.5743272968342765
+oct12,transport,spatial bands,"initial + weather, location, post-target starts (placebo)",21,3.8185811916083376

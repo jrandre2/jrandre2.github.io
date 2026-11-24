@@ -1,0 +1,6 @@
+panel,endpoint,exposure,controls,n,partial_rank_correlation
+a,early_peak_pct,flood_area,slide_road,21,0.007513440588566801
+a,early_peak_pct,flood_bsl,slide_road,21,0.4024424867194542
+a,early_peak_pct,flood_bsl,slide_road;hrrr_mean_mm,21,0.14291369128885187
+b,day09,slide_road,initial;flood_bsl,21,0.44444784437480594
+b,day09,slide_road,initial;flood_bsl;east;north,21,0.0762922901146062

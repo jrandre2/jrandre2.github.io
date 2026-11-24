@@ -1,0 +1,65 @@
+experiment,arm,event_id,weather_quantity,n,n_distinct,rho_sparse_or_historic,rho_full_helene
+original NC fits,original cutoff and outcome,hurricane_debby_2024,rain_risk_rank,48,2,-0.20495629500192405,
+original NC fits,original cutoff and outcome,hurricane_debby_2024,wind_wsp34_county_mean_p_lower,48,23,-0.24694676420810746,
+original NC fits,original cutoff and outcome,hurricane_dorian_2019,rain_risk_rank,38,5,0.24225207212926478,
+original NC fits,original cutoff and outcome,hurricane_dorian_2019,wind_wsp34_county_mean_p_lower,38,38,0.6273102994299886,
+original NC fits,original cutoff and outcome,hurricane_florence_2018,rain_risk_rank,51,5,0.6211469439112868,
+original NC fits,original cutoff and outcome,hurricane_florence_2018,wind_wsp34_county_mean_p_lower,51,45,0.8563184935181679,
+original NC fits,original cutoff and outcome,hurricane_helene_2024,rain_risk_rank,21,2,0.606779876216918,0.606779876216918
+original NC fits,original cutoff and outcome,hurricane_helene_2024,wind_wsp34_county_mean_p_lower,21,20,0.13705749342540433,0.16433907979444215
+timing arms,L+0h; rain valid L+24h,hurricane_debby_2024,rain_risk_rank,48,3,-0.14882335733286287,
+timing arms,L+0h; rain valid L+24h,hurricane_debby_2024,wind_wsp34_county_mean_p_lower,48,37,-0.41561547835348045,
+timing arms,L+0h; rain valid L+24h,hurricane_dorian_2019,rain_risk_rank,38,1,,
+timing arms,L+0h; rain valid L+24h,hurricane_dorian_2019,wind_wsp34_county_mean_p_lower,38,38,0.44225736063808385,
+timing arms,L+0h; rain valid L+24h,hurricane_florence_2018,rain_risk_rank,51,4,0.7375584984631783,
+timing arms,L+0h; rain valid L+24h,hurricane_florence_2018,wind_wsp34_county_mean_p_lower,51,43,0.6362476411900504,
+timing arms,L+0h; rain valid L+24h,hurricane_helene_2024,rain_risk_rank,21,3,0.12149124343223452,0.08303358364073582
+timing arms,L+0h; rain valid L+24h,hurricane_helene_2024,wind_wsp34_county_mean_p_lower,21,21,0.1064935064935065,0.13506493506493505
+timing arms,L+12h; rain valid L+24h,hurricane_debby_2024,rain_risk_rank,48,3,-0.2626251263198799,
+timing arms,L+12h; rain valid L+24h,hurricane_debby_2024,wind_wsp34_county_mean_p_lower,48,38,-0.3492127766978311,
+timing arms,L+12h; rain valid L+24h,hurricane_dorian_2019,rain_risk_rank,38,1,,
+timing arms,L+12h; rain valid L+24h,hurricane_dorian_2019,wind_wsp34_county_mean_p_lower,38,18,0.25324712514796266,
+timing arms,L+12h; rain valid L+24h,hurricane_florence_2018,rain_risk_rank,51,4,0.7375584984631783,
+timing arms,L+12h; rain valid L+24h,hurricane_florence_2018,wind_wsp34_county_mean_p_lower,51,47,0.8756366528925523,
+timing arms,L+12h; rain valid L+24h,hurricane_helene_2024,rain_risk_rank,21,3,0.09673409233896041,0.06536087320200026
+timing arms,L+12h; rain valid L+24h,hurricane_helene_2024,wind_wsp34_county_mean_p_lower,21,20,0.14680091712863214,0.1630399566340118
+timing arms,L-12h; rain valid L+24h,hurricane_debby_2024,rain_risk_rank,48,3,-0.08421868853685632,
+timing arms,L-12h; rain valid L+24h,hurricane_debby_2024,wind_wsp34_county_mean_p_lower,48,18,-0.22917236345957404,
+timing arms,L-12h; rain valid L+24h,hurricane_dorian_2019,rain_risk_rank,38,1,,
+timing arms,L-12h; rain valid L+24h,hurricane_dorian_2019,wind_wsp34_county_mean_p_lower,38,37,0.47824949261355854,
+timing arms,L-12h; rain valid L+24h,hurricane_florence_2018,rain_risk_rank,51,5,0.8713500347036118,
+timing arms,L-12h; rain valid L+24h,hurricane_florence_2018,wind_wsp34_county_mean_p_lower,51,45,0.8180445727801783,
+timing arms,L-12h; rain valid L+24h,hurricane_helene_2024,rain_risk_rank,21,2,-0.20026720118795727,-0.20026720118795727
+timing arms,L-12h; rain valid L+24h,hurricane_helene_2024,wind_wsp34_county_mean_p_lower,21,20,0.08898993648948053,0.11497239969808797
+timing arms,L-24h; rain valid L+24h,hurricane_debby_2024,rain_risk_rank,48,3,-0.3825607232343953,
+timing arms,L-24h; rain valid L+24h,hurricane_debby_2024,wind_wsp34_county_mean_p_lower,48,23,-0.24694676420810746,
+timing arms,L-24h; rain valid L+24h,hurricane_dorian_2019,rain_risk_rank,38,1,,
+timing arms,L-24h; rain valid L+24h,hurricane_dorian_2019,wind_wsp34_county_mean_p_lower,38,38,0.5000509473058761,
+timing arms,L-24h; rain valid L+24h,hurricane_florence_2018,rain_risk_rank,51,5,0.6851283837606317,
+timing arms,L-24h; rain valid L+24h,hurricane_florence_2018,wind_wsp34_county_mean_p_lower,51,45,0.8511384886757214,
+timing arms,L-24h; rain valid L+24h,hurricane_helene_2024,rain_risk_rank,21,2,-0.20026720118795727,-0.20026720118795727
+timing arms,L-24h; rain valid L+24h,hurricane_helene_2024,wind_wsp34_county_mean_p_lower,21,20,0.13705749342540433,0.16433907979444215
+timing arms,L-24h; rain valid landfall,hurricane_debby_2024,rain_risk_rank,48,2,-0.20495629500192405,
+timing arms,L-24h; rain valid landfall,hurricane_debby_2024,wind_wsp34_county_mean_p_lower,48,23,-0.24694676420810746,
+timing arms,L-24h; rain valid landfall,hurricane_dorian_2019,rain_risk_rank,38,5,0.14518788092687038,
+timing arms,L-24h; rain valid landfall,hurricane_dorian_2019,wind_wsp34_county_mean_p_lower,38,38,0.5000509473058761,
+timing arms,L-24h; rain valid landfall,hurricane_florence_2018,rain_risk_rank,51,5,0.6021111527782255,
+timing arms,L-24h; rain valid landfall,hurricane_florence_2018,wind_wsp34_county_mean_p_lower,51,45,0.8511384886757214,
+timing arms,L-24h; rain valid landfall,hurricane_helene_2024,rain_risk_rank,21,2,0.606779876216918,0.606779876216918
+timing arms,L-24h; rain valid landfall,hurricane_helene_2024,wind_wsp34_county_mean_p_lower,21,20,0.13705749342540433,0.16433907979444215
+forecast NC-approach trigger,L-24h; rain valid landfall,hurricane_debby_2024,rain_risk_rank,48,2,-0.20495629500192405,
+forecast NC-approach trigger,L-24h; rain valid landfall,hurricane_debby_2024,wind_wsp34_county_mean_p_lower,48,23,-0.24694676420810746,
+forecast NC-approach trigger,L-24h; rain valid landfall,hurricane_dorian_2019,rain_risk_rank,38,5,0.14518788092687038,
+forecast NC-approach trigger,L-24h; rain valid landfall,hurricane_dorian_2019,wind_wsp34_county_mean_p_lower,38,38,0.5000509473058761,
+forecast NC-approach trigger,L-24h; rain valid landfall,hurricane_florence_2018,rain_risk_rank,51,5,0.6021111527782255,
+forecast NC-approach trigger,L-24h; rain valid landfall,hurricane_florence_2018,wind_wsp34_county_mean_p_lower,51,45,0.8511384886757214,
+forecast NC-approach trigger,L-24h; rain valid landfall,hurricane_helene_2024,rain_risk_rank,21,2,0.606779876216918,0.606779876216918
+forecast NC-approach trigger,L-24h; rain valid landfall,hurricane_helene_2024,wind_wsp34_county_mean_p_lower,21,20,0.13705749342540433,0.16433907979444215
+forecast NC-approach trigger,forecast NC approach trigger,hurricane_debby_2024,rain_risk_rank,48,4,-0.05665281583477611,
+forecast NC-approach trigger,forecast NC approach trigger,hurricane_debby_2024,wind_wsp34_county_mean_p_lower,48,44,-0.15967080229552527,
+forecast NC-approach trigger,forecast NC approach trigger,hurricane_dorian_2019,rain_risk_rank,38,4,0.16765761175378133,
+forecast NC-approach trigger,forecast NC approach trigger,hurricane_dorian_2019,wind_wsp34_county_mean_p_lower,38,38,0.532792378379475,
+forecast NC-approach trigger,forecast NC approach trigger,hurricane_florence_2018,rain_risk_rank,51,5,0.5143704356944284,
+forecast NC-approach trigger,forecast NC approach trigger,hurricane_florence_2018,wind_wsp34_county_mean_p_lower,51,48,0.8728400398196369,
+forecast NC-approach trigger,forecast NC approach trigger,hurricane_helene_2024,rain_risk_rank,21,2,-0.20026720118795727,-0.20026720118795727
+forecast NC-approach trigger,forecast NC approach trigger,hurricane_helene_2024,wind_wsp34_county_mean_p_lower,21,20,0.13705749342540433,0.16433907979444215

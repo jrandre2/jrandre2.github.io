@@ -1,0 +1,42 @@
+[
+  {
+    "file": "peak nested scores.csv",
+    "source": "Decision Model Suite/ML Comparison/Peak/Tuning/event_scores.csv",
+    "sha256": "9cf6c6f09b90d6f705cb740614b93de851979c9a84815cb47e611f756c3936c6"
+  },
+  {
+    "file": "peak nested storm means.csv",
+    "source": "Decision Model Suite/ML Comparison/Peak/Tuning/macro_scores.csv",
+    "sha256": "e85b6f50b8f5766729d1283f044f7559e968b03aad210935898c4e64b5e90eea"
+  },
+  {
+    "file": "peak nested time audit.csv",
+    "source": "Decision Model Suite/ML Comparison/Peak/Tuning/nested_fold_audit.csv",
+    "sha256": "9c8989fe0ed4964a7cbc848dfdde7282f9cbb78ad9d8ebf9edb07cfda1ff533d"
+  },
+  {
+    "file": "recovery nested scores.csv",
+    "source": "Decision Model Suite/ML Comparison/Recovery/Tuning/helene_scores.csv",
+    "sha256": "39d2375fb9ef862aeb7c0824fb1d393b5139bab694452adf5f13ebb1228a5255"
+  },
+  {
+    "file": "recovery nested storm means.csv",
+    "source": "Decision Model Suite/ML Comparison/Recovery/Tuning/historical_macro.csv",
+    "sha256": "32d013dc9eeffeb9a00e7e36a10cb517b62396f7d88b7a550b1e2061b19bd7a9"
+  },
+  {
+    "file": "recovery nested time audit.csv",
+    "source": "Decision Model Suite/ML Comparison/Recovery/Tuning/inner_chronology.csv",
+    "sha256": "a353f2dca8e90ff92826085ebf31f300297f869136c99dbd34b4ae86c12434d4"
+  },
+  {
+    "file": "statewide coordination replay.csv",
+    "source": "Extreme Decision Model/helene_nc_decision_replay.csv",
+    "sha256": "3030a860d9b7d43ce5340b3fe34a1682817846ae3981a0a5557fd5ed990f3afc"
+  },
+  {
+    "file": "retrospective closure scores.csv",
+    "source": "Decision Model Suite/Mechanisms/blocked_scores.csv",
+    "sha256": "8bcc7b148e2609af10ed80ac0905eacce5354f98fe835439f0a81b4ca3ecb03f"
+  }
+]

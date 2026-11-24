@@ -1,0 +1,2 @@
+# Keep the frozen reproduction input bytes identical across Git checkouts.
+* -text

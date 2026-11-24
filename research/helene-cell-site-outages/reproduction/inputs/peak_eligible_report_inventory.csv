@@ -1,0 +1,1076 @@
+event_id,county_fips,report_timestamp_utc,cell_sites_served,cell_sites_out,source_url,landfall_utc,source_track,hours_after_landfall,target_pct
+hurricane_delta_2020,01003,2020-10-10 16:00:00+00:00,358.0,4.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,1.1173184357541899
+hurricane_delta_2020,01097,2020-10-10 16:00:00+00:00,514.0,5.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,0.9727626459143969
+hurricane_delta_2020,22001,2020-10-10 16:00:00+00:00,47.0,11.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,23.404255319148938
+hurricane_delta_2020,22003,2020-10-10 16:00:00+00:00,46.0,18.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,39.130434782608695
+hurricane_delta_2020,22005,2020-10-10 16:00:00+00:00,93.0,7.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,7.526881720430108
+hurricane_delta_2020,22007,2020-10-10 16:00:00+00:00,19.0,5.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,26.31578947368421
+hurricane_delta_2020,22009,2020-10-10 16:00:00+00:00,56.0,10.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,17.857142857142858
+hurricane_delta_2020,22011,2020-10-10 16:00:00+00:00,58.0,17.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,29.310344827586206
+hurricane_delta_2020,22013,2020-10-10 16:00:00+00:00,26.0,0.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,0.0
+hurricane_delta_2020,22015,2020-10-10 16:00:00+00:00,101.0,0.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,0.0
+hurricane_delta_2020,22017,2020-10-10 16:00:00+00:00,195.0,3.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,1.5384615384615385
+hurricane_delta_2020,22019,2020-10-10 16:00:00+00:00,184.0,83.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,45.108695652173914
+hurricane_delta_2020,22021,2020-10-10 16:00:00+00:00,17.0,1.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,5.882352941176471
+hurricane_delta_2020,22023,2020-10-10 16:00:00+00:00,29.0,15.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,51.724137931034484
+hurricane_delta_2020,22025,2020-10-10 16:00:00+00:00,19.0,3.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,15.789473684210526
+hurricane_delta_2020,22027,2020-10-10 16:00:00+00:00,11.0,0.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,0.0
+hurricane_delta_2020,22029,2020-10-10 16:00:00+00:00,22.0,1.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,4.545454545454546
+hurricane_delta_2020,22031,2020-10-10 16:00:00+00:00,41.0,0.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,0.0
+hurricane_delta_2020,22033,2020-10-10 16:00:00+00:00,367.0,34.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,9.264305177111716
+hurricane_delta_2020,22035,2020-10-10 16:00:00+00:00,7.0,0.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,0.0
+hurricane_delta_2020,22037,2020-10-10 16:00:00+00:00,27.0,1.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,3.7037037037037037
+hurricane_delta_2020,22039,2020-10-10 16:00:00+00:00,42.0,16.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,38.095238095238095
+hurricane_delta_2020,22041,2020-10-10 16:00:00+00:00,21.0,1.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,4.761904761904762
+hurricane_delta_2020,22043,2020-10-10 16:00:00+00:00,49.0,7.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,14.285714285714286
+hurricane_delta_2020,22045,2020-10-10 16:00:00+00:00,50.0,3.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,6.0
+hurricane_delta_2020,22047,2020-10-10 16:00:00+00:00,43.0,4.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,9.30232558139535
+hurricane_delta_2020,22049,2020-10-10 16:00:00+00:00,13.0,0.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,0.0
+hurricane_delta_2020,22051,2020-10-10 16:00:00+00:00,310.0,2.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,0.6451612903225806
+hurricane_delta_2020,22053,2020-10-10 16:00:00+00:00,42.0,16.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,38.095238095238095
+hurricane_delta_2020,22055,2020-10-10 16:00:00+00:00,162.0,33.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,20.37037037037037
+hurricane_delta_2020,22057,2020-10-10 16:00:00+00:00,84.0,0.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,0.0
+hurricane_delta_2020,22059,2020-10-10 16:00:00+00:00,27.0,13.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,48.148148148148145
+hurricane_delta_2020,22061,2020-10-10 16:00:00+00:00,48.0,3.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,6.25
+hurricane_delta_2020,22063,2020-10-10 16:00:00+00:00,113.0,5.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,4.424778761061947
+hurricane_delta_2020,22065,2020-10-10 16:00:00+00:00,23.0,1.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,4.3478260869565215
+hurricane_delta_2020,22067,2020-10-10 16:00:00+00:00,21.0,4.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,19.047619047619047
+hurricane_delta_2020,22069,2020-10-10 16:00:00+00:00,58.0,5.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,8.620689655172415
+hurricane_delta_2020,22071,2020-10-10 16:00:00+00:00,368.0,2.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,0.5434782608695652
+hurricane_delta_2020,22073,2020-10-10 16:00:00+00:00,113.0,5.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,4.424778761061947
+hurricane_delta_2020,22075,2020-10-10 16:00:00+00:00,59.0,0.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,0.0
+hurricane_delta_2020,22077,2020-10-10 16:00:00+00:00,25.0,7.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,28.0
+hurricane_delta_2020,22079,2020-10-10 16:00:00+00:00,177.0,28.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,15.819209039548022
+hurricane_delta_2020,22081,2020-10-10 16:00:00+00:00,8.0,1.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,12.5
+hurricane_delta_2020,22083,2020-10-10 16:00:00+00:00,33.0,0.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,0.0
+hurricane_delta_2020,22085,2020-10-10 16:00:00+00:00,34.0,0.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,0.0
+hurricane_delta_2020,22087,2020-10-10 16:00:00+00:00,39.0,0.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,0.0
+hurricane_delta_2020,22089,2020-10-10 16:00:00+00:00,42.0,0.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,0.0
+hurricane_delta_2020,22091,2020-10-10 16:00:00+00:00,16.0,1.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,6.25
+hurricane_delta_2020,22093,2020-10-10 16:00:00+00:00,35.0,0.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,0.0
+hurricane_delta_2020,22095,2020-10-10 16:00:00+00:00,28.0,2.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,7.142857142857143
+hurricane_delta_2020,22097,2020-10-10 16:00:00+00:00,91.0,16.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,17.582417582417584
+hurricane_delta_2020,22099,2020-10-10 16:00:00+00:00,51.0,8.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,15.686274509803921
+hurricane_delta_2020,22101,2020-10-10 16:00:00+00:00,56.0,4.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,7.142857142857143
+hurricane_delta_2020,22103,2020-10-10 16:00:00+00:00,266.0,10.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,3.7593984962406015
+hurricane_delta_2020,22105,2020-10-10 16:00:00+00:00,131.0,5.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,3.816793893129771
+hurricane_delta_2020,22107,2020-10-10 16:00:00+00:00,8.0,3.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,37.5
+hurricane_delta_2020,22109,2020-10-10 16:00:00+00:00,88.0,1.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,1.1363636363636365
+hurricane_delta_2020,22111,2020-10-10 16:00:00+00:00,24.0,0.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,0.0
+hurricane_delta_2020,22113,2020-10-10 16:00:00+00:00,57.0,10.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,17.54385964912281
+hurricane_delta_2020,22115,2020-10-10 16:00:00+00:00,101.0,21.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,20.792079207920793
+hurricane_delta_2020,22117,2020-10-10 16:00:00+00:00,61.0,0.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,0.0
+hurricane_delta_2020,22119,2020-10-10 16:00:00+00:00,35.0,0.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,0.0
+hurricane_delta_2020,22121,2020-10-10 16:00:00+00:00,33.0,5.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,15.151515151515152
+hurricane_delta_2020,22123,2020-10-10 16:00:00+00:00,16.0,0.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,0.0
+hurricane_delta_2020,22125,2020-10-10 16:00:00+00:00,28.0,5.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,17.857142857142858
+hurricane_delta_2020,22127,2020-10-10 16:00:00+00:00,26.0,3.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,11.538461538461538
+hurricane_delta_2020,28001,2020-10-10 16:00:00+00:00,34.0,10.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,29.41176470588235
+hurricane_delta_2020,28005,2020-10-10 16:00:00+00:00,25.0,7.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,28.0
+hurricane_delta_2020,28021,2020-10-10 16:00:00+00:00,14.0,5.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,35.714285714285715
+hurricane_delta_2020,28029,2020-10-10 16:00:00+00:00,31.0,2.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,6.451612903225806
+hurricane_delta_2020,28037,2020-10-10 16:00:00+00:00,25.0,9.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,36.0
+hurricane_delta_2020,28045,2020-10-10 16:00:00+00:00,63.0,1.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,1.5873015873015872
+hurricane_delta_2020,28047,2020-10-10 16:00:00+00:00,219.0,1.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,0.45662100456621
+hurricane_delta_2020,28049,2020-10-10 16:00:00+00:00,204.0,4.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,1.9607843137254901
+hurricane_delta_2020,28055,2020-10-10 16:00:00+00:00,4.0,0.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,0.0
+hurricane_delta_2020,28059,2020-10-10 16:00:00+00:00,87.0,0.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,0.0
+hurricane_delta_2020,28063,2020-10-10 16:00:00+00:00,19.0,5.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,26.31578947368421
+hurricane_delta_2020,28065,2020-10-10 16:00:00+00:00,8.0,0.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,0.0
+hurricane_delta_2020,28073,2020-10-10 16:00:00+00:00,76.0,0.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,0.0
+hurricane_delta_2020,28077,2020-10-10 16:00:00+00:00,9.0,0.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,0.0
+hurricane_delta_2020,28085,2020-10-10 16:00:00+00:00,52.0,4.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,7.6923076923076925
+hurricane_delta_2020,28091,2020-10-10 16:00:00+00:00,30.0,0.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,0.0
+hurricane_delta_2020,28109,2020-10-10 16:00:00+00:00,85.0,0.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,0.0
+hurricane_delta_2020,28113,2020-10-10 16:00:00+00:00,45.0,4.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,8.88888888888889
+hurricane_delta_2020,28125,2020-10-10 16:00:00+00:00,11.0,2.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,18.181818181818183
+hurricane_delta_2020,28127,2020-10-10 16:00:00+00:00,29.0,3.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,10.344827586206897
+hurricane_delta_2020,28131,2020-10-10 16:00:00+00:00,20.0,0.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,0.0
+hurricane_delta_2020,28147,2020-10-10 16:00:00+00:00,25.0,0.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,0.0
+hurricane_delta_2020,28149,2020-10-10 16:00:00+00:00,53.0,1.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,1.8867924528301887
+hurricane_delta_2020,28157,2020-10-10 16:00:00+00:00,18.0,4.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,22.22222222222222
+hurricane_delta_2020,28159,2020-10-10 16:00:00+00:00,10.0,0.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,0.0
+hurricane_delta_2020,48039,2020-10-10 16:00:00+00:00,285.0,0.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,0.0
+hurricane_delta_2020,48071,2020-10-10 16:00:00+00:00,59.0,5.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,8.474576271186441
+hurricane_delta_2020,48167,2020-10-10 16:00:00+00:00,250.0,8.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,3.2
+hurricane_delta_2020,48199,2020-10-10 16:00:00+00:00,76.0,14.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,18.42105263157895
+hurricane_delta_2020,48201,2020-10-10 16:00:00+00:00,3461.0,21.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,0.6067610517191563
+hurricane_delta_2020,48241,2020-10-10 16:00:00+00:00,88.0,6.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,6.818181818181818
+hurricane_delta_2020,48245,2020-10-10 16:00:00+00:00,245.0,50.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,20.408163265306122
+hurricane_delta_2020,48291,2020-10-10 16:00:00+00:00,110.0,0.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,0.0
+hurricane_delta_2020,48339,2020-10-10 16:00:00+00:00,455.0,1.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,0.21978021978021978
+hurricane_delta_2020,48347,2020-10-10 16:00:00+00:00,72.0,0.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,0.0
+hurricane_delta_2020,48351,2020-10-10 16:00:00+00:00,51.0,16.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,31.372549019607842
+hurricane_delta_2020,48361,2020-10-10 16:00:00+00:00,90.0,22.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,24.444444444444443
+hurricane_delta_2020,48373,2020-10-10 16:00:00+00:00,93.0,0.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,0.0
+hurricane_delta_2020,48403,2020-10-10 16:00:00+00:00,6.0,1.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,16.666666666666668
+hurricane_delta_2020,48405,2020-10-10 16:00:00+00:00,6.0,0.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,0.0
+hurricane_delta_2020,48407,2020-10-10 16:00:00+00:00,53.0,0.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,0.0
+hurricane_delta_2020,48419,2020-10-10 16:00:00+00:00,17.0,0.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,0.0
+hurricane_delta_2020,48441,2020-10-10 16:00:00+00:00,23.0,0.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,0.0
+hurricane_delta_2020,48457,2020-10-10 16:00:00+00:00,23.0,0.0,https://docs.fcc.gov/public/attachments/DOC-367454A1.pdf,2020-10-09 23:00:00+00:00,staged non-NC,17.0,0.0
+hurricane_florence_2018,13001,2018-09-15 15:00:00+00:00,39.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,staged non-NC,27.75,0.0
+hurricane_florence_2018,13005,2018-09-15 15:00:00+00:00,26.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,staged non-NC,27.75,0.0
+hurricane_florence_2018,13029,2018-09-15 15:00:00+00:00,78.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,staged non-NC,27.75,0.0
+hurricane_florence_2018,13031,2018-09-15 15:00:00+00:00,136.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,staged non-NC,27.75,0.0
+hurricane_florence_2018,13033,2018-09-15 15:00:00+00:00,59.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,staged non-NC,27.75,0.0
+hurricane_florence_2018,45005,2018-09-15 15:00:00+00:00,16.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,staged non-NC,27.75,0.0
+hurricane_florence_2018,45009,2018-09-15 15:00:00+00:00,37.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,staged non-NC,27.75,0.0
+hurricane_florence_2018,45011,2018-09-15 15:00:00+00:00,57.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,staged non-NC,27.75,0.0
+hurricane_florence_2018,45013,2018-09-15 15:00:00+00:00,225.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,staged non-NC,27.75,0.0
+hurricane_florence_2018,45015,2018-09-15 15:00:00+00:00,250.0,1.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,staged non-NC,27.75,0.4
+hurricane_florence_2018,45017,2018-09-15 15:00:00+00:00,30.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,staged non-NC,27.75,0.0
+hurricane_florence_2018,45019,2018-09-15 15:00:00+00:00,588.0,3.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,staged non-NC,27.75,0.5102040816326531
+hurricane_florence_2018,45025,2018-09-15 15:00:00+00:00,77.0,16.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,staged non-NC,27.75,20.77922077922078
+hurricane_florence_2018,45027,2018-09-15 15:00:00+00:00,103.0,2.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,staged non-NC,27.75,1.941747572815534
+hurricane_florence_2018,45029,2018-09-15 15:00:00+00:00,130.0,1.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,staged non-NC,27.75,0.7692307692307693
+hurricane_florence_2018,45031,2018-09-15 15:00:00+00:00,120.0,10.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,staged non-NC,27.75,8.333333333333334
+hurricane_florence_2018,45033,2018-09-15 15:00:00+00:00,69.0,14.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,staged non-NC,27.75,20.28985507246377
+hurricane_florence_2018,45035,2018-09-15 15:00:00+00:00,166.0,2.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,staged non-NC,27.75,1.2048192771084338
+hurricane_florence_2018,45041,2018-09-15 15:00:00+00:00,210.0,19.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,staged non-NC,27.75,9.047619047619047
+hurricane_florence_2018,45043,2018-09-15 15:00:00+00:00,142.0,4.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,staged non-NC,27.75,2.816901408450704
+hurricane_florence_2018,45049,2018-09-15 15:00:00+00:00,48.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,staged non-NC,27.75,0.0
+hurricane_florence_2018,45051,2018-09-15 15:00:00+00:00,434.0,93.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,staged non-NC,27.75,21.428571428571427
+hurricane_florence_2018,45053,2018-09-15 15:00:00+00:00,89.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,staged non-NC,27.75,0.0
+hurricane_florence_2018,45055,2018-09-15 15:00:00+00:00,96.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,staged non-NC,27.75,0.0
+hurricane_florence_2018,45061,2018-09-15 15:00:00+00:00,76.0,4.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,staged non-NC,27.75,5.2631578947368425
+hurricane_florence_2018,45067,2018-09-15 15:00:00+00:00,70.0,14.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,staged non-NC,27.75,20.0
+hurricane_florence_2018,45069,2018-09-15 15:00:00+00:00,47.0,16.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,staged non-NC,27.75,34.04255319148936
+hurricane_florence_2018,51550,2018-09-15 15:00:00+00:00,188.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,staged non-NC,27.75,0.0
+hurricane_florence_2018,51800,2018-09-15 15:00:00+00:00,84.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,staged non-NC,27.75,0.0
+hurricane_florence_2018,51810,2018-09-15 15:00:00+00:00,284.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,staged non-NC,27.75,0.0
+hurricane_harvey_2017,22001,2017-08-26 14:30:00+00:00,50.0,0.0,https://docs.fcc.gov/public/attachments/DOC-346368A1.pdf,2017-08-26 03:00:00+00:00,staged non-NC,11.5,0.0
+hurricane_harvey_2017,22007,2017-08-26 14:30:00+00:00,23.0,0.0,https://docs.fcc.gov/public/attachments/DOC-346368A1.pdf,2017-08-26 03:00:00+00:00,staged non-NC,11.5,0.0
+hurricane_harvey_2017,22019,2017-08-26 14:30:00+00:00,154.0,0.0,https://docs.fcc.gov/public/attachments/DOC-346368A1.pdf,2017-08-26 03:00:00+00:00,staged non-NC,11.5,0.0
+hurricane_harvey_2017,22023,2017-08-26 14:30:00+00:00,30.0,0.0,https://docs.fcc.gov/public/attachments/DOC-346368A1.pdf,2017-08-26 03:00:00+00:00,staged non-NC,11.5,0.0
+hurricane_harvey_2017,22045,2017-08-26 14:30:00+00:00,45.0,0.0,https://docs.fcc.gov/public/attachments/DOC-346368A1.pdf,2017-08-26 03:00:00+00:00,staged non-NC,11.5,0.0
+hurricane_harvey_2017,22051,2017-08-26 14:30:00+00:00,275.0,0.0,https://docs.fcc.gov/public/attachments/DOC-346368A1.pdf,2017-08-26 03:00:00+00:00,staged non-NC,11.5,0.0
+hurricane_harvey_2017,22053,2017-08-26 14:30:00+00:00,36.0,0.0,https://docs.fcc.gov/public/attachments/DOC-346368A1.pdf,2017-08-26 03:00:00+00:00,staged non-NC,11.5,0.0
+hurricane_harvey_2017,22055,2017-08-26 14:30:00+00:00,150.0,0.0,https://docs.fcc.gov/public/attachments/DOC-346368A1.pdf,2017-08-26 03:00:00+00:00,staged non-NC,11.5,0.0
+hurricane_harvey_2017,22057,2017-08-26 14:30:00+00:00,31.0,0.0,https://docs.fcc.gov/public/attachments/DOC-346368A1.pdf,2017-08-26 03:00:00+00:00,staged non-NC,11.5,0.0
+hurricane_harvey_2017,22071,2017-08-26 14:30:00+00:00,349.0,0.0,https://docs.fcc.gov/public/attachments/DOC-346368A1.pdf,2017-08-26 03:00:00+00:00,staged non-NC,11.5,0.0
+hurricane_harvey_2017,22075,2017-08-26 14:30:00+00:00,48.0,0.0,https://docs.fcc.gov/public/attachments/DOC-346368A1.pdf,2017-08-26 03:00:00+00:00,staged non-NC,11.5,0.0
+hurricane_harvey_2017,22087,2017-08-26 14:30:00+00:00,35.0,0.0,https://docs.fcc.gov/public/attachments/DOC-346368A1.pdf,2017-08-26 03:00:00+00:00,staged non-NC,11.5,0.0
+hurricane_harvey_2017,22089,2017-08-26 14:30:00+00:00,48.0,0.0,https://docs.fcc.gov/public/attachments/DOC-346368A1.pdf,2017-08-26 03:00:00+00:00,staged non-NC,11.5,0.0
+hurricane_harvey_2017,22093,2017-08-26 14:30:00+00:00,27.0,0.0,https://docs.fcc.gov/public/attachments/DOC-346368A1.pdf,2017-08-26 03:00:00+00:00,staged non-NC,11.5,0.0
+hurricane_harvey_2017,22095,2017-08-26 14:30:00+00:00,33.0,0.0,https://docs.fcc.gov/public/attachments/DOC-346368A1.pdf,2017-08-26 03:00:00+00:00,staged non-NC,11.5,0.0
+hurricane_harvey_2017,22099,2017-08-26 14:30:00+00:00,53.0,0.0,https://docs.fcc.gov/public/attachments/DOC-346368A1.pdf,2017-08-26 03:00:00+00:00,staged non-NC,11.5,0.0
+hurricane_harvey_2017,22101,2017-08-26 14:30:00+00:00,60.0,0.0,https://docs.fcc.gov/public/attachments/DOC-346368A1.pdf,2017-08-26 03:00:00+00:00,staged non-NC,11.5,0.0
+hurricane_harvey_2017,22109,2017-08-26 14:30:00+00:00,80.0,0.0,https://docs.fcc.gov/public/attachments/DOC-346368A1.pdf,2017-08-26 03:00:00+00:00,staged non-NC,11.5,0.0
+hurricane_harvey_2017,22113,2017-08-26 14:30:00+00:00,56.0,0.0,https://docs.fcc.gov/public/attachments/DOC-346368A1.pdf,2017-08-26 03:00:00+00:00,staged non-NC,11.5,0.0
+hurricane_harvey_2017,48007,2017-08-26 14:30:00+00:00,19.0,18.0,https://docs.fcc.gov/public/attachments/DOC-346368A1.pdf,2017-08-26 03:00:00+00:00,staged non-NC,11.5,94.73684210526316
+hurricane_harvey_2017,48013,2017-08-26 14:30:00+00:00,40.0,0.0,https://docs.fcc.gov/public/attachments/DOC-346368A1.pdf,2017-08-26 03:00:00+00:00,staged non-NC,11.5,0.0
+hurricane_ian_2022,12001,2022-09-30 16:00:00+00:00,274.0,3.0,https://docs.fcc.gov/public/attachments/DOC-387791A1.pdf,2022-09-28 02:00:00+00:00,staged non-NC,62.0,1.094890510948905
+hurricane_ian_2022,12003,2022-09-30 16:00:00+00:00,26.0,0.0,https://docs.fcc.gov/public/attachments/DOC-387791A1.pdf,2022-09-28 02:00:00+00:00,staged non-NC,62.0,0.0
+hurricane_ian_2022,12005,2022-09-30 16:00:00+00:00,279.0,1.0,https://docs.fcc.gov/public/attachments/DOC-387791A1.pdf,2022-09-28 02:00:00+00:00,staged non-NC,62.0,0.35842293906810035
+hurricane_ian_2022,12007,2022-09-30 16:00:00+00:00,35.0,0.0,https://docs.fcc.gov/public/attachments/DOC-387791A1.pdf,2022-09-28 02:00:00+00:00,staged non-NC,62.0,0.0
+hurricane_ian_2022,12009,2022-09-30 16:00:00+00:00,366.0,21.0,https://docs.fcc.gov/public/attachments/DOC-387791A1.pdf,2022-09-28 02:00:00+00:00,staged non-NC,62.0,5.737704918032787
+hurricane_ian_2022,12011,2022-09-30 16:00:00+00:00,878.0,5.0,https://docs.fcc.gov/public/attachments/DOC-387791A1.pdf,2022-09-28 02:00:00+00:00,staged non-NC,62.0,0.5694760820045558
+hurricane_ian_2022,12013,2022-09-30 16:00:00+00:00,22.0,1.0,https://docs.fcc.gov/public/attachments/DOC-387791A1.pdf,2022-09-28 02:00:00+00:00,staged non-NC,62.0,4.545454545454546
+hurricane_ian_2022,12015,2022-09-30 16:00:00+00:00,114.0,53.0,https://docs.fcc.gov/public/attachments/DOC-387791A1.pdf,2022-09-28 02:00:00+00:00,staged non-NC,62.0,46.49122807017544
+hurricane_ian_2022,12017,2022-09-30 16:00:00+00:00,138.0,4.0,https://docs.fcc.gov/public/attachments/DOC-387791A1.pdf,2022-09-28 02:00:00+00:00,staged non-NC,62.0,2.898550724637681
+hurricane_ian_2022,12019,2022-09-30 16:00:00+00:00,169.0,0.0,https://docs.fcc.gov/public/attachments/DOC-387791A1.pdf,2022-09-28 02:00:00+00:00,staged non-NC,62.0,0.0
+hurricane_ian_2022,12021,2022-09-30 16:00:00+00:00,219.0,47.0,https://docs.fcc.gov/public/attachments/DOC-387791A1.pdf,2022-09-28 02:00:00+00:00,staged non-NC,62.0,21.461187214611872
+hurricane_ian_2022,12023,2022-09-30 16:00:00+00:00,88.0,0.0,https://docs.fcc.gov/public/attachments/DOC-387791A1.pdf,2022-09-28 02:00:00+00:00,staged non-NC,62.0,0.0
+hurricane_ian_2022,12027,2022-09-30 16:00:00+00:00,26.0,17.0,https://docs.fcc.gov/public/attachments/DOC-387791A1.pdf,2022-09-28 02:00:00+00:00,staged non-NC,62.0,65.38461538461539
+hurricane_ian_2022,12029,2022-09-30 16:00:00+00:00,30.0,1.0,https://docs.fcc.gov/public/attachments/DOC-387791A1.pdf,2022-09-28 02:00:00+00:00,staged non-NC,62.0,3.3333333333333335
+hurricane_ian_2022,12031,2022-09-30 16:00:00+00:00,754.0,7.0,https://docs.fcc.gov/public/attachments/DOC-387791A1.pdf,2022-09-28 02:00:00+00:00,staged non-NC,62.0,0.9283819628647215
+hurricane_ian_2022,12035,2022-09-30 16:00:00+00:00,90.0,4.0,https://docs.fcc.gov/public/attachments/DOC-387791A1.pdf,2022-09-28 02:00:00+00:00,staged non-NC,62.0,4.444444444444445
+hurricane_ian_2022,12037,2022-09-30 16:00:00+00:00,32.0,0.0,https://docs.fcc.gov/public/attachments/DOC-387791A1.pdf,2022-09-28 02:00:00+00:00,staged non-NC,62.0,0.0
+hurricane_ian_2022,12039,2022-09-30 16:00:00+00:00,58.0,0.0,https://docs.fcc.gov/public/attachments/DOC-387791A1.pdf,2022-09-28 02:00:00+00:00,staged non-NC,62.0,0.0
+hurricane_ian_2022,12041,2022-09-30 16:00:00+00:00,19.0,1.0,https://docs.fcc.gov/public/attachments/DOC-387791A1.pdf,2022-09-28 02:00:00+00:00,staged non-NC,62.0,5.2631578947368425
+hurricane_ian_2022,12043,2022-09-30 16:00:00+00:00,29.0,24.0,https://docs.fcc.gov/public/attachments/DOC-387791A1.pdf,2022-09-28 02:00:00+00:00,staged non-NC,62.0,82.75862068965517
+hurricane_ian_2022,12045,2022-09-30 16:00:00+00:00,25.0,1.0,https://docs.fcc.gov/public/attachments/DOC-387791A1.pdf,2022-09-28 02:00:00+00:00,staged non-NC,62.0,4.0
+hurricane_ian_2022,12047,2022-09-30 16:00:00+00:00,28.0,0.0,https://docs.fcc.gov/public/attachments/DOC-387791A1.pdf,2022-09-28 02:00:00+00:00,staged non-NC,62.0,0.0
+hurricane_ian_2022,12049,2022-09-30 16:00:00+00:00,39.0,20.0,https://docs.fcc.gov/public/attachments/DOC-387791A1.pdf,2022-09-28 02:00:00+00:00,staged non-NC,62.0,51.282051282051285
+hurricane_ian_2022,12051,2022-09-30 16:00:00+00:00,56.0,31.0,https://docs.fcc.gov/public/attachments/DOC-387791A1.pdf,2022-09-28 02:00:00+00:00,staged non-NC,62.0,55.357142857142854
+hurricane_ian_2022,12053,2022-09-30 16:00:00+00:00,137.0,3.0,https://docs.fcc.gov/public/attachments/DOC-387791A1.pdf,2022-09-28 02:00:00+00:00,staged non-NC,62.0,2.18978102189781
+hurricane_ian_2022,12055,2022-09-30 16:00:00+00:00,80.0,40.0,https://docs.fcc.gov/public/attachments/DOC-387791A1.pdf,2022-09-28 02:00:00+00:00,staged non-NC,62.0,50.0
+hurricane_ian_2022,12057,2022-09-30 16:00:00+00:00,1297.0,70.0,https://docs.fcc.gov/public/attachments/DOC-387791A1.pdf,2022-09-28 02:00:00+00:00,staged non-NC,62.0,5.397070161912104
+hurricane_ian_2022,12059,2022-09-30 16:00:00+00:00,34.0,0.0,https://docs.fcc.gov/public/attachments/DOC-387791A1.pdf,2022-09-28 02:00:00+00:00,staged non-NC,62.0,0.0
+hurricane_ian_2022,12061,2022-09-30 16:00:00+00:00,97.0,2.0,https://docs.fcc.gov/public/attachments/DOC-387791A1.pdf,2022-09-28 02:00:00+00:00,staged non-NC,62.0,2.0618556701030926
+hurricane_ian_2022,12063,2022-09-30 16:00:00+00:00,83.0,0.0,https://docs.fcc.gov/public/attachments/DOC-387791A1.pdf,2022-09-28 02:00:00+00:00,staged non-NC,62.0,0.0
+hurricane_ian_2022,12065,2022-09-30 16:00:00+00:00,38.0,1.0,https://docs.fcc.gov/public/attachments/DOC-387791A1.pdf,2022-09-28 02:00:00+00:00,staged non-NC,62.0,2.6315789473684212
+hurricane_ian_2022,12067,2022-09-30 16:00:00+00:00,19.0,0.0,https://docs.fcc.gov/public/attachments/DOC-387791A1.pdf,2022-09-28 02:00:00+00:00,staged non-NC,62.0,0.0
+hurricane_ian_2022,12069,2022-09-30 16:00:00+00:00,235.0,19.0,https://docs.fcc.gov/public/attachments/DOC-387791A1.pdf,2022-09-28 02:00:00+00:00,staged non-NC,62.0,8.085106382978724
+hurricane_ian_2022,12071,2022-09-30 16:00:00+00:00,394.0,145.0,https://docs.fcc.gov/public/attachments/DOC-387791A1.pdf,2022-09-28 02:00:00+00:00,staged non-NC,62.0,36.80203045685279
+hurricane_ian_2022,12073,2022-09-30 16:00:00+00:00,266.0,2.0,https://docs.fcc.gov/public/attachments/DOC-387791A1.pdf,2022-09-28 02:00:00+00:00,staged non-NC,62.0,0.7518796992481203
+hurricane_ian_2022,12075,2022-09-30 16:00:00+00:00,84.0,1.0,https://docs.fcc.gov/public/attachments/DOC-387791A1.pdf,2022-09-28 02:00:00+00:00,staged non-NC,62.0,1.1904761904761905
+hurricane_ian_2022,12077,2022-09-30 16:00:00+00:00,10.0,0.0,https://docs.fcc.gov/public/attachments/DOC-387791A1.pdf,2022-09-28 02:00:00+00:00,staged non-NC,62.0,0.0
+hurricane_ian_2022,12079,2022-09-30 16:00:00+00:00,39.0,1.0,https://docs.fcc.gov/public/attachments/DOC-387791A1.pdf,2022-09-28 02:00:00+00:00,staged non-NC,62.0,2.5641025641025643
+hurricane_ian_2022,12081,2022-09-30 16:00:00+00:00,222.0,41.0,https://docs.fcc.gov/public/attachments/DOC-387791A1.pdf,2022-09-28 02:00:00+00:00,staged non-NC,62.0,18.46846846846847
+hurricane_ian_2022,12083,2022-09-30 16:00:00+00:00,306.0,7.0,https://docs.fcc.gov/public/attachments/DOC-387791A1.pdf,2022-09-28 02:00:00+00:00,staged non-NC,62.0,2.287581699346405
+hurricane_ian_2022,12085,2022-09-30 16:00:00+00:00,103.0,0.0,https://docs.fcc.gov/public/attachments/DOC-387791A1.pdf,2022-09-28 02:00:00+00:00,staged non-NC,62.0,0.0
+hurricane_ian_2022,12086,2022-09-30 16:00:00+00:00,1361.0,10.0,https://docs.fcc.gov/public/attachments/DOC-387791A1.pdf,2022-09-28 02:00:00+00:00,staged non-NC,62.0,0.7347538574577517
+hurricane_ian_2022,12087,2022-09-30 16:00:00+00:00,99.0,6.0,https://docs.fcc.gov/public/attachments/DOC-387791A1.pdf,2022-09-28 02:00:00+00:00,staged non-NC,62.0,6.0606060606060606
+hurricane_ian_2022,12089,2022-09-30 16:00:00+00:00,103.0,2.0,https://docs.fcc.gov/public/attachments/DOC-387791A1.pdf,2022-09-28 02:00:00+00:00,staged non-NC,62.0,1.941747572815534
+hurricane_ian_2022,12091,2022-09-30 16:00:00+00:00,103.0,0.0,https://docs.fcc.gov/public/attachments/DOC-387791A1.pdf,2022-09-28 02:00:00+00:00,staged non-NC,62.0,0.0
+hurricane_ian_2022,12093,2022-09-30 16:00:00+00:00,59.0,21.0,https://docs.fcc.gov/public/attachments/DOC-387791A1.pdf,2022-09-28 02:00:00+00:00,staged non-NC,62.0,35.59322033898305
+hurricane_ian_2022,12095,2022-09-30 16:00:00+00:00,1128.0,107.0,https://docs.fcc.gov/public/attachments/DOC-387791A1.pdf,2022-09-28 02:00:00+00:00,staged non-NC,62.0,9.48581560283688
+hurricane_ian_2022,12097,2022-09-30 16:00:00+00:00,257.0,23.0,https://docs.fcc.gov/public/attachments/DOC-387791A1.pdf,2022-09-28 02:00:00+00:00,staged non-NC,62.0,8.949416342412452
+hurricane_ian_2022,12099,2022-09-30 16:00:00+00:00,683.0,8.0,https://docs.fcc.gov/public/attachments/DOC-387791A1.pdf,2022-09-28 02:00:00+00:00,staged non-NC,62.0,1.171303074670571
+hurricane_ian_2022,12101,2022-09-30 16:00:00+00:00,329.0,6.0,https://docs.fcc.gov/public/attachments/DOC-387791A1.pdf,2022-09-28 02:00:00+00:00,staged non-NC,62.0,1.8237082066869301
+hurricane_ian_2022,12103,2022-09-30 16:00:00+00:00,587.0,27.0,https://docs.fcc.gov/public/attachments/DOC-387791A1.pdf,2022-09-28 02:00:00+00:00,staged non-NC,62.0,4.599659284497444
+hurricane_ian_2022,12105,2022-09-30 16:00:00+00:00,486.0,51.0,https://docs.fcc.gov/public/attachments/DOC-387791A1.pdf,2022-09-28 02:00:00+00:00,staged non-NC,62.0,10.493827160493828
+hurricane_ian_2022,12107,2022-09-30 16:00:00+00:00,85.0,3.0,https://docs.fcc.gov/public/attachments/DOC-387791A1.pdf,2022-09-28 02:00:00+00:00,staged non-NC,62.0,3.5294117647058822
+hurricane_ian_2022,12109,2022-09-30 16:00:00+00:00,239.0,8.0,https://docs.fcc.gov/public/attachments/DOC-387791A1.pdf,2022-09-28 02:00:00+00:00,staged non-NC,62.0,3.3472803347280333
+hurricane_ian_2022,12111,2022-09-30 16:00:00+00:00,161.0,0.0,https://docs.fcc.gov/public/attachments/DOC-387791A1.pdf,2022-09-28 02:00:00+00:00,staged non-NC,62.0,0.0
+hurricane_ian_2022,12115,2022-09-30 16:00:00+00:00,225.0,52.0,https://docs.fcc.gov/public/attachments/DOC-387791A1.pdf,2022-09-28 02:00:00+00:00,staged non-NC,62.0,23.11111111111111
+hurricane_ian_2022,12117,2022-09-30 16:00:00+00:00,296.0,71.0,https://docs.fcc.gov/public/attachments/DOC-387791A1.pdf,2022-09-28 02:00:00+00:00,staged non-NC,62.0,23.986486486486488
+hurricane_ian_2022,12119,2022-09-30 16:00:00+00:00,113.0,5.0,https://docs.fcc.gov/public/attachments/DOC-387791A1.pdf,2022-09-28 02:00:00+00:00,staged non-NC,62.0,4.424778761061947
+hurricane_ian_2022,12121,2022-09-30 16:00:00+00:00,61.0,0.0,https://docs.fcc.gov/public/attachments/DOC-387791A1.pdf,2022-09-28 02:00:00+00:00,staged non-NC,62.0,0.0
+hurricane_ian_2022,12123,2022-09-30 16:00:00+00:00,49.0,2.0,https://docs.fcc.gov/public/attachments/DOC-387791A1.pdf,2022-09-28 02:00:00+00:00,staged non-NC,62.0,4.081632653061225
+hurricane_ian_2022,12125,2022-09-30 16:00:00+00:00,16.0,0.0,https://docs.fcc.gov/public/attachments/DOC-387791A1.pdf,2022-09-28 02:00:00+00:00,staged non-NC,62.0,0.0
+hurricane_ian_2022,12127,2022-09-30 16:00:00+00:00,421.0,119.0,https://docs.fcc.gov/public/attachments/DOC-387791A1.pdf,2022-09-28 02:00:00+00:00,staged non-NC,62.0,28.26603325415677
+hurricane_ian_2022,12129,2022-09-30 16:00:00+00:00,38.0,0.0,https://docs.fcc.gov/public/attachments/DOC-387791A1.pdf,2022-09-28 02:00:00+00:00,staged non-NC,62.0,0.0
+hurricane_ian_2022,12133,2022-09-30 16:00:00+00:00,51.0,2.0,https://docs.fcc.gov/public/attachments/DOC-387791A1.pdf,2022-09-28 02:00:00+00:00,staged non-NC,62.0,3.9215686274509802
+hurricane_ida_2021,01003,2021-09-02 15:00:00+00:00,329.0,12.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,3.6474164133738602
+hurricane_ida_2021,01025,2021-09-02 15:00:00+00:00,46.0,0.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,0.0
+hurricane_ida_2021,01035,2021-09-02 15:00:00+00:00,39.0,0.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,0.0
+hurricane_ida_2021,01053,2021-09-02 15:00:00+00:00,55.0,1.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,1.8181818181818181
+hurricane_ida_2021,01097,2021-09-02 15:00:00+00:00,487.0,8.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,1.6427104722792607
+hurricane_ida_2021,01099,2021-09-02 15:00:00+00:00,31.0,0.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,0.0
+hurricane_ida_2021,01129,2021-09-02 15:00:00+00:00,32.0,0.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,0.0
+hurricane_ida_2021,22001,2021-09-02 15:00:00+00:00,45.0,1.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,2.2222222222222223
+hurricane_ida_2021,22005,2021-09-02 15:00:00+00:00,88.0,34.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,38.63636363636363
+hurricane_ida_2021,22007,2021-09-02 15:00:00+00:00,19.0,4.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,21.05263157894737
+hurricane_ida_2021,22009,2021-09-02 15:00:00+00:00,52.0,0.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,0.0
+hurricane_ida_2021,22033,2021-09-02 15:00:00+00:00,360.0,46.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,12.777777777777779
+hurricane_ida_2021,22037,2021-09-02 15:00:00+00:00,27.0,2.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,7.407407407407407
+hurricane_ida_2021,22039,2021-09-02 15:00:00+00:00,41.0,0.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,0.0
+hurricane_ida_2021,22045,2021-09-02 15:00:00+00:00,46.0,1.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,2.1739130434782608
+hurricane_ida_2021,22047,2021-09-02 15:00:00+00:00,42.0,4.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,9.523809523809524
+hurricane_ida_2021,22051,2021-09-02 15:00:00+00:00,289.0,144.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,49.826989619377166
+hurricane_ida_2021,22055,2021-09-02 15:00:00+00:00,154.0,0.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,0.0
+hurricane_ida_2021,22057,2021-09-02 15:00:00+00:00,78.0,46.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,58.97435897435897
+hurricane_ida_2021,22063,2021-09-02 15:00:00+00:00,121.0,20.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,16.52892561983471
+hurricane_ida_2021,22071,2021-09-02 15:00:00+00:00,348.0,102.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,29.310344827586206
+hurricane_ida_2021,22075,2021-09-02 15:00:00+00:00,56.0,41.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,73.21428571428571
+hurricane_ida_2021,22077,2021-09-02 15:00:00+00:00,25.0,7.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,28.0
+hurricane_ida_2021,22087,2021-09-02 15:00:00+00:00,36.0,15.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,41.666666666666664
+hurricane_ida_2021,22089,2021-09-02 15:00:00+00:00,41.0,15.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,36.58536585365854
+hurricane_ida_2021,22091,2021-09-02 15:00:00+00:00,13.0,5.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,38.46153846153846
+hurricane_ida_2021,22093,2021-09-02 15:00:00+00:00,33.0,25.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,75.75757575757575
+hurricane_ida_2021,22095,2021-09-02 15:00:00+00:00,27.0,11.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,40.74074074074074
+hurricane_ida_2021,22097,2021-09-02 15:00:00+00:00,85.0,6.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,7.0588235294117645
+hurricane_ida_2021,22099,2021-09-02 15:00:00+00:00,48.0,1.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,2.0833333333333335
+hurricane_ida_2021,22101,2021-09-02 15:00:00+00:00,56.0,5.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,8.928571428571429
+hurricane_ida_2021,22103,2021-09-02 15:00:00+00:00,260.0,69.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,26.53846153846154
+hurricane_ida_2021,22105,2021-09-02 15:00:00+00:00,118.0,53.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,44.91525423728814
+hurricane_ida_2021,22109,2021-09-02 15:00:00+00:00,81.0,39.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,48.148148148148145
+hurricane_ida_2021,22113,2021-09-02 15:00:00+00:00,55.0,0.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,0.0
+hurricane_ida_2021,22117,2021-09-02 15:00:00+00:00,55.0,7.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,12.727272727272727
+hurricane_ida_2021,22121,2021-09-02 15:00:00+00:00,32.0,0.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,0.0
+hurricane_ida_2021,22125,2021-09-02 15:00:00+00:00,28.0,1.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,3.5714285714285716
+hurricane_ida_2021,28001,2021-09-02 15:00:00+00:00,41.0,0.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,0.0
+hurricane_ida_2021,28003,2021-09-02 15:00:00+00:00,34.0,0.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,0.0
+hurricane_ida_2021,28005,2021-09-02 15:00:00+00:00,24.0,0.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,0.0
+hurricane_ida_2021,28007,2021-09-02 15:00:00+00:00,19.0,0.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,0.0
+hurricane_ida_2021,28009,2021-09-02 15:00:00+00:00,19.0,0.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,0.0
+hurricane_ida_2021,28011,2021-09-02 15:00:00+00:00,28.0,0.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,0.0
+hurricane_ida_2021,28013,2021-09-02 15:00:00+00:00,19.0,0.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,0.0
+hurricane_ida_2021,28015,2021-09-02 15:00:00+00:00,24.0,0.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,0.0
+hurricane_ida_2021,28017,2021-09-02 15:00:00+00:00,17.0,0.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,0.0
+hurricane_ida_2021,28019,2021-09-02 15:00:00+00:00,15.0,0.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,0.0
+hurricane_ida_2021,28021,2021-09-02 15:00:00+00:00,12.0,0.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,0.0
+hurricane_ida_2021,28025,2021-09-02 15:00:00+00:00,10.0,0.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,0.0
+hurricane_ida_2021,28027,2021-09-02 15:00:00+00:00,26.0,0.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,0.0
+hurricane_ida_2021,28029,2021-09-02 15:00:00+00:00,37.0,0.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,0.0
+hurricane_ida_2021,28033,2021-09-02 15:00:00+00:00,160.0,0.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,0.0
+hurricane_ida_2021,28035,2021-09-02 15:00:00+00:00,84.0,1.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,1.1904761904761905
+hurricane_ida_2021,28037,2021-09-02 15:00:00+00:00,29.0,0.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,0.0
+hurricane_ida_2021,28039,2021-09-02 15:00:00+00:00,40.0,0.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,0.0
+hurricane_ida_2021,28041,2021-09-02 15:00:00+00:00,34.0,1.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,2.9411764705882355
+hurricane_ida_2021,28043,2021-09-02 15:00:00+00:00,33.0,0.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,0.0
+hurricane_ida_2021,28045,2021-09-02 15:00:00+00:00,61.0,2.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,3.278688524590164
+hurricane_ida_2021,28047,2021-09-02 15:00:00+00:00,208.0,3.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,1.4423076923076923
+hurricane_ida_2021,28049,2021-09-02 15:00:00+00:00,199.0,6.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,3.0150753768844223
+hurricane_ida_2021,28051,2021-09-02 15:00:00+00:00,31.0,1.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,3.225806451612903
+hurricane_ida_2021,28053,2021-09-02 15:00:00+00:00,7.0,0.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,0.0
+hurricane_ida_2021,28055,2021-09-02 15:00:00+00:00,3.0,1.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,33.333333333333336
+hurricane_ida_2021,28057,2021-09-02 15:00:00+00:00,28.0,0.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,0.0
+hurricane_ida_2021,28059,2021-09-02 15:00:00+00:00,132.0,1.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,0.7575757575757576
+hurricane_ida_2021,28063,2021-09-02 15:00:00+00:00,45.0,1.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,2.2222222222222223
+hurricane_ida_2021,28071,2021-09-02 15:00:00+00:00,83.0,0.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,0.0
+hurricane_ida_2021,28073,2021-09-02 15:00:00+00:00,75.0,3.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,4.0
+hurricane_ida_2021,28081,2021-09-02 15:00:00+00:00,86.0,0.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,0.0
+hurricane_ida_2021,28083,2021-09-02 15:00:00+00:00,35.0,0.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,0.0
+hurricane_ida_2021,28085,2021-09-02 15:00:00+00:00,59.0,0.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,0.0
+hurricane_ida_2021,28089,2021-09-02 15:00:00+00:00,120.0,7.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,5.833333333333333
+hurricane_ida_2021,28091,2021-09-02 15:00:00+00:00,25.0,0.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,0.0
+hurricane_ida_2021,28093,2021-09-02 15:00:00+00:00,56.0,0.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,0.0
+hurricane_ida_2021,28095,2021-09-02 15:00:00+00:00,52.0,1.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,1.9230769230769231
+hurricane_ida_2021,28097,2021-09-02 15:00:00+00:00,23.0,0.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,0.0
+hurricane_ida_2021,28107,2021-09-02 15:00:00+00:00,40.0,3.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,7.5
+hurricane_ida_2021,28109,2021-09-02 15:00:00+00:00,82.0,0.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,0.0
+hurricane_ida_2021,28111,2021-09-02 15:00:00+00:00,25.0,0.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,0.0
+hurricane_ida_2021,28113,2021-09-02 15:00:00+00:00,46.0,3.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,6.521739130434782
+hurricane_ida_2021,28115,2021-09-02 15:00:00+00:00,37.0,0.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,0.0
+hurricane_ida_2021,28117,2021-09-02 15:00:00+00:00,17.0,0.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,0.0
+hurricane_ida_2021,28119,2021-09-02 15:00:00+00:00,8.0,0.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,0.0
+hurricane_ida_2021,28125,2021-09-02 15:00:00+00:00,11.0,2.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,18.181818181818183
+hurricane_ida_2021,28131,2021-09-02 15:00:00+00:00,19.0,0.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,0.0
+hurricane_ida_2021,28133,2021-09-02 15:00:00+00:00,24.0,0.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,0.0
+hurricane_ida_2021,28135,2021-09-02 15:00:00+00:00,19.0,0.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,0.0
+hurricane_ida_2021,28137,2021-09-02 15:00:00+00:00,35.0,0.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,0.0
+hurricane_ida_2021,28139,2021-09-02 15:00:00+00:00,22.0,0.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,0.0
+hurricane_ida_2021,28141,2021-09-02 15:00:00+00:00,19.0,0.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,0.0
+hurricane_ida_2021,28143,2021-09-02 15:00:00+00:00,31.0,0.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,0.0
+hurricane_ida_2021,28145,2021-09-02 15:00:00+00:00,33.0,0.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,0.0
+hurricane_ida_2021,28147,2021-09-02 15:00:00+00:00,25.0,1.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,4.0
+hurricane_ida_2021,28149,2021-09-02 15:00:00+00:00,50.0,2.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,4.0
+hurricane_ida_2021,28151,2021-09-02 15:00:00+00:00,35.0,0.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,0.0
+hurricane_ida_2021,28155,2021-09-02 15:00:00+00:00,22.0,0.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,0.0
+hurricane_ida_2021,28157,2021-09-02 15:00:00+00:00,18.0,0.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,0.0
+hurricane_ida_2021,28161,2021-09-02 15:00:00+00:00,26.0,0.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,0.0
+hurricane_ida_2021,28163,2021-09-02 15:00:00+00:00,37.0,1.0,https://docs.fcc.gov/public/attachments/DOC-375442A1.pdf,2021-08-29 16:55:00+00:00,staged non-NC,94.08333333333333,2.7027027027027026
+hurricane_idalia_2023,12001,2023-08-30 16:00:00+00:00,186.0,5.0,https://docs.fcc.gov/public/attachments/DOC-396514A1.pdf,2023-08-30 11:45:00+00:00,staged non-NC,4.25,2.6881720430107525
+hurricane_idalia_2023,12003,2023-08-30 16:00:00+00:00,18.0,0.0,https://docs.fcc.gov/public/attachments/DOC-396514A1.pdf,2023-08-30 11:45:00+00:00,staged non-NC,4.25,0.0
+hurricane_idalia_2023,12005,2023-08-30 16:00:00+00:00,203.0,0.0,https://docs.fcc.gov/public/attachments/DOC-396514A1.pdf,2023-08-30 11:45:00+00:00,staged non-NC,4.25,0.0
+hurricane_idalia_2023,12007,2023-08-30 16:00:00+00:00,31.0,0.0,https://docs.fcc.gov/public/attachments/DOC-396514A1.pdf,2023-08-30 11:45:00+00:00,staged non-NC,4.25,0.0
+hurricane_idalia_2023,12013,2023-08-30 16:00:00+00:00,18.0,0.0,https://docs.fcc.gov/public/attachments/DOC-396514A1.pdf,2023-08-30 11:45:00+00:00,staged non-NC,4.25,0.0
+hurricane_idalia_2023,12015,2023-08-30 16:00:00+00:00,92.0,0.0,https://docs.fcc.gov/public/attachments/DOC-396514A1.pdf,2023-08-30 11:45:00+00:00,staged non-NC,4.25,0.0
+hurricane_idalia_2023,12017,2023-08-30 16:00:00+00:00,124.0,3.0,https://docs.fcc.gov/public/attachments/DOC-396514A1.pdf,2023-08-30 11:45:00+00:00,staged non-NC,4.25,2.4193548387096775
+hurricane_idalia_2023,12019,2023-08-30 16:00:00+00:00,136.0,0.0,https://docs.fcc.gov/public/attachments/DOC-396514A1.pdf,2023-08-30 11:45:00+00:00,staged non-NC,4.25,0.0
+hurricane_idalia_2023,12023,2023-08-30 16:00:00+00:00,66.0,1.0,https://docs.fcc.gov/public/attachments/DOC-396514A1.pdf,2023-08-30 11:45:00+00:00,staged non-NC,4.25,1.5151515151515151
+hurricane_idalia_2023,12027,2023-08-30 16:00:00+00:00,14.0,0.0,https://docs.fcc.gov/public/attachments/DOC-396514A1.pdf,2023-08-30 11:45:00+00:00,staged non-NC,4.25,0.0
+hurricane_idalia_2023,12029,2023-08-30 16:00:00+00:00,20.0,2.0,https://docs.fcc.gov/public/attachments/DOC-396514A1.pdf,2023-08-30 11:45:00+00:00,staged non-NC,4.25,10.0
+hurricane_idalia_2023,12031,2023-08-30 16:00:00+00:00,581.0,0.0,https://docs.fcc.gov/public/attachments/DOC-396514A1.pdf,2023-08-30 11:45:00+00:00,staged non-NC,4.25,0.0
+hurricane_idalia_2023,12035,2023-08-30 16:00:00+00:00,61.0,0.0,https://docs.fcc.gov/public/attachments/DOC-396514A1.pdf,2023-08-30 11:45:00+00:00,staged non-NC,4.25,0.0
+hurricane_idalia_2023,12037,2023-08-30 16:00:00+00:00,22.0,1.0,https://docs.fcc.gov/public/attachments/DOC-396514A1.pdf,2023-08-30 11:45:00+00:00,staged non-NC,4.25,4.545454545454546
+hurricane_idalia_2023,12039,2023-08-30 16:00:00+00:00,44.0,1.0,https://docs.fcc.gov/public/attachments/DOC-396514A1.pdf,2023-08-30 11:45:00+00:00,staged non-NC,4.25,2.272727272727273
+hurricane_idalia_2023,12041,2023-08-30 16:00:00+00:00,17.0,0.0,https://docs.fcc.gov/public/attachments/DOC-396514A1.pdf,2023-08-30 11:45:00+00:00,staged non-NC,4.25,0.0
+hurricane_idalia_2023,12045,2023-08-30 16:00:00+00:00,20.0,0.0,https://docs.fcc.gov/public/attachments/DOC-396514A1.pdf,2023-08-30 11:45:00+00:00,staged non-NC,4.25,0.0
+hurricane_idalia_2023,12047,2023-08-30 16:00:00+00:00,22.0,0.0,https://docs.fcc.gov/public/attachments/DOC-396514A1.pdf,2023-08-30 11:45:00+00:00,staged non-NC,4.25,0.0
+hurricane_idalia_2023,12049,2023-08-30 16:00:00+00:00,27.0,0.0,https://docs.fcc.gov/public/attachments/DOC-396514A1.pdf,2023-08-30 11:45:00+00:00,staged non-NC,4.25,0.0
+hurricane_idalia_2023,12053,2023-08-30 16:00:00+00:00,117.0,1.0,https://docs.fcc.gov/public/attachments/DOC-396514A1.pdf,2023-08-30 11:45:00+00:00,staged non-NC,4.25,0.8547008547008547
+hurricane_idalia_2023,12057,2023-08-30 16:00:00+00:00,994.0,3.0,https://docs.fcc.gov/public/attachments/DOC-396514A1.pdf,2023-08-30 11:45:00+00:00,staged non-NC,4.25,0.30181086519114686
+hurricane_idalia_2023,12065,2023-08-30 16:00:00+00:00,29.0,0.0,https://docs.fcc.gov/public/attachments/DOC-396514A1.pdf,2023-08-30 11:45:00+00:00,staged non-NC,4.25,0.0
+hurricane_idalia_2023,12067,2023-08-30 16:00:00+00:00,15.0,0.0,https://docs.fcc.gov/public/attachments/DOC-396514A1.pdf,2023-08-30 11:45:00+00:00,staged non-NC,4.25,0.0
+hurricane_idalia_2023,12069,2023-08-30 16:00:00+00:00,223.0,10.0,https://docs.fcc.gov/public/attachments/DOC-396514A1.pdf,2023-08-30 11:45:00+00:00,staged non-NC,4.25,4.484304932735426
+hurricane_idalia_2023,12071,2023-08-30 16:00:00+00:00,314.0,4.0,https://docs.fcc.gov/public/attachments/DOC-396514A1.pdf,2023-08-30 11:45:00+00:00,staged non-NC,4.25,1.2738853503184713
+hurricane_idalia_2023,12073,2023-08-30 16:00:00+00:00,196.0,5.0,https://docs.fcc.gov/public/attachments/DOC-396514A1.pdf,2023-08-30 11:45:00+00:00,staged non-NC,4.25,2.5510204081632653
+hurricane_idalia_2023,12075,2023-08-30 16:00:00+00:00,67.0,5.0,https://docs.fcc.gov/public/attachments/DOC-396514A1.pdf,2023-08-30 11:45:00+00:00,staged non-NC,4.25,7.462686567164179
+hurricane_idalia_2023,12077,2023-08-30 16:00:00+00:00,8.0,0.0,https://docs.fcc.gov/public/attachments/DOC-396514A1.pdf,2023-08-30 11:45:00+00:00,staged non-NC,4.25,0.0
+hurricane_idalia_2023,12079,2023-08-30 16:00:00+00:00,34.0,0.0,https://docs.fcc.gov/public/attachments/DOC-396514A1.pdf,2023-08-30 11:45:00+00:00,staged non-NC,4.25,0.0
+hurricane_idalia_2023,12081,2023-08-30 16:00:00+00:00,121.0,1.0,https://docs.fcc.gov/public/attachments/DOC-396514A1.pdf,2023-08-30 11:45:00+00:00,staged non-NC,4.25,0.8264462809917356
+hurricane_idalia_2023,12083,2023-08-30 16:00:00+00:00,263.0,9.0,https://docs.fcc.gov/public/attachments/DOC-396514A1.pdf,2023-08-30 11:45:00+00:00,staged non-NC,4.25,3.4220532319391634
+hurricane_idalia_2023,12101,2023-08-30 16:00:00+00:00,253.0,1.0,https://docs.fcc.gov/public/attachments/DOC-396514A1.pdf,2023-08-30 11:45:00+00:00,staged non-NC,4.25,0.3952569169960474
+hurricane_idalia_2023,12103,2023-08-30 16:00:00+00:00,426.0,4.0,https://docs.fcc.gov/public/attachments/DOC-396514A1.pdf,2023-08-30 11:45:00+00:00,staged non-NC,4.25,0.9389671361502347
+hurricane_idalia_2023,12105,2023-08-30 16:00:00+00:00,282.0,0.0,https://docs.fcc.gov/public/attachments/DOC-396514A1.pdf,2023-08-30 11:45:00+00:00,staged non-NC,4.25,0.0
+hurricane_idalia_2023,12107,2023-08-30 16:00:00+00:00,68.0,1.0,https://docs.fcc.gov/public/attachments/DOC-396514A1.pdf,2023-08-30 11:45:00+00:00,staged non-NC,4.25,1.4705882352941178
+hurricane_idalia_2023,12109,2023-08-30 16:00:00+00:00,192.0,1.0,https://docs.fcc.gov/public/attachments/DOC-396514A1.pdf,2023-08-30 11:45:00+00:00,staged non-NC,4.25,0.5208333333333334
+hurricane_idalia_2023,12115,2023-08-30 16:00:00+00:00,175.0,0.0,https://docs.fcc.gov/public/attachments/DOC-396514A1.pdf,2023-08-30 11:45:00+00:00,staged non-NC,4.25,0.0
+hurricane_idalia_2023,12117,2023-08-30 16:00:00+00:00,261.0,2.0,https://docs.fcc.gov/public/attachments/DOC-396514A1.pdf,2023-08-30 11:45:00+00:00,staged non-NC,4.25,0.7662835249042146
+hurricane_idalia_2023,12119,2023-08-30 16:00:00+00:00,96.0,1.0,https://docs.fcc.gov/public/attachments/DOC-396514A1.pdf,2023-08-30 11:45:00+00:00,staged non-NC,4.25,1.0416666666666667
+hurricane_idalia_2023,12121,2023-08-30 16:00:00+00:00,42.0,1.0,https://docs.fcc.gov/public/attachments/DOC-396514A1.pdf,2023-08-30 11:45:00+00:00,staged non-NC,4.25,2.380952380952381
+hurricane_idalia_2023,12123,2023-08-30 16:00:00+00:00,37.0,7.0,https://docs.fcc.gov/public/attachments/DOC-396514A1.pdf,2023-08-30 11:45:00+00:00,staged non-NC,4.25,18.91891891891892
+hurricane_idalia_2023,12125,2023-08-30 16:00:00+00:00,12.0,0.0,https://docs.fcc.gov/public/attachments/DOC-396514A1.pdf,2023-08-30 11:45:00+00:00,staged non-NC,4.25,0.0
+hurricane_idalia_2023,12127,2023-08-30 16:00:00+00:00,352.0,1.0,https://docs.fcc.gov/public/attachments/DOC-396514A1.pdf,2023-08-30 11:45:00+00:00,staged non-NC,4.25,0.2840909090909091
+hurricane_idalia_2023,12129,2023-08-30 16:00:00+00:00,34.0,6.0,https://docs.fcc.gov/public/attachments/DOC-396514A1.pdf,2023-08-30 11:45:00+00:00,staged non-NC,4.25,17.647058823529413
+hurricane_irma_2017,01061,2017-09-13 13:00:00+00:00,52.0,0.0,https://docs.fcc.gov/public/attachments/DOC-346710A1.pdf,2017-09-10 13:00:00+00:00,staged non-NC,72.0,0.0
+hurricane_irma_2017,01067,2017-09-13 13:00:00+00:00,87.0,2.0,https://docs.fcc.gov/public/attachments/DOC-346710A1.pdf,2017-09-10 13:00:00+00:00,staged non-NC,72.0,2.2988505747126435
+hurricane_irma_2017,01069,2017-09-13 13:00:00+00:00,196.0,0.0,https://docs.fcc.gov/public/attachments/DOC-346710A1.pdf,2017-09-10 13:00:00+00:00,staged non-NC,72.0,0.0
+hurricane_irma_2017,12001,2017-09-13 13:00:00+00:00,279.0,36.0,https://docs.fcc.gov/public/attachments/DOC-346710A1.pdf,2017-09-10 13:00:00+00:00,staged non-NC,72.0,12.903225806451612
+hurricane_irma_2017,12003,2017-09-13 13:00:00+00:00,22.0,4.0,https://docs.fcc.gov/public/attachments/DOC-346710A1.pdf,2017-09-10 13:00:00+00:00,staged non-NC,72.0,18.181818181818183
+hurricane_irma_2017,12005,2017-09-13 13:00:00+00:00,208.0,0.0,https://docs.fcc.gov/public/attachments/DOC-346710A1.pdf,2017-09-10 13:00:00+00:00,staged non-NC,72.0,0.0
+hurricane_irma_2017,12007,2017-09-13 13:00:00+00:00,22.0,3.0,https://docs.fcc.gov/public/attachments/DOC-346710A1.pdf,2017-09-10 13:00:00+00:00,staged non-NC,72.0,13.636363636363637
+hurricane_irma_2017,12009,2017-09-13 13:00:00+00:00,316.0,72.0,https://docs.fcc.gov/public/attachments/DOC-346710A1.pdf,2017-09-10 13:00:00+00:00,staged non-NC,72.0,22.78481012658228
+hurricane_irma_2017,12011,2017-09-13 13:00:00+00:00,924.0,254.0,https://docs.fcc.gov/public/attachments/DOC-346710A1.pdf,2017-09-10 13:00:00+00:00,staged non-NC,72.0,27.48917748917749
+hurricane_irma_2017,12013,2017-09-13 13:00:00+00:00,15.0,0.0,https://docs.fcc.gov/public/attachments/DOC-346710A1.pdf,2017-09-10 13:00:00+00:00,staged non-NC,72.0,0.0
+hurricane_irma_2017,12015,2017-09-13 13:00:00+00:00,123.0,18.0,https://docs.fcc.gov/public/attachments/DOC-346710A1.pdf,2017-09-10 13:00:00+00:00,staged non-NC,72.0,14.634146341463415
+hurricane_irma_2017,12017,2017-09-13 13:00:00+00:00,111.0,26.0,https://docs.fcc.gov/public/attachments/DOC-346710A1.pdf,2017-09-10 13:00:00+00:00,staged non-NC,72.0,23.423423423423422
+hurricane_irma_2017,12019,2017-09-13 13:00:00+00:00,178.0,31.0,https://docs.fcc.gov/public/attachments/DOC-346710A1.pdf,2017-09-10 13:00:00+00:00,staged non-NC,72.0,17.415730337078653
+hurricane_irma_2017,12021,2017-09-13 13:00:00+00:00,212.0,137.0,https://docs.fcc.gov/public/attachments/DOC-346710A1.pdf,2017-09-10 13:00:00+00:00,staged non-NC,72.0,64.62264150943396
+hurricane_irma_2017,12023,2017-09-13 13:00:00+00:00,73.0,9.0,https://docs.fcc.gov/public/attachments/DOC-346710A1.pdf,2017-09-10 13:00:00+00:00,staged non-NC,72.0,12.32876712328767
+hurricane_irma_2017,12027,2017-09-13 13:00:00+00:00,34.0,10.0,https://docs.fcc.gov/public/attachments/DOC-346710A1.pdf,2017-09-10 13:00:00+00:00,staged non-NC,72.0,29.41176470588235
+hurricane_irma_2017,12029,2017-09-13 13:00:00+00:00,18.0,1.0,https://docs.fcc.gov/public/attachments/DOC-346710A1.pdf,2017-09-10 13:00:00+00:00,staged non-NC,72.0,5.555555555555555
+hurricane_irma_2017,12031,2017-09-13 13:00:00+00:00,807.0,70.0,https://docs.fcc.gov/public/attachments/DOC-346710A1.pdf,2017-09-10 13:00:00+00:00,staged non-NC,72.0,8.674101610904584
+hurricane_irma_2017,12033,2017-09-13 13:00:00+00:00,186.0,0.0,https://docs.fcc.gov/public/attachments/DOC-346710A1.pdf,2017-09-10 13:00:00+00:00,staged non-NC,72.0,0.0
+hurricane_irma_2017,12035,2017-09-13 13:00:00+00:00,86.0,18.0,https://docs.fcc.gov/public/attachments/DOC-346710A1.pdf,2017-09-10 13:00:00+00:00,staged non-NC,72.0,20.930232558139537
+hurricane_irma_2017,12037,2017-09-13 13:00:00+00:00,28.0,0.0,https://docs.fcc.gov/public/attachments/DOC-346710A1.pdf,2017-09-10 13:00:00+00:00,staged non-NC,72.0,0.0
+hurricane_irma_2017,12039,2017-09-13 13:00:00+00:00,62.0,1.0,https://docs.fcc.gov/public/attachments/DOC-346710A1.pdf,2017-09-10 13:00:00+00:00,staged non-NC,72.0,1.6129032258064515
+hurricane_irma_2017,12041,2017-09-13 13:00:00+00:00,13.0,0.0,https://docs.fcc.gov/public/attachments/DOC-346710A1.pdf,2017-09-10 13:00:00+00:00,staged non-NC,72.0,0.0
+hurricane_irma_2017,12043,2017-09-13 13:00:00+00:00,30.0,9.0,https://docs.fcc.gov/public/attachments/DOC-346710A1.pdf,2017-09-10 13:00:00+00:00,staged non-NC,72.0,30.0
+hurricane_irma_2017,12045,2017-09-13 13:00:00+00:00,22.0,0.0,https://docs.fcc.gov/public/attachments/DOC-346710A1.pdf,2017-09-10 13:00:00+00:00,staged non-NC,72.0,0.0
+hurricane_irma_2017,13007,2017-09-13 13:00:00+00:00,22.0,1.0,https://docs.fcc.gov/public/attachments/DOC-346710A1.pdf,2017-09-10 13:00:00+00:00,staged non-NC,72.0,4.545454545454546
+hurricane_irma_2017,13027,2017-09-13 13:00:00+00:00,50.0,5.0,https://docs.fcc.gov/public/attachments/DOC-346710A1.pdf,2017-09-10 13:00:00+00:00,staged non-NC,72.0,10.0
+hurricane_irma_2017,13039,2017-09-13 13:00:00+00:00,86.0,9.0,https://docs.fcc.gov/public/attachments/DOC-346710A1.pdf,2017-09-10 13:00:00+00:00,staged non-NC,72.0,10.465116279069768
+hurricane_irma_2017,13049,2017-09-13 13:00:00+00:00,30.0,2.0,https://docs.fcc.gov/public/attachments/DOC-346710A1.pdf,2017-09-10 13:00:00+00:00,staged non-NC,72.0,6.666666666666667
+hurricane_irma_2017,13065,2017-09-13 13:00:00+00:00,34.0,2.0,https://docs.fcc.gov/public/attachments/DOC-346710A1.pdf,2017-09-10 13:00:00+00:00,staged non-NC,72.0,5.882352941176471
+hurricane_irma_2017,13071,2017-09-13 13:00:00+00:00,74.0,1.0,https://docs.fcc.gov/public/attachments/DOC-346710A1.pdf,2017-09-10 13:00:00+00:00,staged non-NC,72.0,1.3513513513513513
+hurricane_irma_2017,13087,2017-09-13 13:00:00+00:00,58.0,1.0,https://docs.fcc.gov/public/attachments/DOC-346710A1.pdf,2017-09-10 13:00:00+00:00,staged non-NC,72.0,1.7241379310344827
+hurricane_irma_2017,13099,2017-09-13 13:00:00+00:00,17.0,0.0,https://docs.fcc.gov/public/attachments/DOC-346710A1.pdf,2017-09-10 13:00:00+00:00,staged non-NC,72.0,0.0
+hurricane_irma_2017,13101,2017-09-13 13:00:00+00:00,21.0,1.0,https://docs.fcc.gov/public/attachments/DOC-346710A1.pdf,2017-09-10 13:00:00+00:00,staged non-NC,72.0,4.761904761904762
+hurricane_irma_2017,13127,2017-09-13 13:00:00+00:00,141.0,21.0,https://docs.fcc.gov/public/attachments/DOC-346710A1.pdf,2017-09-10 13:00:00+00:00,staged non-NC,72.0,14.893617021276595
+hurricane_irma_2017,13131,2017-09-13 13:00:00+00:00,41.0,0.0,https://docs.fcc.gov/public/attachments/DOC-346710A1.pdf,2017-09-10 13:00:00+00:00,staged non-NC,72.0,0.0
+hurricane_irma_2017,13173,2017-09-13 13:00:00+00:00,20.0,0.0,https://docs.fcc.gov/public/attachments/DOC-346710A1.pdf,2017-09-10 13:00:00+00:00,staged non-NC,72.0,0.0
+hurricane_irma_2017,13181,2017-09-13 13:00:00+00:00,1.0,0.0,https://docs.fcc.gov/public/attachments/DOC-346710A1.pdf,2017-09-10 13:00:00+00:00,staged non-NC,72.0,0.0
+hurricane_irma_2017,13185,2017-09-13 13:00:00+00:00,180.0,5.0,https://docs.fcc.gov/public/attachments/DOC-346710A1.pdf,2017-09-10 13:00:00+00:00,staged non-NC,72.0,2.7777777777777777
+hurricane_irma_2017,13201,2017-09-13 13:00:00+00:00,7.0,0.0,https://docs.fcc.gov/public/attachments/DOC-346710A1.pdf,2017-09-10 13:00:00+00:00,staged non-NC,72.0,0.0
+hurricane_irma_2017,13205,2017-09-13 13:00:00+00:00,34.0,1.0,https://docs.fcc.gov/public/attachments/DOC-346710A1.pdf,2017-09-10 13:00:00+00:00,staged non-NC,72.0,2.9411764705882355
+hurricane_irma_2017,13253,2017-09-13 13:00:00+00:00,76.0,0.0,https://docs.fcc.gov/public/attachments/DOC-346710A1.pdf,2017-09-10 13:00:00+00:00,staged non-NC,72.0,0.0
+hurricane_irma_2017,13275,2017-09-13 13:00:00+00:00,76.0,2.0,https://docs.fcc.gov/public/attachments/DOC-346710A1.pdf,2017-09-10 13:00:00+00:00,staged non-NC,72.0,2.6315789473684212
+hurricane_irma_2017,13299,2017-09-13 13:00:00+00:00,74.0,4.0,https://docs.fcc.gov/public/attachments/DOC-346710A1.pdf,2017-09-10 13:00:00+00:00,staged non-NC,72.0,5.405405405405405
+hurricane_michael_2018,01003,2018-10-11 15:00:00+00:00,348.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354510A1.pdf,2018-10-10 17:30:00+00:00,staged non-NC,21.5,0.0
+hurricane_michael_2018,01045,2018-10-11 15:00:00+00:00,105.0,10.0,https://docs.fcc.gov/public/attachments/DOC-354510A1.pdf,2018-10-10 17:30:00+00:00,staged non-NC,21.5,9.523809523809524
+hurricane_michael_2018,01061,2018-10-11 15:00:00+00:00,59.0,6.0,https://docs.fcc.gov/public/attachments/DOC-354510A1.pdf,2018-10-10 17:30:00+00:00,staged non-NC,21.5,10.169491525423728
+hurricane_michael_2018,01067,2018-10-11 15:00:00+00:00,38.0,17.0,https://docs.fcc.gov/public/attachments/DOC-354510A1.pdf,2018-10-10 17:30:00+00:00,staged non-NC,21.5,44.73684210526316
+hurricane_michael_2018,01069,2018-10-11 15:00:00+00:00,209.0,37.0,https://docs.fcc.gov/public/attachments/DOC-354510A1.pdf,2018-10-10 17:30:00+00:00,staged non-NC,21.5,17.70334928229665
+hurricane_michael_2018,12005,2018-10-11 15:00:00+00:00,327.0,256.0,https://docs.fcc.gov/public/attachments/DOC-354510A1.pdf,2018-10-10 17:30:00+00:00,staged non-NC,21.5,78.2874617737003
+hurricane_michael_2018,12013,2018-10-11 15:00:00+00:00,42.0,16.0,https://docs.fcc.gov/public/attachments/DOC-354510A1.pdf,2018-10-10 17:30:00+00:00,staged non-NC,21.5,38.095238095238095
+hurricane_michael_2018,12017,2018-10-11 15:00:00+00:00,104.0,1.0,https://docs.fcc.gov/public/attachments/DOC-354510A1.pdf,2018-10-10 17:30:00+00:00,staged non-NC,21.5,0.9615384615384616
+hurricane_michael_2018,12029,2018-10-11 15:00:00+00:00,20.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354510A1.pdf,2018-10-10 17:30:00+00:00,staged non-NC,21.5,0.0
+hurricane_michael_2018,12033,2018-10-11 15:00:00+00:00,243.0,2.0,https://docs.fcc.gov/public/attachments/DOC-354510A1.pdf,2018-10-10 17:30:00+00:00,staged non-NC,21.5,0.823045267489712
+hurricane_michael_2018,12037,2018-10-11 15:00:00+00:00,36.0,14.0,https://docs.fcc.gov/public/attachments/DOC-354510A1.pdf,2018-10-10 17:30:00+00:00,staged non-NC,21.5,38.888888888888886
+hurricane_michael_2018,12039,2018-10-11 15:00:00+00:00,62.0,44.0,https://docs.fcc.gov/public/attachments/DOC-354510A1.pdf,2018-10-10 17:30:00+00:00,staged non-NC,21.5,70.96774193548387
+hurricane_michael_2018,13001,2018-10-11 15:00:00+00:00,38.0,2.0,https://docs.fcc.gov/public/attachments/DOC-354510A1.pdf,2018-10-10 17:30:00+00:00,staged non-NC,21.5,5.2631578947368425
+hurricane_michael_2018,13003,2018-10-11 15:00:00+00:00,30.0,3.0,https://docs.fcc.gov/public/attachments/DOC-354510A1.pdf,2018-10-10 17:30:00+00:00,staged non-NC,21.5,10.0
+hurricane_michael_2018,13005,2018-10-11 15:00:00+00:00,26.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354510A1.pdf,2018-10-10 17:30:00+00:00,staged non-NC,21.5,0.0
+hurricane_michael_2018,13007,2018-10-11 15:00:00+00:00,19.0,4.0,https://docs.fcc.gov/public/attachments/DOC-354510A1.pdf,2018-10-10 17:30:00+00:00,staged non-NC,21.5,21.05263157894737
+hurricane_michael_2018,13009,2018-10-11 15:00:00+00:00,132.0,4.0,https://docs.fcc.gov/public/attachments/DOC-354510A1.pdf,2018-10-10 17:30:00+00:00,staged non-NC,21.5,3.0303030303030303
+hurricane_michael_2018,13017,2018-10-11 15:00:00+00:00,18.0,2.0,https://docs.fcc.gov/public/attachments/DOC-354510A1.pdf,2018-10-10 17:30:00+00:00,staged non-NC,21.5,11.11111111111111
+hurricane_michael_2018,13019,2018-10-11 15:00:00+00:00,50.0,4.0,https://docs.fcc.gov/public/attachments/DOC-354510A1.pdf,2018-10-10 17:30:00+00:00,staged non-NC,21.5,8.0
+hurricane_michael_2018,13021,2018-10-11 15:00:00+00:00,169.0,7.0,https://docs.fcc.gov/public/attachments/DOC-354510A1.pdf,2018-10-10 17:30:00+00:00,staged non-NC,21.5,4.1420118343195265
+hurricane_michael_2018,13023,2018-10-11 15:00:00+00:00,23.0,3.0,https://docs.fcc.gov/public/attachments/DOC-354510A1.pdf,2018-10-10 17:30:00+00:00,staged non-NC,21.5,13.043478260869565
+hurricane_michael_2018,13027,2018-10-11 15:00:00+00:00,52.0,6.0,https://docs.fcc.gov/public/attachments/DOC-354510A1.pdf,2018-10-10 17:30:00+00:00,staged non-NC,21.5,11.538461538461538
+hurricane_michael_2018,13031,2018-10-11 15:00:00+00:00,125.0,4.0,https://docs.fcc.gov/public/attachments/DOC-354510A1.pdf,2018-10-10 17:30:00+00:00,staged non-NC,21.5,3.2
+hurricane_michael_2018,13033,2018-10-11 15:00:00+00:00,58.0,4.0,https://docs.fcc.gov/public/attachments/DOC-354510A1.pdf,2018-10-10 17:30:00+00:00,staged non-NC,21.5,6.896551724137931
+hurricane_michael_2018,13037,2018-10-11 15:00:00+00:00,41.0,9.0,https://docs.fcc.gov/public/attachments/DOC-354510A1.pdf,2018-10-10 17:30:00+00:00,staged non-NC,21.5,21.951219512195124
+hurricane_michael_2018,13043,2018-10-11 15:00:00+00:00,33.0,3.0,https://docs.fcc.gov/public/attachments/DOC-354510A1.pdf,2018-10-10 17:30:00+00:00,staged non-NC,21.5,9.090909090909092
+hurricane_michael_2018,13061,2018-10-11 15:00:00+00:00,12.0,4.0,https://docs.fcc.gov/public/attachments/DOC-354510A1.pdf,2018-10-10 17:30:00+00:00,staged non-NC,21.5,33.333333333333336
+hurricane_michael_2018,13069,2018-10-11 15:00:00+00:00,61.0,1.0,https://docs.fcc.gov/public/attachments/DOC-354510A1.pdf,2018-10-10 17:30:00+00:00,staged non-NC,21.5,1.639344262295082
+hurricane_michael_2018,13071,2018-10-11 15:00:00+00:00,78.0,32.0,https://docs.fcc.gov/public/attachments/DOC-354510A1.pdf,2018-10-10 17:30:00+00:00,staged non-NC,21.5,41.02564102564103
+hurricane_michael_2018,13073,2018-10-11 15:00:00+00:00,149.0,1.0,https://docs.fcc.gov/public/attachments/DOC-354510A1.pdf,2018-10-10 17:30:00+00:00,staged non-NC,21.5,0.6711409395973155
+hurricane_michael_2018,13075,2018-10-11 15:00:00+00:00,36.0,8.0,https://docs.fcc.gov/public/attachments/DOC-354510A1.pdf,2018-10-10 17:30:00+00:00,staged non-NC,21.5,22.22222222222222
+hurricane_michael_2018,13079,2018-10-11 15:00:00+00:00,21.0,1.0,https://docs.fcc.gov/public/attachments/DOC-354510A1.pdf,2018-10-10 17:30:00+00:00,staged non-NC,21.5,4.761904761904762
+hurricane_michael_2018,13081,2018-10-11 15:00:00+00:00,46.0,14.0,https://docs.fcc.gov/public/attachments/DOC-354510A1.pdf,2018-10-10 17:30:00+00:00,staged non-NC,21.5,30.434782608695652
+hurricane_nicole_2022,12009,2022-11-10 17:00:00+00:00,353.0,23.0,https://docs.fcc.gov/public/attachments/DOC-389077A1.pdf,2022-11-10 07:45:00+00:00,staged non-NC,9.25,6.515580736543909
+hurricane_nicole_2022,12011,2022-11-10 17:00:00+00:00,872.0,1.0,https://docs.fcc.gov/public/attachments/DOC-389077A1.pdf,2022-11-10 07:45:00+00:00,staged non-NC,9.25,0.11467889908256881
+hurricane_nicole_2022,12015,2022-11-10 17:00:00+00:00,137.0,1.0,https://docs.fcc.gov/public/attachments/DOC-389077A1.pdf,2022-11-10 07:45:00+00:00,staged non-NC,9.25,0.7299270072992701
+hurricane_nicole_2022,12017,2022-11-10 17:00:00+00:00,139.0,3.0,https://docs.fcc.gov/public/attachments/DOC-389077A1.pdf,2022-11-10 07:45:00+00:00,staged non-NC,9.25,2.158273381294964
+hurricane_nicole_2022,12019,2022-11-10 17:00:00+00:00,169.0,3.0,https://docs.fcc.gov/public/attachments/DOC-389077A1.pdf,2022-11-10 07:45:00+00:00,staged non-NC,9.25,1.7751479289940828
+hurricane_nicole_2022,12021,2022-11-10 17:00:00+00:00,217.0,5.0,https://docs.fcc.gov/public/attachments/DOC-389077A1.pdf,2022-11-10 07:45:00+00:00,staged non-NC,9.25,2.304147465437788
+hurricane_nicole_2022,12027,2022-11-10 17:00:00+00:00,33.0,1.0,https://docs.fcc.gov/public/attachments/DOC-389077A1.pdf,2022-11-10 07:45:00+00:00,staged non-NC,9.25,3.0303030303030303
+hurricane_nicole_2022,12031,2022-11-10 17:00:00+00:00,757.0,0.0,https://docs.fcc.gov/public/attachments/DOC-389077A1.pdf,2022-11-10 07:45:00+00:00,staged non-NC,9.25,0.0
+hurricane_nicole_2022,12035,2022-11-10 17:00:00+00:00,90.0,1.0,https://docs.fcc.gov/public/attachments/DOC-389077A1.pdf,2022-11-10 07:45:00+00:00,staged non-NC,9.25,1.1111111111111112
+hurricane_nicole_2022,12043,2022-11-10 17:00:00+00:00,34.0,0.0,https://docs.fcc.gov/public/attachments/DOC-389077A1.pdf,2022-11-10 07:45:00+00:00,staged non-NC,9.25,0.0
+hurricane_nicole_2022,12049,2022-11-10 17:00:00+00:00,46.0,0.0,https://docs.fcc.gov/public/attachments/DOC-389077A1.pdf,2022-11-10 07:45:00+00:00,staged non-NC,9.25,0.0
+hurricane_nicole_2022,12051,2022-11-10 17:00:00+00:00,58.0,0.0,https://docs.fcc.gov/public/attachments/DOC-389077A1.pdf,2022-11-10 07:45:00+00:00,staged non-NC,9.25,0.0
+hurricane_nicole_2022,12055,2022-11-10 17:00:00+00:00,95.0,0.0,https://docs.fcc.gov/public/attachments/DOC-389077A1.pdf,2022-11-10 07:45:00+00:00,staged non-NC,9.25,0.0
+hurricane_nicole_2022,12057,2022-11-10 17:00:00+00:00,1255.0,0.0,https://docs.fcc.gov/public/attachments/DOC-389077A1.pdf,2022-11-10 07:45:00+00:00,staged non-NC,9.25,0.0
+hurricane_nicole_2022,12061,2022-11-10 17:00:00+00:00,84.0,1.0,https://docs.fcc.gov/public/attachments/DOC-389077A1.pdf,2022-11-10 07:45:00+00:00,staged non-NC,9.25,1.1904761904761905
+hurricane_nicole_2022,12069,2022-11-10 17:00:00+00:00,236.0,3.0,https://docs.fcc.gov/public/attachments/DOC-389077A1.pdf,2022-11-10 07:45:00+00:00,staged non-NC,9.25,1.271186440677966
+hurricane_nicole_2022,12071,2022-11-10 17:00:00+00:00,396.0,0.0,https://docs.fcc.gov/public/attachments/DOC-389077A1.pdf,2022-11-10 07:45:00+00:00,staged non-NC,9.25,0.0
+hurricane_nicole_2022,12081,2022-11-10 17:00:00+00:00,265.0,1.0,https://docs.fcc.gov/public/attachments/DOC-389077A1.pdf,2022-11-10 07:45:00+00:00,staged non-NC,9.25,0.37735849056603776
+hurricane_nicole_2022,12085,2022-11-10 17:00:00+00:00,100.0,0.0,https://docs.fcc.gov/public/attachments/DOC-389077A1.pdf,2022-11-10 07:45:00+00:00,staged non-NC,9.25,0.0
+hurricane_nicole_2022,12086,2022-11-10 17:00:00+00:00,1355.0,4.0,https://docs.fcc.gov/public/attachments/DOC-389077A1.pdf,2022-11-10 07:45:00+00:00,staged non-NC,9.25,0.2952029520295203
+hurricane_nicole_2022,12089,2022-11-10 17:00:00+00:00,103.0,0.0,https://docs.fcc.gov/public/attachments/DOC-389077A1.pdf,2022-11-10 07:45:00+00:00,staged non-NC,9.25,0.0
+hurricane_nicole_2022,12093,2022-11-10 17:00:00+00:00,57.0,1.0,https://docs.fcc.gov/public/attachments/DOC-389077A1.pdf,2022-11-10 07:45:00+00:00,staged non-NC,9.25,1.7543859649122806
+hurricane_nicole_2022,12095,2022-11-10 17:00:00+00:00,1068.0,23.0,https://docs.fcc.gov/public/attachments/DOC-389077A1.pdf,2022-11-10 07:45:00+00:00,staged non-NC,9.25,2.153558052434457
+hurricane_nicole_2022,12097,2022-11-10 17:00:00+00:00,237.0,4.0,https://docs.fcc.gov/public/attachments/DOC-389077A1.pdf,2022-11-10 07:45:00+00:00,staged non-NC,9.25,1.6877637130801688
+hurricane_nicole_2022,12099,2022-11-10 17:00:00+00:00,652.0,8.0,https://docs.fcc.gov/public/attachments/DOC-389077A1.pdf,2022-11-10 07:45:00+00:00,staged non-NC,9.25,1.2269938650306749
+hurricane_nicole_2022,12101,2022-11-10 17:00:00+00:00,319.0,0.0,https://docs.fcc.gov/public/attachments/DOC-389077A1.pdf,2022-11-10 07:45:00+00:00,staged non-NC,9.25,0.0
+hurricane_nicole_2022,12105,2022-11-10 17:00:00+00:00,579.0,1.0,https://docs.fcc.gov/public/attachments/DOC-389077A1.pdf,2022-11-10 07:45:00+00:00,staged non-NC,9.25,0.17271157167530224
+hurricane_nicole_2022,12107,2022-11-10 17:00:00+00:00,85.0,1.0,https://docs.fcc.gov/public/attachments/DOC-389077A1.pdf,2022-11-10 07:45:00+00:00,staged non-NC,9.25,1.1764705882352942
+hurricane_nicole_2022,12109,2022-11-10 17:00:00+00:00,240.0,1.0,https://docs.fcc.gov/public/attachments/DOC-389077A1.pdf,2022-11-10 07:45:00+00:00,staged non-NC,9.25,0.4166666666666667
+hurricane_nicole_2022,12111,2022-11-10 17:00:00+00:00,150.0,4.0,https://docs.fcc.gov/public/attachments/DOC-389077A1.pdf,2022-11-10 07:45:00+00:00,staged non-NC,9.25,2.6666666666666665
+hurricane_nicole_2022,12115,2022-11-10 17:00:00+00:00,245.0,0.0,https://docs.fcc.gov/public/attachments/DOC-389077A1.pdf,2022-11-10 07:45:00+00:00,staged non-NC,9.25,0.0
+hurricane_nicole_2022,12117,2022-11-10 17:00:00+00:00,267.0,1.0,https://docs.fcc.gov/public/attachments/DOC-389077A1.pdf,2022-11-10 07:45:00+00:00,staged non-NC,9.25,0.37453183520599254
+hurricane_nicole_2022,12119,2022-11-10 17:00:00+00:00,96.0,0.0,https://docs.fcc.gov/public/attachments/DOC-389077A1.pdf,2022-11-10 07:45:00+00:00,staged non-NC,9.25,0.0
+hurricane_nicole_2022,12127,2022-11-10 17:00:00+00:00,373.0,9.0,https://docs.fcc.gov/public/attachments/DOC-389077A1.pdf,2022-11-10 07:45:00+00:00,staged non-NC,9.25,2.4128686327077746
+hurricane_zeta_2020,01025,2020-11-01 17:00:00+00:00,31.0,0.0,https://docs.fcc.gov/public/attachments/DOC-367896A1.pdf,2020-10-28 21:00:00+00:00,staged non-NC,92.0,0.0
+hurricane_zeta_2020,01037,2020-11-01 17:00:00+00:00,55.0,4.0,https://docs.fcc.gov/public/attachments/DOC-367896A1.pdf,2020-10-28 21:00:00+00:00,staged non-NC,92.0,7.2727272727272725
+hurricane_zeta_2020,01047,2020-11-01 17:00:00+00:00,64.0,3.0,https://docs.fcc.gov/public/attachments/DOC-367896A1.pdf,2020-10-28 21:00:00+00:00,staged non-NC,92.0,4.6875
+hurricane_zeta_2020,01097,2020-11-01 17:00:00+00:00,613.0,3.0,https://docs.fcc.gov/public/attachments/DOC-367896A1.pdf,2020-10-28 21:00:00+00:00,staged non-NC,92.0,0.4893964110929853
+hurricane_zeta_2020,01099,2020-11-01 17:00:00+00:00,31.0,0.0,https://docs.fcc.gov/public/attachments/DOC-367896A1.pdf,2020-10-28 21:00:00+00:00,staged non-NC,92.0,0.0
+hurricane_zeta_2020,01105,2020-11-01 17:00:00+00:00,22.0,0.0,https://docs.fcc.gov/public/attachments/DOC-367896A1.pdf,2020-10-28 21:00:00+00:00,staged non-NC,92.0,0.0
+hurricane_zeta_2020,01131,2020-11-01 17:00:00+00:00,30.0,4.0,https://docs.fcc.gov/public/attachments/DOC-367896A1.pdf,2020-10-28 21:00:00+00:00,staged non-NC,92.0,13.333333333333334
+hurricane_zeta_2020,13085,2020-11-01 17:00:00+00:00,44.0,3.0,https://docs.fcc.gov/public/attachments/DOC-367896A1.pdf,2020-10-28 21:00:00+00:00,staged non-NC,92.0,6.818181818181818
+hurricane_zeta_2020,13111,2020-11-01 17:00:00+00:00,34.0,0.0,https://docs.fcc.gov/public/attachments/DOC-367896A1.pdf,2020-10-28 21:00:00+00:00,staged non-NC,92.0,0.0
+hurricane_zeta_2020,13123,2020-11-01 17:00:00+00:00,51.0,1.0,https://docs.fcc.gov/public/attachments/DOC-367896A1.pdf,2020-10-28 21:00:00+00:00,staged non-NC,92.0,1.9607843137254901
+hurricane_zeta_2020,13137,2020-11-01 17:00:00+00:00,55.0,9.0,https://docs.fcc.gov/public/attachments/DOC-367896A1.pdf,2020-10-28 21:00:00+00:00,staged non-NC,92.0,16.363636363636363
+hurricane_zeta_2020,13143,2020-11-01 17:00:00+00:00,44.0,1.0,https://docs.fcc.gov/public/attachments/DOC-367896A1.pdf,2020-10-28 21:00:00+00:00,staged non-NC,92.0,2.272727272727273
+hurricane_zeta_2020,13187,2020-11-01 17:00:00+00:00,49.0,10.0,https://docs.fcc.gov/public/attachments/DOC-367896A1.pdf,2020-10-28 21:00:00+00:00,staged non-NC,92.0,20.408163265306122
+hurricane_zeta_2020,13241,2020-11-01 17:00:00+00:00,22.0,1.0,https://docs.fcc.gov/public/attachments/DOC-367896A1.pdf,2020-10-28 21:00:00+00:00,staged non-NC,92.0,4.545454545454546
+hurricane_zeta_2020,13311,2020-11-01 17:00:00+00:00,38.0,5.0,https://docs.fcc.gov/public/attachments/DOC-367896A1.pdf,2020-10-28 21:00:00+00:00,staged non-NC,92.0,13.157894736842104
+hurricane_zeta_2020,22075,2020-11-01 17:00:00+00:00,67.0,6.0,https://docs.fcc.gov/public/attachments/DOC-367896A1.pdf,2020-10-28 21:00:00+00:00,staged non-NC,92.0,8.955223880597014
+hurricane_zeta_2020,22087,2020-11-01 17:00:00+00:00,45.0,7.0,https://docs.fcc.gov/public/attachments/DOC-367896A1.pdf,2020-10-28 21:00:00+00:00,staged non-NC,92.0,15.555555555555555
+hurricane_zeta_2020,28045,2020-11-01 17:00:00+00:00,70.0,2.0,https://docs.fcc.gov/public/attachments/DOC-367896A1.pdf,2020-10-28 21:00:00+00:00,staged non-NC,92.0,2.857142857142857
+hurricane_zeta_2020,28047,2020-11-01 17:00:00+00:00,255.0,9.0,https://docs.fcc.gov/public/attachments/DOC-367896A1.pdf,2020-10-28 21:00:00+00:00,staged non-NC,92.0,3.5294117647058822
+hurricane_florence_2018,37007,2018-09-15 15:00:00+00:00,39.0,2.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,27.75,5.128205128205129
+hurricane_florence_2018,37013,2018-09-15 15:00:00+00:00,65.0,5.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,27.75,7.6923076923076925
+hurricane_florence_2018,37015,2018-09-15 15:00:00+00:00,23.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,27.75,0.0
+hurricane_florence_2018,37017,2018-09-15 15:00:00+00:00,75.0,33.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,27.75,44.0
+hurricane_zeta_2020,37149,2020-11-01 17:00:00+00:00,18.0,0.0,https://docs.fcc.gov/public/attachments/DOC-367896A1.pdf,2020-10-28 21:00:00+00:00,regenerated NC,92.0,0.0
+hurricane_florence_2018,37007,2018-09-14 15:00:00+00:00,39.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354079A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,3.75,0.0
+hurricane_florence_2018,37013,2018-09-14 15:00:00+00:00,65.0,5.0,https://docs.fcc.gov/public/attachments/DOC-354079A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,3.75,7.6923076923076925
+hurricane_florence_2018,37015,2018-09-14 15:00:00+00:00,23.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354079A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,3.75,0.0
+hurricane_florence_2018,37017,2018-09-14 15:00:00+00:00,75.0,3.0,https://docs.fcc.gov/public/attachments/DOC-354079A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,3.75,4.0
+hurricane_florence_2018,37019,2018-09-14 15:00:00+00:00,238.0,16.0,https://docs.fcc.gov/public/attachments/DOC-354079A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,3.75,6.722689075630252
+hurricane_florence_2018,37029,2018-09-14 15:00:00+00:00,42.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354079A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,3.75,0.0
+hurricane_florence_2018,37031,2018-09-14 15:00:00+00:00,103.0,34.0,https://docs.fcc.gov/public/attachments/DOC-354079A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,3.75,33.00970873786408
+hurricane_florence_2018,37037,2018-09-14 15:00:00+00:00,215.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354079A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,3.75,0.0
+hurricane_florence_2018,37041,2018-09-14 15:00:00+00:00,17.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354079A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,3.75,0.0
+hurricane_florence_2018,37047,2018-09-14 15:00:00+00:00,92.0,5.0,https://docs.fcc.gov/public/attachments/DOC-354079A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,3.75,5.434782608695652
+hurricane_florence_2018,37049,2018-09-14 15:00:00+00:00,201.0,40.0,https://docs.fcc.gov/public/attachments/DOC-354079A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,3.75,19.90049751243781
+hurricane_florence_2018,37051,2018-09-14 15:00:00+00:00,390.0,2.0,https://docs.fcc.gov/public/attachments/DOC-354079A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,3.75,0.5128205128205128
+hurricane_florence_2018,37053,2018-09-14 15:00:00+00:00,68.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354079A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,3.75,0.0
+hurricane_florence_2018,37055,2018-09-14 15:00:00+00:00,88.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354079A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,3.75,0.0
+hurricane_florence_2018,37061,2018-09-14 15:00:00+00:00,89.0,7.0,https://docs.fcc.gov/public/attachments/DOC-354079A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,3.75,7.865168539325842
+hurricane_florence_2018,37065,2018-09-14 15:00:00+00:00,47.0,1.0,https://docs.fcc.gov/public/attachments/DOC-354079A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,3.75,2.127659574468085
+hurricane_florence_2018,37069,2018-09-14 15:00:00+00:00,41.0,2.0,https://docs.fcc.gov/public/attachments/DOC-354079A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,3.75,4.878048780487805
+hurricane_florence_2018,37073,2018-09-14 15:00:00+00:00,15.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354079A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,3.75,0.0
+hurricane_florence_2018,37079,2018-09-14 15:00:00+00:00,45.0,5.0,https://docs.fcc.gov/public/attachments/DOC-354079A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,3.75,11.11111111111111
+hurricane_florence_2018,37081,2018-09-14 15:00:00+00:00,69.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354079A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,3.75,0.0
+hurricane_florence_2018,37083,2018-09-14 15:00:00+00:00,71.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354079A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,3.75,0.0
+hurricane_florence_2018,37085,2018-09-14 15:00:00+00:00,139.0,3.0,https://docs.fcc.gov/public/attachments/DOC-354079A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,3.75,2.158273381294964
+hurricane_florence_2018,37087,2018-09-14 15:00:00+00:00,9.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354079A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,3.75,0.0
+hurricane_florence_2018,37091,2018-09-14 15:00:00+00:00,23.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354079A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,3.75,0.0
+hurricane_florence_2018,37093,2018-09-14 15:00:00+00:00,49.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354079A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,3.75,0.0
+hurricane_florence_2018,37095,2018-09-14 15:00:00+00:00,23.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354079A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,3.75,0.0
+hurricane_florence_2018,37101,2018-09-14 15:00:00+00:00,182.0,2.0,https://docs.fcc.gov/public/attachments/DOC-354079A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,3.75,1.098901098901099
+hurricane_florence_2018,37103,2018-09-14 15:00:00+00:00,47.0,2.0,https://docs.fcc.gov/public/attachments/DOC-354079A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,3.75,4.25531914893617
+hurricane_florence_2018,37105,2018-09-14 15:00:00+00:00,79.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354079A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,3.75,0.0
+hurricane_florence_2018,37107,2018-09-14 15:00:00+00:00,87.0,9.0,https://docs.fcc.gov/public/attachments/DOC-354079A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,3.75,10.344827586206897
+hurricane_florence_2018,37117,2018-09-14 15:00:00+00:00,28.0,3.0,https://docs.fcc.gov/public/attachments/DOC-354079A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,3.75,10.714285714285714
+hurricane_florence_2018,37125,2018-09-14 15:00:00+00:00,138.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354079A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,3.75,0.0
+hurricane_florence_2018,37127,2018-09-14 15:00:00+00:00,164.0,1.0,https://docs.fcc.gov/public/attachments/DOC-354079A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,3.75,0.6097560975609756
+hurricane_florence_2018,37129,2018-09-14 15:00:00+00:00,287.0,62.0,https://docs.fcc.gov/public/attachments/DOC-354079A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,3.75,21.60278745644599
+hurricane_florence_2018,37131,2018-09-14 15:00:00+00:00,25.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354079A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,3.75,0.0
+hurricane_florence_2018,37133,2018-09-14 15:00:00+00:00,227.0,68.0,https://docs.fcc.gov/public/attachments/DOC-354079A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,3.75,29.955947136563875
+hurricane_florence_2018,37137,2018-09-14 15:00:00+00:00,19.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354079A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,3.75,0.0
+hurricane_florence_2018,37139,2018-09-14 15:00:00+00:00,38.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354079A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,3.75,0.0
+hurricane_florence_2018,37141,2018-09-14 15:00:00+00:00,89.0,15.0,https://docs.fcc.gov/public/attachments/DOC-354079A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,3.75,16.853932584269664
+hurricane_florence_2018,37143,2018-09-14 15:00:00+00:00,17.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354079A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,3.75,0.0
+hurricane_florence_2018,37147,2018-09-14 15:00:00+00:00,250.0,11.0,https://docs.fcc.gov/public/attachments/DOC-354079A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,3.75,4.4
+hurricane_florence_2018,37153,2018-09-14 15:00:00+00:00,101.0,1.0,https://docs.fcc.gov/public/attachments/DOC-354079A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,3.75,0.9900990099009901
+hurricane_florence_2018,37155,2018-09-14 15:00:00+00:00,149.0,8.0,https://docs.fcc.gov/public/attachments/DOC-354079A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,3.75,5.369127516778524
+hurricane_florence_2018,37163,2018-09-14 15:00:00+00:00,103.0,3.0,https://docs.fcc.gov/public/attachments/DOC-354079A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,3.75,2.912621359223301
+hurricane_florence_2018,37165,2018-09-14 15:00:00+00:00,55.0,1.0,https://docs.fcc.gov/public/attachments/DOC-354079A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,3.75,1.8181818181818181
+hurricane_florence_2018,37177,2018-09-14 15:00:00+00:00,11.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354079A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,3.75,0.0
+hurricane_florence_2018,37183,2018-09-14 15:00:00+00:00,1131.0,15.0,https://docs.fcc.gov/public/attachments/DOC-354079A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,3.75,1.3262599469496021
+hurricane_florence_2018,37187,2018-09-14 15:00:00+00:00,21.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354079A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,3.75,0.0
+hurricane_florence_2018,37191,2018-09-14 15:00:00+00:00,142.0,5.0,https://docs.fcc.gov/public/attachments/DOC-354079A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,3.75,3.5211267605633805
+hurricane_florence_2018,37195,2018-09-14 15:00:00+00:00,94.0,1.0,https://docs.fcc.gov/public/attachments/DOC-354079A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,3.75,1.0638297872340425
+hurricane_florence_2018,37197,2018-09-14 15:00:00+00:00,12.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354079A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,3.75,0.0
+hurricane_florence_2018,37019,2018-09-15 15:00:00+00:00,238.0,59.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,27.75,24.789915966386555
+hurricane_florence_2018,37029,2018-09-15 15:00:00+00:00,42.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,27.75,0.0
+hurricane_florence_2018,37031,2018-09-15 15:00:00+00:00,103.0,36.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,27.75,34.95145631067961
+hurricane_florence_2018,37037,2018-09-15 15:00:00+00:00,221.0,16.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,27.75,7.239819004524887
+hurricane_florence_2018,37041,2018-09-15 15:00:00+00:00,17.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,27.75,0.0
+hurricane_florence_2018,37047,2018-09-15 15:00:00+00:00,92.0,31.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,27.75,33.69565217391305
+hurricane_florence_2018,37049,2018-09-15 15:00:00+00:00,201.0,67.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,27.75,33.333333333333336
+hurricane_florence_2018,37051,2018-09-15 15:00:00+00:00,390.0,107.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,27.75,27.435897435897434
+hurricane_florence_2018,37053,2018-09-15 15:00:00+00:00,68.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,27.75,0.0
+hurricane_florence_2018,37055,2018-09-15 15:00:00+00:00,88.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,27.75,0.0
+hurricane_florence_2018,37061,2018-09-15 15:00:00+00:00,89.0,31.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,27.75,34.831460674157306
+hurricane_florence_2018,37065,2018-09-15 15:00:00+00:00,47.0,7.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,27.75,14.893617021276595
+hurricane_florence_2018,37069,2018-09-15 15:00:00+00:00,41.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,27.75,0.0
+hurricane_florence_2018,37073,2018-09-15 15:00:00+00:00,15.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,27.75,0.0
+hurricane_florence_2018,37079,2018-09-15 15:00:00+00:00,45.0,9.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,27.75,20.0
+hurricane_florence_2018,37081,2018-09-15 15:00:00+00:00,69.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,27.75,0.0
+hurricane_florence_2018,37083,2018-09-15 15:00:00+00:00,71.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,27.75,0.0
+hurricane_florence_2018,37085,2018-09-15 15:00:00+00:00,139.0,32.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,27.75,23.02158273381295
+hurricane_florence_2018,37087,2018-09-15 15:00:00+00:00,9.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,27.75,0.0
+hurricane_florence_2018,37091,2018-09-15 15:00:00+00:00,23.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,27.75,0.0
+hurricane_florence_2018,37093,2018-09-15 15:00:00+00:00,52.0,10.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,27.75,19.23076923076923
+hurricane_florence_2018,37095,2018-09-15 15:00:00+00:00,23.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,27.75,0.0
+hurricane_florence_2018,37101,2018-09-15 15:00:00+00:00,182.0,20.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,27.75,10.989010989010989
+hurricane_florence_2018,37103,2018-09-15 15:00:00+00:00,47.0,11.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,27.75,23.404255319148938
+hurricane_florence_2018,37105,2018-09-15 15:00:00+00:00,79.0,22.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,27.75,27.848101265822784
+hurricane_florence_2018,37107,2018-09-15 15:00:00+00:00,87.0,27.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,27.75,31.03448275862069
+hurricane_florence_2018,37117,2018-09-15 15:00:00+00:00,28.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,27.75,0.0
+hurricane_florence_2018,37125,2018-09-15 15:00:00+00:00,147.0,45.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,27.75,30.612244897959183
+hurricane_florence_2018,37127,2018-09-15 15:00:00+00:00,164.0,2.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,27.75,1.2195121951219512
+hurricane_florence_2018,37129,2018-09-15 15:00:00+00:00,287.0,134.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,27.75,46.68989547038328
+hurricane_florence_2018,37131,2018-09-15 15:00:00+00:00,25.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,27.75,0.0
+hurricane_florence_2018,37133,2018-09-15 15:00:00+00:00,227.0,86.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,27.75,37.88546255506608
+hurricane_florence_2018,37137,2018-09-15 15:00:00+00:00,19.0,3.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,27.75,15.789473684210526
+hurricane_florence_2018,37139,2018-09-15 15:00:00+00:00,38.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,27.75,0.0
+hurricane_florence_2018,37141,2018-09-15 15:00:00+00:00,89.0,31.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,27.75,34.831460674157306
+hurricane_florence_2018,37143,2018-09-15 15:00:00+00:00,17.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,27.75,0.0
+hurricane_florence_2018,37147,2018-09-15 15:00:00+00:00,250.0,34.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,27.75,13.6
+hurricane_florence_2018,37153,2018-09-15 15:00:00+00:00,101.0,18.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,27.75,17.821782178217823
+hurricane_florence_2018,37155,2018-09-15 15:00:00+00:00,149.0,46.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,27.75,30.87248322147651
+hurricane_florence_2018,37163,2018-09-15 15:00:00+00:00,103.0,45.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,27.75,43.689320388349515
+hurricane_florence_2018,37165,2018-09-15 15:00:00+00:00,55.0,16.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,27.75,29.09090909090909
+hurricane_florence_2018,37177,2018-09-15 15:00:00+00:00,11.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,27.75,0.0
+hurricane_florence_2018,37183,2018-09-15 15:00:00+00:00,1131.0,47.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,27.75,4.155614500442087
+hurricane_florence_2018,37187,2018-09-15 15:00:00+00:00,21.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,27.75,0.0
+hurricane_florence_2018,37191,2018-09-15 15:00:00+00:00,142.0,30.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,27.75,21.12676056338028
+hurricane_florence_2018,37195,2018-09-15 15:00:00+00:00,94.0,1.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,27.75,1.0638297872340425
+hurricane_florence_2018,37197,2018-09-15 15:00:00+00:00,12.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354105A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,27.75,0.0
+hurricane_florence_2018,37007,2018-09-16 15:00:00+00:00,39.0,1.0,https://docs.fcc.gov/public/attachments/DOC-354106A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,51.75,2.5641025641025643
+hurricane_florence_2018,37013,2018-09-16 15:00:00+00:00,65.0,3.0,https://docs.fcc.gov/public/attachments/DOC-354106A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,51.75,4.615384615384615
+hurricane_florence_2018,37015,2018-09-16 15:00:00+00:00,23.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354106A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,51.75,0.0
+hurricane_florence_2018,37017,2018-09-16 15:00:00+00:00,75.0,16.0,https://docs.fcc.gov/public/attachments/DOC-354106A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,51.75,21.333333333333332
+hurricane_florence_2018,37019,2018-09-16 15:00:00+00:00,238.0,78.0,https://docs.fcc.gov/public/attachments/DOC-354106A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,51.75,32.773109243697476
+hurricane_florence_2018,37029,2018-09-16 15:00:00+00:00,42.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354106A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,51.75,0.0
+hurricane_florence_2018,37031,2018-09-16 15:00:00+00:00,103.0,47.0,https://docs.fcc.gov/public/attachments/DOC-354106A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,51.75,45.63106796116505
+hurricane_florence_2018,37037,2018-09-16 15:00:00+00:00,221.0,8.0,https://docs.fcc.gov/public/attachments/DOC-354106A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,51.75,3.6199095022624435
+hurricane_florence_2018,37041,2018-09-16 15:00:00+00:00,17.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354106A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,51.75,0.0
+hurricane_florence_2018,37047,2018-09-16 15:00:00+00:00,92.0,17.0,https://docs.fcc.gov/public/attachments/DOC-354106A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,51.75,18.47826086956522
+hurricane_florence_2018,37049,2018-09-16 15:00:00+00:00,201.0,40.0,https://docs.fcc.gov/public/attachments/DOC-354106A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,51.75,19.90049751243781
+hurricane_florence_2018,37051,2018-09-16 15:00:00+00:00,390.0,59.0,https://docs.fcc.gov/public/attachments/DOC-354106A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,51.75,15.128205128205128
+hurricane_florence_2018,37053,2018-09-16 15:00:00+00:00,68.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354106A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,51.75,0.0
+hurricane_florence_2018,37055,2018-09-16 15:00:00+00:00,88.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354106A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,51.75,0.0
+hurricane_florence_2018,37061,2018-09-16 15:00:00+00:00,89.0,32.0,https://docs.fcc.gov/public/attachments/DOC-354106A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,51.75,35.95505617977528
+hurricane_florence_2018,37065,2018-09-16 15:00:00+00:00,47.0,1.0,https://docs.fcc.gov/public/attachments/DOC-354106A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,51.75,2.127659574468085
+hurricane_florence_2018,37069,2018-09-16 15:00:00+00:00,41.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354106A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,51.75,0.0
+hurricane_florence_2018,37073,2018-09-16 15:00:00+00:00,15.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354106A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,51.75,0.0
+hurricane_florence_2018,37079,2018-09-16 15:00:00+00:00,45.0,4.0,https://docs.fcc.gov/public/attachments/DOC-354106A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,51.75,8.88888888888889
+hurricane_florence_2018,37081,2018-09-16 15:00:00+00:00,69.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354106A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,51.75,0.0
+hurricane_florence_2018,37083,2018-09-16 15:00:00+00:00,71.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354106A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,51.75,0.0
+hurricane_florence_2018,37085,2018-09-16 15:00:00+00:00,139.0,20.0,https://docs.fcc.gov/public/attachments/DOC-354106A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,51.75,14.388489208633093
+hurricane_florence_2018,37087,2018-09-16 15:00:00+00:00,9.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354106A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,51.75,0.0
+hurricane_florence_2018,37091,2018-09-16 15:00:00+00:00,23.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354106A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,51.75,0.0
+hurricane_florence_2018,37093,2018-09-16 15:00:00+00:00,52.0,7.0,https://docs.fcc.gov/public/attachments/DOC-354106A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,51.75,13.461538461538462
+hurricane_florence_2018,37095,2018-09-16 15:00:00+00:00,23.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354106A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,51.75,0.0
+hurricane_florence_2018,37101,2018-09-16 15:00:00+00:00,182.0,12.0,https://docs.fcc.gov/public/attachments/DOC-354106A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,51.75,6.593406593406593
+hurricane_florence_2018,37103,2018-09-16 15:00:00+00:00,47.0,11.0,https://docs.fcc.gov/public/attachments/DOC-354106A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,51.75,23.404255319148938
+hurricane_florence_2018,37105,2018-09-16 15:00:00+00:00,79.0,7.0,https://docs.fcc.gov/public/attachments/DOC-354106A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,51.75,8.860759493670885
+hurricane_florence_2018,37107,2018-09-16 15:00:00+00:00,87.0,23.0,https://docs.fcc.gov/public/attachments/DOC-354106A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,51.75,26.436781609195403
+hurricane_florence_2018,37117,2018-09-16 15:00:00+00:00,28.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354106A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,51.75,0.0
+hurricane_florence_2018,37125,2018-09-16 15:00:00+00:00,147.0,36.0,https://docs.fcc.gov/public/attachments/DOC-354106A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,51.75,24.489795918367346
+hurricane_florence_2018,37127,2018-09-16 15:00:00+00:00,164.0,2.0,https://docs.fcc.gov/public/attachments/DOC-354106A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,51.75,1.2195121951219512
+hurricane_florence_2018,37129,2018-09-16 15:00:00+00:00,287.0,112.0,https://docs.fcc.gov/public/attachments/DOC-354106A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,51.75,39.02439024390244
+hurricane_florence_2018,37131,2018-09-16 15:00:00+00:00,25.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354106A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,51.75,0.0
+hurricane_florence_2018,37133,2018-09-16 15:00:00+00:00,227.0,88.0,https://docs.fcc.gov/public/attachments/DOC-354106A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,51.75,38.76651982378855
+hurricane_florence_2018,37137,2018-09-16 15:00:00+00:00,19.0,2.0,https://docs.fcc.gov/public/attachments/DOC-354106A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,51.75,10.526315789473685
+hurricane_florence_2018,37139,2018-09-16 15:00:00+00:00,38.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354106A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,51.75,0.0
+hurricane_florence_2018,37141,2018-09-16 15:00:00+00:00,89.0,29.0,https://docs.fcc.gov/public/attachments/DOC-354106A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,51.75,32.58426966292135
+hurricane_florence_2018,37143,2018-09-16 15:00:00+00:00,17.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354106A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,51.75,0.0
+hurricane_florence_2018,37147,2018-09-16 15:00:00+00:00,250.0,13.0,https://docs.fcc.gov/public/attachments/DOC-354106A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,51.75,5.2
+hurricane_florence_2018,37153,2018-09-16 15:00:00+00:00,101.0,13.0,https://docs.fcc.gov/public/attachments/DOC-354106A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,51.75,12.871287128712872
+hurricane_florence_2018,37155,2018-09-16 15:00:00+00:00,149.0,38.0,https://docs.fcc.gov/public/attachments/DOC-354106A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,51.75,25.503355704697988
+hurricane_florence_2018,37163,2018-09-16 15:00:00+00:00,103.0,20.0,https://docs.fcc.gov/public/attachments/DOC-354106A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,51.75,19.41747572815534
+hurricane_florence_2018,37165,2018-09-16 15:00:00+00:00,55.0,12.0,https://docs.fcc.gov/public/attachments/DOC-354106A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,51.75,21.818181818181817
+hurricane_florence_2018,37177,2018-09-16 15:00:00+00:00,11.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354106A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,51.75,0.0
+hurricane_florence_2018,37183,2018-09-16 15:00:00+00:00,1131.0,16.0,https://docs.fcc.gov/public/attachments/DOC-354106A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,51.75,1.4146772767462423
+hurricane_florence_2018,37187,2018-09-16 15:00:00+00:00,21.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354106A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,51.75,0.0
+hurricane_florence_2018,37191,2018-09-16 15:00:00+00:00,142.0,19.0,https://docs.fcc.gov/public/attachments/DOC-354106A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,51.75,13.380281690140846
+hurricane_florence_2018,37195,2018-09-16 15:00:00+00:00,94.0,1.0,https://docs.fcc.gov/public/attachments/DOC-354106A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,51.75,1.0638297872340425
+hurricane_florence_2018,37197,2018-09-16 15:00:00+00:00,12.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354106A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,51.75,0.0
+hurricane_florence_2018,37007,2018-09-17 15:00:00+00:00,39.0,2.0,https://docs.fcc.gov/public/attachments/DOC-354120A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,75.75,5.128205128205129
+hurricane_florence_2018,37013,2018-09-17 15:00:00+00:00,65.0,2.0,https://docs.fcc.gov/public/attachments/DOC-354120A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,75.75,3.076923076923077
+hurricane_florence_2018,37015,2018-09-17 15:00:00+00:00,23.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354120A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,75.75,0.0
+hurricane_florence_2018,37017,2018-09-17 15:00:00+00:00,75.0,11.0,https://docs.fcc.gov/public/attachments/DOC-354120A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,75.75,14.666666666666666
+hurricane_florence_2018,37019,2018-09-17 15:00:00+00:00,238.0,65.0,https://docs.fcc.gov/public/attachments/DOC-354120A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,75.75,27.310924369747898
+hurricane_florence_2018,37029,2018-09-17 15:00:00+00:00,42.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354120A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,75.75,0.0
+hurricane_florence_2018,37031,2018-09-17 15:00:00+00:00,103.0,31.0,https://docs.fcc.gov/public/attachments/DOC-354120A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,75.75,30.097087378640776
+hurricane_florence_2018,37037,2018-09-17 15:00:00+00:00,221.0,5.0,https://docs.fcc.gov/public/attachments/DOC-354120A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,75.75,2.262443438914027
+hurricane_florence_2018,37041,2018-09-17 15:00:00+00:00,17.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354120A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,75.75,0.0
+hurricane_florence_2018,37047,2018-09-17 15:00:00+00:00,92.0,18.0,https://docs.fcc.gov/public/attachments/DOC-354120A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,75.75,19.565217391304348
+hurricane_florence_2018,37049,2018-09-17 15:00:00+00:00,201.0,26.0,https://docs.fcc.gov/public/attachments/DOC-354120A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,75.75,12.935323383084578
+hurricane_florence_2018,37051,2018-09-17 15:00:00+00:00,390.0,52.0,https://docs.fcc.gov/public/attachments/DOC-354120A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,75.75,13.333333333333334
+hurricane_florence_2018,37053,2018-09-17 15:00:00+00:00,68.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354120A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,75.75,0.0
+hurricane_florence_2018,37055,2018-09-17 15:00:00+00:00,88.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354120A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,75.75,0.0
+hurricane_florence_2018,37061,2018-09-17 15:00:00+00:00,89.0,32.0,https://docs.fcc.gov/public/attachments/DOC-354120A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,75.75,35.95505617977528
+hurricane_florence_2018,37065,2018-09-17 15:00:00+00:00,47.0,1.0,https://docs.fcc.gov/public/attachments/DOC-354120A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,75.75,2.127659574468085
+hurricane_florence_2018,37069,2018-09-17 15:00:00+00:00,41.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354120A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,75.75,0.0
+hurricane_florence_2018,37073,2018-09-17 15:00:00+00:00,15.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354120A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,75.75,0.0
+hurricane_florence_2018,37079,2018-09-17 15:00:00+00:00,45.0,3.0,https://docs.fcc.gov/public/attachments/DOC-354120A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,75.75,6.666666666666667
+hurricane_florence_2018,37081,2018-09-17 15:00:00+00:00,69.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354120A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,75.75,0.0
+hurricane_florence_2018,37083,2018-09-17 15:00:00+00:00,71.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354120A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,75.75,0.0
+hurricane_florence_2018,37085,2018-09-17 15:00:00+00:00,139.0,8.0,https://docs.fcc.gov/public/attachments/DOC-354120A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,75.75,5.755395683453237
+hurricane_florence_2018,37087,2018-09-17 15:00:00+00:00,9.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354120A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,75.75,0.0
+hurricane_florence_2018,37091,2018-09-17 15:00:00+00:00,23.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354120A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,75.75,0.0
+hurricane_florence_2018,37093,2018-09-17 15:00:00+00:00,52.0,4.0,https://docs.fcc.gov/public/attachments/DOC-354120A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,75.75,7.6923076923076925
+hurricane_florence_2018,37095,2018-09-17 15:00:00+00:00,23.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354120A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,75.75,0.0
+hurricane_florence_2018,37101,2018-09-17 15:00:00+00:00,182.0,8.0,https://docs.fcc.gov/public/attachments/DOC-354120A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,75.75,4.395604395604396
+hurricane_florence_2018,37103,2018-09-17 15:00:00+00:00,47.0,18.0,https://docs.fcc.gov/public/attachments/DOC-354120A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,75.75,38.297872340425535
+hurricane_florence_2018,37105,2018-09-17 15:00:00+00:00,79.0,4.0,https://docs.fcc.gov/public/attachments/DOC-354120A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,75.75,5.063291139240507
+hurricane_florence_2018,37107,2018-09-17 15:00:00+00:00,87.0,15.0,https://docs.fcc.gov/public/attachments/DOC-354120A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,75.75,17.24137931034483
+hurricane_florence_2018,37117,2018-09-17 15:00:00+00:00,28.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354120A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,75.75,0.0
+hurricane_florence_2018,37125,2018-09-17 15:00:00+00:00,147.0,24.0,https://docs.fcc.gov/public/attachments/DOC-354120A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,75.75,16.3265306122449
+hurricane_florence_2018,37127,2018-09-17 15:00:00+00:00,164.0,2.0,https://docs.fcc.gov/public/attachments/DOC-354120A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,75.75,1.2195121951219512
+hurricane_florence_2018,37129,2018-09-17 15:00:00+00:00,287.0,99.0,https://docs.fcc.gov/public/attachments/DOC-354120A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,75.75,34.494773519163765
+hurricane_florence_2018,37131,2018-09-17 15:00:00+00:00,25.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354120A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,75.75,0.0
+hurricane_florence_2018,37133,2018-09-17 15:00:00+00:00,227.0,115.0,https://docs.fcc.gov/public/attachments/DOC-354120A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,75.75,50.66079295154185
+hurricane_florence_2018,37137,2018-09-17 15:00:00+00:00,19.0,3.0,https://docs.fcc.gov/public/attachments/DOC-354120A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,75.75,15.789473684210526
+hurricane_florence_2018,37139,2018-09-17 15:00:00+00:00,38.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354120A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,75.75,0.0
+hurricane_florence_2018,37141,2018-09-17 15:00:00+00:00,89.0,28.0,https://docs.fcc.gov/public/attachments/DOC-354120A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,75.75,31.46067415730337
+hurricane_florence_2018,37143,2018-09-17 15:00:00+00:00,17.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354120A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,75.75,0.0
+hurricane_florence_2018,37147,2018-09-17 15:00:00+00:00,250.0,13.0,https://docs.fcc.gov/public/attachments/DOC-354120A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,75.75,5.2
+hurricane_florence_2018,37153,2018-09-17 15:00:00+00:00,101.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354120A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,75.75,0.0
+hurricane_florence_2018,37155,2018-09-17 15:00:00+00:00,149.0,37.0,https://docs.fcc.gov/public/attachments/DOC-354120A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,75.75,24.83221476510067
+hurricane_florence_2018,37163,2018-09-17 15:00:00+00:00,103.0,11.0,https://docs.fcc.gov/public/attachments/DOC-354120A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,75.75,10.679611650485437
+hurricane_florence_2018,37165,2018-09-17 15:00:00+00:00,55.0,14.0,https://docs.fcc.gov/public/attachments/DOC-354120A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,75.75,25.454545454545453
+hurricane_florence_2018,37177,2018-09-17 15:00:00+00:00,11.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354120A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,75.75,0.0
+hurricane_florence_2018,37183,2018-09-17 15:00:00+00:00,1131.0,15.0,https://docs.fcc.gov/public/attachments/DOC-354120A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,75.75,1.3262599469496021
+hurricane_florence_2018,37187,2018-09-17 15:00:00+00:00,21.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354120A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,75.75,0.0
+hurricane_florence_2018,37191,2018-09-17 15:00:00+00:00,142.0,16.0,https://docs.fcc.gov/public/attachments/DOC-354120A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,75.75,11.267605633802816
+hurricane_florence_2018,37195,2018-09-17 15:00:00+00:00,94.0,1.0,https://docs.fcc.gov/public/attachments/DOC-354120A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,75.75,1.0638297872340425
+hurricane_florence_2018,37197,2018-09-17 15:00:00+00:00,12.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354120A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,75.75,0.0
+hurricane_florence_2018,37007,2018-09-18 15:00:00+00:00,47.0,2.0,https://docs.fcc.gov/public/attachments/DOC-354165A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,99.75,4.25531914893617
+hurricane_florence_2018,37013,2018-09-18 15:00:00+00:00,65.0,1.0,https://docs.fcc.gov/public/attachments/DOC-354165A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,99.75,1.5384615384615385
+hurricane_florence_2018,37015,2018-09-18 15:00:00+00:00,23.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354165A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,99.75,0.0
+hurricane_florence_2018,37017,2018-09-18 15:00:00+00:00,75.0,13.0,https://docs.fcc.gov/public/attachments/DOC-354165A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,99.75,17.333333333333332
+hurricane_florence_2018,37019,2018-09-18 15:00:00+00:00,238.0,57.0,https://docs.fcc.gov/public/attachments/DOC-354165A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,99.75,23.949579831932773
+hurricane_florence_2018,37029,2018-09-18 15:00:00+00:00,42.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354165A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,99.75,0.0
+hurricane_florence_2018,37031,2018-09-18 15:00:00+00:00,103.0,22.0,https://docs.fcc.gov/public/attachments/DOC-354165A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,99.75,21.359223300970875
+hurricane_florence_2018,37037,2018-09-18 15:00:00+00:00,221.0,2.0,https://docs.fcc.gov/public/attachments/DOC-354165A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,99.75,0.9049773755656109
+hurricane_florence_2018,37041,2018-09-18 15:00:00+00:00,17.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354165A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,99.75,0.0
+hurricane_florence_2018,37047,2018-09-18 15:00:00+00:00,92.0,32.0,https://docs.fcc.gov/public/attachments/DOC-354165A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,99.75,34.78260869565217
+hurricane_florence_2018,37049,2018-09-18 15:00:00+00:00,201.0,21.0,https://docs.fcc.gov/public/attachments/DOC-354165A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,99.75,10.447761194029852
+hurricane_florence_2018,37051,2018-09-18 15:00:00+00:00,390.0,22.0,https://docs.fcc.gov/public/attachments/DOC-354165A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,99.75,5.641025641025641
+hurricane_florence_2018,37053,2018-09-18 15:00:00+00:00,68.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354165A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,99.75,0.0
+hurricane_florence_2018,37055,2018-09-18 15:00:00+00:00,88.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354165A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,99.75,0.0
+hurricane_florence_2018,37061,2018-09-18 15:00:00+00:00,89.0,21.0,https://docs.fcc.gov/public/attachments/DOC-354165A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,99.75,23.59550561797753
+hurricane_florence_2018,37065,2018-09-18 15:00:00+00:00,47.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354165A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,99.75,0.0
+hurricane_florence_2018,37069,2018-09-18 15:00:00+00:00,41.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354165A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,99.75,0.0
+hurricane_florence_2018,37073,2018-09-18 15:00:00+00:00,15.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354165A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,99.75,0.0
+hurricane_florence_2018,37079,2018-09-18 15:00:00+00:00,45.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354165A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,99.75,0.0
+hurricane_florence_2018,37081,2018-09-18 15:00:00+00:00,69.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354165A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,99.75,0.0
+hurricane_florence_2018,37083,2018-09-18 15:00:00+00:00,71.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354165A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,99.75,0.0
+hurricane_florence_2018,37085,2018-09-18 15:00:00+00:00,140.0,6.0,https://docs.fcc.gov/public/attachments/DOC-354165A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,99.75,4.285714285714286
+hurricane_florence_2018,37087,2018-09-18 15:00:00+00:00,9.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354165A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,99.75,0.0
+hurricane_florence_2018,37091,2018-09-18 15:00:00+00:00,23.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354165A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,99.75,0.0
+hurricane_florence_2018,37093,2018-09-18 15:00:00+00:00,52.0,3.0,https://docs.fcc.gov/public/attachments/DOC-354165A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,99.75,5.769230769230769
+hurricane_florence_2018,37095,2018-09-18 15:00:00+00:00,23.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354165A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,99.75,0.0
+hurricane_florence_2018,37101,2018-09-18 15:00:00+00:00,182.0,3.0,https://docs.fcc.gov/public/attachments/DOC-354165A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,99.75,1.6483516483516483
+hurricane_florence_2018,37103,2018-09-18 15:00:00+00:00,47.0,7.0,https://docs.fcc.gov/public/attachments/DOC-354165A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,99.75,14.893617021276595
+hurricane_florence_2018,37105,2018-09-18 15:00:00+00:00,79.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354165A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,99.75,0.0
+hurricane_florence_2018,37107,2018-09-18 15:00:00+00:00,87.0,13.0,https://docs.fcc.gov/public/attachments/DOC-354165A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,99.75,14.942528735632184
+hurricane_florence_2018,37117,2018-09-18 15:00:00+00:00,28.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354165A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,99.75,0.0
+hurricane_florence_2018,37125,2018-09-18 15:00:00+00:00,147.0,6.0,https://docs.fcc.gov/public/attachments/DOC-354165A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,99.75,4.081632653061225
+hurricane_florence_2018,37127,2018-09-18 15:00:00+00:00,164.0,1.0,https://docs.fcc.gov/public/attachments/DOC-354165A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,99.75,0.6097560975609756
+hurricane_florence_2018,37129,2018-09-18 15:00:00+00:00,287.0,78.0,https://docs.fcc.gov/public/attachments/DOC-354165A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,99.75,27.177700348432055
+hurricane_florence_2018,37131,2018-09-18 15:00:00+00:00,25.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354165A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,99.75,0.0
+hurricane_florence_2018,37133,2018-09-18 15:00:00+00:00,227.0,71.0,https://docs.fcc.gov/public/attachments/DOC-354165A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,99.75,31.277533039647576
+hurricane_florence_2018,37137,2018-09-18 15:00:00+00:00,19.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354165A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,99.75,0.0
+hurricane_florence_2018,37139,2018-09-18 15:00:00+00:00,38.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354165A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,99.75,0.0
+hurricane_florence_2018,37141,2018-09-18 15:00:00+00:00,89.0,27.0,https://docs.fcc.gov/public/attachments/DOC-354165A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,99.75,30.337078651685392
+hurricane_florence_2018,37143,2018-09-18 15:00:00+00:00,17.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354165A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,99.75,0.0
+hurricane_florence_2018,37147,2018-09-18 15:00:00+00:00,250.0,13.0,https://docs.fcc.gov/public/attachments/DOC-354165A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,99.75,5.2
+hurricane_florence_2018,37153,2018-09-18 15:00:00+00:00,110.0,4.0,https://docs.fcc.gov/public/attachments/DOC-354165A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,99.75,3.6363636363636362
+hurricane_florence_2018,37155,2018-09-18 15:00:00+00:00,149.0,9.0,https://docs.fcc.gov/public/attachments/DOC-354165A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,99.75,6.040268456375839
+hurricane_florence_2018,37163,2018-09-18 15:00:00+00:00,103.0,9.0,https://docs.fcc.gov/public/attachments/DOC-354165A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,99.75,8.737864077669903
+hurricane_florence_2018,37165,2018-09-18 15:00:00+00:00,55.0,4.0,https://docs.fcc.gov/public/attachments/DOC-354165A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,99.75,7.2727272727272725
+hurricane_florence_2018,37177,2018-09-18 15:00:00+00:00,11.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354165A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,99.75,0.0
+hurricane_florence_2018,37183,2018-09-18 15:00:00+00:00,1131.0,10.0,https://docs.fcc.gov/public/attachments/DOC-354165A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,99.75,0.8841732979664014
+hurricane_florence_2018,37187,2018-09-18 15:00:00+00:00,21.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354165A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,99.75,0.0
+hurricane_florence_2018,37191,2018-09-18 15:00:00+00:00,142.0,9.0,https://docs.fcc.gov/public/attachments/DOC-354165A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,99.75,6.338028169014085
+hurricane_florence_2018,37195,2018-09-18 15:00:00+00:00,94.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354165A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,99.75,0.0
+hurricane_florence_2018,37197,2018-09-18 15:00:00+00:00,12.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354165A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,99.75,0.0
+hurricane_florence_2018,37007,2018-09-19 15:00:00+00:00,47.0,1.0,https://docs.fcc.gov/public/attachments/DOC-354186A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,123.75,2.127659574468085
+hurricane_florence_2018,37013,2018-09-19 15:00:00+00:00,65.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354186A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,123.75,0.0
+hurricane_florence_2018,37015,2018-09-19 15:00:00+00:00,23.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354186A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,123.75,0.0
+hurricane_florence_2018,37017,2018-09-19 15:00:00+00:00,75.0,1.0,https://docs.fcc.gov/public/attachments/DOC-354186A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,123.75,1.3333333333333333
+hurricane_florence_2018,37019,2018-09-19 15:00:00+00:00,238.0,36.0,https://docs.fcc.gov/public/attachments/DOC-354186A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,123.75,15.126050420168067
+hurricane_florence_2018,37029,2018-09-19 15:00:00+00:00,42.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354186A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,123.75,0.0
+hurricane_florence_2018,37031,2018-09-19 15:00:00+00:00,103.0,22.0,https://docs.fcc.gov/public/attachments/DOC-354186A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,123.75,21.359223300970875
+hurricane_florence_2018,37037,2018-09-19 15:00:00+00:00,221.0,4.0,https://docs.fcc.gov/public/attachments/DOC-354186A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,123.75,1.8099547511312217
+hurricane_florence_2018,37041,2018-09-19 15:00:00+00:00,17.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354186A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,123.75,0.0
+hurricane_florence_2018,37047,2018-09-19 15:00:00+00:00,92.0,8.0,https://docs.fcc.gov/public/attachments/DOC-354186A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,123.75,8.695652173913043
+hurricane_florence_2018,37049,2018-09-19 15:00:00+00:00,201.0,12.0,https://docs.fcc.gov/public/attachments/DOC-354186A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,123.75,5.970149253731344
+hurricane_florence_2018,37051,2018-09-19 15:00:00+00:00,390.0,8.0,https://docs.fcc.gov/public/attachments/DOC-354186A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,123.75,2.051282051282051
+hurricane_florence_2018,37053,2018-09-19 15:00:00+00:00,68.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354186A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,123.75,0.0
+hurricane_florence_2018,37055,2018-09-19 15:00:00+00:00,88.0,1.0,https://docs.fcc.gov/public/attachments/DOC-354186A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,123.75,1.1363636363636365
+hurricane_florence_2018,37061,2018-09-19 15:00:00+00:00,89.0,5.0,https://docs.fcc.gov/public/attachments/DOC-354186A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,123.75,5.617977528089888
+hurricane_florence_2018,37065,2018-09-19 15:00:00+00:00,47.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354186A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,123.75,0.0
+hurricane_florence_2018,37069,2018-09-19 15:00:00+00:00,41.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354186A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,123.75,0.0
+hurricane_florence_2018,37073,2018-09-19 15:00:00+00:00,15.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354186A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,123.75,0.0
+hurricane_florence_2018,37079,2018-09-19 15:00:00+00:00,45.0,1.0,https://docs.fcc.gov/public/attachments/DOC-354186A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,123.75,2.2222222222222223
+hurricane_florence_2018,37083,2018-09-19 15:00:00+00:00,71.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354186A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,123.75,0.0
+hurricane_florence_2018,37085,2018-09-19 15:00:00+00:00,140.0,3.0,https://docs.fcc.gov/public/attachments/DOC-354186A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,123.75,2.142857142857143
+hurricane_florence_2018,37091,2018-09-19 15:00:00+00:00,23.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354186A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,123.75,0.0
+hurricane_florence_2018,37093,2018-09-19 15:00:00+00:00,52.0,1.0,https://docs.fcc.gov/public/attachments/DOC-354186A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,123.75,1.9230769230769231
+hurricane_florence_2018,37095,2018-09-19 15:00:00+00:00,23.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354186A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,123.75,0.0
+hurricane_florence_2018,37101,2018-09-19 15:00:00+00:00,182.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354186A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,123.75,0.0
+hurricane_florence_2018,37103,2018-09-19 15:00:00+00:00,47.0,5.0,https://docs.fcc.gov/public/attachments/DOC-354186A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,123.75,10.638297872340425
+hurricane_florence_2018,37105,2018-09-19 15:00:00+00:00,79.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354186A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,123.75,0.0
+hurricane_florence_2018,37107,2018-09-19 15:00:00+00:00,87.0,3.0,https://docs.fcc.gov/public/attachments/DOC-354186A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,123.75,3.4482758620689653
+hurricane_florence_2018,37117,2018-09-19 15:00:00+00:00,28.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354186A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,123.75,0.0
+hurricane_florence_2018,37125,2018-09-19 15:00:00+00:00,147.0,1.0,https://docs.fcc.gov/public/attachments/DOC-354186A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,123.75,0.6802721088435374
+hurricane_florence_2018,37127,2018-09-19 15:00:00+00:00,164.0,1.0,https://docs.fcc.gov/public/attachments/DOC-354186A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,123.75,0.6097560975609756
+hurricane_florence_2018,37129,2018-09-19 15:00:00+00:00,287.0,41.0,https://docs.fcc.gov/public/attachments/DOC-354186A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,123.75,14.285714285714286
+hurricane_florence_2018,37131,2018-09-19 15:00:00+00:00,25.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354186A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,123.75,0.0
+hurricane_florence_2018,37133,2018-09-19 15:00:00+00:00,227.0,43.0,https://docs.fcc.gov/public/attachments/DOC-354186A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,123.75,18.94273127753304
+hurricane_florence_2018,37137,2018-09-19 15:00:00+00:00,19.0,2.0,https://docs.fcc.gov/public/attachments/DOC-354186A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,123.75,10.526315789473685
+hurricane_florence_2018,37139,2018-09-19 15:00:00+00:00,38.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354186A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,123.75,0.0
+hurricane_florence_2018,37141,2018-09-19 15:00:00+00:00,89.0,8.0,https://docs.fcc.gov/public/attachments/DOC-354186A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,123.75,8.98876404494382
+hurricane_florence_2018,37143,2018-09-19 15:00:00+00:00,17.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354186A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,123.75,0.0
+hurricane_florence_2018,37147,2018-09-19 15:00:00+00:00,250.0,11.0,https://docs.fcc.gov/public/attachments/DOC-354186A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,123.75,4.4
+hurricane_florence_2018,37153,2018-09-19 15:00:00+00:00,110.0,1.0,https://docs.fcc.gov/public/attachments/DOC-354186A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,123.75,0.9090909090909091
+hurricane_florence_2018,37155,2018-09-19 15:00:00+00:00,149.0,8.0,https://docs.fcc.gov/public/attachments/DOC-354186A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,123.75,5.369127516778524
+hurricane_florence_2018,37163,2018-09-19 15:00:00+00:00,103.0,5.0,https://docs.fcc.gov/public/attachments/DOC-354186A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,123.75,4.854368932038835
+hurricane_florence_2018,37165,2018-09-19 15:00:00+00:00,55.0,3.0,https://docs.fcc.gov/public/attachments/DOC-354186A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,123.75,5.454545454545454
+hurricane_florence_2018,37177,2018-09-19 15:00:00+00:00,11.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354186A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,123.75,0.0
+hurricane_florence_2018,37183,2018-09-19 15:00:00+00:00,1131.0,9.0,https://docs.fcc.gov/public/attachments/DOC-354186A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,123.75,0.7957559681697612
+hurricane_florence_2018,37187,2018-09-19 15:00:00+00:00,21.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354186A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,123.75,0.0
+hurricane_florence_2018,37191,2018-09-19 15:00:00+00:00,142.0,1.0,https://docs.fcc.gov/public/attachments/DOC-354186A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,123.75,0.704225352112676
+hurricane_florence_2018,37195,2018-09-19 15:00:00+00:00,94.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354186A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,123.75,0.0
+hurricane_florence_2018,37007,2018-09-20 15:00:00+00:00,47.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354198A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,147.75,0.0
+hurricane_florence_2018,37013,2018-09-20 15:00:00+00:00,65.0,1.0,https://docs.fcc.gov/public/attachments/DOC-354198A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,147.75,1.5384615384615385
+hurricane_florence_2018,37015,2018-09-20 15:00:00+00:00,23.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354198A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,147.75,0.0
+hurricane_florence_2018,37017,2018-09-20 15:00:00+00:00,75.0,5.0,https://docs.fcc.gov/public/attachments/DOC-354198A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,147.75,6.666666666666667
+hurricane_florence_2018,37019,2018-09-20 15:00:00+00:00,238.0,28.0,https://docs.fcc.gov/public/attachments/DOC-354198A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,147.75,11.764705882352942
+hurricane_florence_2018,37029,2018-09-20 15:00:00+00:00,42.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354198A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,147.75,0.0
+hurricane_florence_2018,37031,2018-09-20 15:00:00+00:00,103.0,18.0,https://docs.fcc.gov/public/attachments/DOC-354198A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,147.75,17.475728155339805
+hurricane_florence_2018,37037,2018-09-20 15:00:00+00:00,221.0,4.0,https://docs.fcc.gov/public/attachments/DOC-354198A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,147.75,1.8099547511312217
+hurricane_florence_2018,37041,2018-09-20 15:00:00+00:00,17.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354198A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,147.75,0.0
+hurricane_florence_2018,37047,2018-09-20 15:00:00+00:00,92.0,7.0,https://docs.fcc.gov/public/attachments/DOC-354198A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,147.75,7.608695652173913
+hurricane_florence_2018,37049,2018-09-20 15:00:00+00:00,201.0,8.0,https://docs.fcc.gov/public/attachments/DOC-354198A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,147.75,3.9800995024875623
+hurricane_florence_2018,37051,2018-09-20 15:00:00+00:00,390.0,7.0,https://docs.fcc.gov/public/attachments/DOC-354198A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,147.75,1.794871794871795
+hurricane_florence_2018,37053,2018-09-20 15:00:00+00:00,68.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354198A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,147.75,0.0
+hurricane_florence_2018,37055,2018-09-20 15:00:00+00:00,88.0,1.0,https://docs.fcc.gov/public/attachments/DOC-354198A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,147.75,1.1363636363636365
+hurricane_florence_2018,37061,2018-09-20 15:00:00+00:00,89.0,7.0,https://docs.fcc.gov/public/attachments/DOC-354198A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,147.75,7.865168539325842
+hurricane_florence_2018,37065,2018-09-20 15:00:00+00:00,47.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354198A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,147.75,0.0
+hurricane_florence_2018,37069,2018-09-20 15:00:00+00:00,41.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354198A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,147.75,0.0
+hurricane_florence_2018,37073,2018-09-20 15:00:00+00:00,15.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354198A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,147.75,0.0
+hurricane_florence_2018,37079,2018-09-20 15:00:00+00:00,45.0,2.0,https://docs.fcc.gov/public/attachments/DOC-354198A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,147.75,4.444444444444445
+hurricane_florence_2018,37083,2018-09-20 15:00:00+00:00,71.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354198A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,147.75,0.0
+hurricane_florence_2018,37085,2018-09-20 15:00:00+00:00,140.0,1.0,https://docs.fcc.gov/public/attachments/DOC-354198A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,147.75,0.7142857142857143
+hurricane_florence_2018,37091,2018-09-20 15:00:00+00:00,23.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354198A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,147.75,0.0
+hurricane_florence_2018,37093,2018-09-20 15:00:00+00:00,52.0,1.0,https://docs.fcc.gov/public/attachments/DOC-354198A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,147.75,1.9230769230769231
+hurricane_florence_2018,37095,2018-09-20 15:00:00+00:00,23.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354198A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,147.75,0.0
+hurricane_florence_2018,37101,2018-09-20 15:00:00+00:00,182.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354198A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,147.75,0.0
+hurricane_florence_2018,37103,2018-09-20 15:00:00+00:00,47.0,6.0,https://docs.fcc.gov/public/attachments/DOC-354198A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,147.75,12.76595744680851
+hurricane_florence_2018,37105,2018-09-20 15:00:00+00:00,79.0,1.0,https://docs.fcc.gov/public/attachments/DOC-354198A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,147.75,1.2658227848101267
+hurricane_florence_2018,37107,2018-09-20 15:00:00+00:00,87.0,3.0,https://docs.fcc.gov/public/attachments/DOC-354198A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,147.75,3.4482758620689653
+hurricane_florence_2018,37117,2018-09-20 15:00:00+00:00,28.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354198A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,147.75,0.0
+hurricane_florence_2018,37125,2018-09-20 15:00:00+00:00,147.0,1.0,https://docs.fcc.gov/public/attachments/DOC-354198A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,147.75,0.6802721088435374
+hurricane_florence_2018,37127,2018-09-20 15:00:00+00:00,164.0,1.0,https://docs.fcc.gov/public/attachments/DOC-354198A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,147.75,0.6097560975609756
+hurricane_florence_2018,37129,2018-09-20 15:00:00+00:00,287.0,42.0,https://docs.fcc.gov/public/attachments/DOC-354198A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,147.75,14.634146341463415
+hurricane_florence_2018,37131,2018-09-20 15:00:00+00:00,25.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354198A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,147.75,0.0
+hurricane_florence_2018,37133,2018-09-20 15:00:00+00:00,227.0,37.0,https://docs.fcc.gov/public/attachments/DOC-354198A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,147.75,16.29955947136564
+hurricane_florence_2018,37137,2018-09-20 15:00:00+00:00,19.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354198A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,147.75,0.0
+hurricane_florence_2018,37139,2018-09-20 15:00:00+00:00,38.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354198A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,147.75,0.0
+hurricane_florence_2018,37141,2018-09-20 15:00:00+00:00,89.0,4.0,https://docs.fcc.gov/public/attachments/DOC-354198A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,147.75,4.49438202247191
+hurricane_florence_2018,37143,2018-09-20 15:00:00+00:00,17.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354198A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,147.75,0.0
+hurricane_florence_2018,37147,2018-09-20 15:00:00+00:00,250.0,11.0,https://docs.fcc.gov/public/attachments/DOC-354198A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,147.75,4.4
+hurricane_florence_2018,37153,2018-09-20 15:00:00+00:00,110.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354198A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,147.75,0.0
+hurricane_florence_2018,37155,2018-09-20 15:00:00+00:00,149.0,5.0,https://docs.fcc.gov/public/attachments/DOC-354198A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,147.75,3.3557046979865772
+hurricane_florence_2018,37163,2018-09-20 15:00:00+00:00,103.0,2.0,https://docs.fcc.gov/public/attachments/DOC-354198A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,147.75,1.941747572815534
+hurricane_florence_2018,37165,2018-09-20 15:00:00+00:00,55.0,2.0,https://docs.fcc.gov/public/attachments/DOC-354198A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,147.75,3.6363636363636362
+hurricane_florence_2018,37177,2018-09-20 15:00:00+00:00,11.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354198A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,147.75,0.0
+hurricane_florence_2018,37183,2018-09-20 15:00:00+00:00,1131.0,9.0,https://docs.fcc.gov/public/attachments/DOC-354198A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,147.75,0.7957559681697612
+hurricane_florence_2018,37187,2018-09-20 15:00:00+00:00,21.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354198A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,147.75,0.0
+hurricane_florence_2018,37191,2018-09-20 15:00:00+00:00,142.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354198A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,147.75,0.0
+hurricane_florence_2018,37195,2018-09-20 15:00:00+00:00,94.0,0.0,https://docs.fcc.gov/public/attachments/DOC-354198A1.pdf,2018-09-14 11:15:00+00:00,regenerated NC,147.75,0.0
+hurricane_dorian_2019,37013,2019-09-06 15:30:00+00:00,54.0,2.0,https://docs.fcc.gov/public/attachments/DOC-359533A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,3.0,3.7037037037037037
+hurricane_dorian_2019,37015,2019-09-06 15:30:00+00:00,14.0,0.0,https://docs.fcc.gov/public/attachments/DOC-359533A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,3.0,0.0
+hurricane_dorian_2019,37017,2019-09-06 15:30:00+00:00,57.0,4.0,https://docs.fcc.gov/public/attachments/DOC-359533A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,3.0,7.017543859649122
+hurricane_dorian_2019,37019,2019-09-06 15:30:00+00:00,184.0,11.0,https://docs.fcc.gov/public/attachments/DOC-359533A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,3.0,5.978260869565218
+hurricane_dorian_2019,37029,2019-09-06 15:30:00+00:00,36.0,2.0,https://docs.fcc.gov/public/attachments/DOC-359533A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,3.0,5.555555555555555
+hurricane_dorian_2019,37031,2019-09-06 15:30:00+00:00,80.0,15.0,https://docs.fcc.gov/public/attachments/DOC-359533A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,3.0,18.75
+hurricane_dorian_2019,37041,2019-09-06 15:30:00+00:00,9.0,0.0,https://docs.fcc.gov/public/attachments/DOC-359533A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,3.0,0.0
+hurricane_dorian_2019,37047,2019-09-06 15:30:00+00:00,68.0,2.0,https://docs.fcc.gov/public/attachments/DOC-359533A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,3.0,2.9411764705882355
+hurricane_dorian_2019,37049,2019-09-06 15:30:00+00:00,139.0,8.0,https://docs.fcc.gov/public/attachments/DOC-359533A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,3.0,5.755395683453237
+hurricane_dorian_2019,37051,2019-09-06 15:30:00+00:00,327.0,1.0,https://docs.fcc.gov/public/attachments/DOC-359533A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,3.0,0.3058103975535168
+hurricane_dorian_2019,37053,2019-09-06 15:30:00+00:00,39.0,3.0,https://docs.fcc.gov/public/attachments/DOC-359533A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,3.0,7.6923076923076925
+hurricane_dorian_2019,37055,2019-09-06 15:30:00+00:00,43.0,1.0,https://docs.fcc.gov/public/attachments/DOC-359533A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,3.0,2.3255813953488373
+hurricane_dorian_2019,37061,2019-09-06 15:30:00+00:00,75.0,4.0,https://docs.fcc.gov/public/attachments/DOC-359533A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,3.0,5.333333333333333
+hurricane_dorian_2019,37065,2019-09-06 15:30:00+00:00,55.0,1.0,https://docs.fcc.gov/public/attachments/DOC-359533A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,3.0,1.8181818181818181
+hurricane_dorian_2019,37073,2019-09-06 15:30:00+00:00,15.0,0.0,https://docs.fcc.gov/public/attachments/DOC-359533A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,3.0,0.0
+hurricane_dorian_2019,37079,2019-09-06 15:30:00+00:00,29.0,1.0,https://docs.fcc.gov/public/attachments/DOC-359533A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,3.0,3.4482758620689653
+hurricane_dorian_2019,37083,2019-09-06 15:30:00+00:00,62.0,0.0,https://docs.fcc.gov/public/attachments/DOC-359533A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,3.0,0.0
+hurricane_dorian_2019,37091,2019-09-06 15:30:00+00:00,21.0,0.0,https://docs.fcc.gov/public/attachments/DOC-359533A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,3.0,0.0
+hurricane_dorian_2019,37093,2019-09-06 15:30:00+00:00,38.0,0.0,https://docs.fcc.gov/public/attachments/DOC-359533A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,3.0,0.0
+hurricane_dorian_2019,37095,2019-09-06 15:30:00+00:00,9.0,0.0,https://docs.fcc.gov/public/attachments/DOC-359533A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,3.0,0.0
+hurricane_dorian_2019,37101,2019-09-06 15:30:00+00:00,158.0,2.0,https://docs.fcc.gov/public/attachments/DOC-359533A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,3.0,1.2658227848101267
+hurricane_dorian_2019,37103,2019-09-06 15:30:00+00:00,33.0,0.0,https://docs.fcc.gov/public/attachments/DOC-359533A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,3.0,0.0
+hurricane_dorian_2019,37107,2019-09-06 15:30:00+00:00,72.0,7.0,https://docs.fcc.gov/public/attachments/DOC-359533A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,3.0,9.722222222222221
+hurricane_dorian_2019,37117,2019-09-06 15:30:00+00:00,50.0,1.0,https://docs.fcc.gov/public/attachments/DOC-359533A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,3.0,2.0
+hurricane_dorian_2019,37129,2019-09-06 15:30:00+00:00,235.0,10.0,https://docs.fcc.gov/public/attachments/DOC-359533A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,3.0,4.25531914893617
+hurricane_dorian_2019,37133,2019-09-06 15:30:00+00:00,187.0,6.0,https://docs.fcc.gov/public/attachments/DOC-359533A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,3.0,3.2085561497326203
+hurricane_dorian_2019,37137,2019-09-06 15:30:00+00:00,13.0,1.0,https://docs.fcc.gov/public/attachments/DOC-359533A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,3.0,7.6923076923076925
+hurricane_dorian_2019,37139,2019-09-06 15:30:00+00:00,26.0,1.0,https://docs.fcc.gov/public/attachments/DOC-359533A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,3.0,3.8461538461538463
+hurricane_dorian_2019,37141,2019-09-06 15:30:00+00:00,65.0,2.0,https://docs.fcc.gov/public/attachments/DOC-359533A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,3.0,3.076923076923077
+hurricane_dorian_2019,37143,2019-09-06 15:30:00+00:00,13.0,0.0,https://docs.fcc.gov/public/attachments/DOC-359533A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,3.0,0.0
+hurricane_dorian_2019,37147,2019-09-06 15:30:00+00:00,190.0,4.0,https://docs.fcc.gov/public/attachments/DOC-359533A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,3.0,2.1052631578947367
+hurricane_dorian_2019,37155,2019-09-06 15:30:00+00:00,117.0,4.0,https://docs.fcc.gov/public/attachments/DOC-359533A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,3.0,3.4188034188034186
+hurricane_dorian_2019,37163,2019-09-06 15:30:00+00:00,77.0,9.0,https://docs.fcc.gov/public/attachments/DOC-359533A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,3.0,11.688311688311689
+hurricane_dorian_2019,37165,2019-09-06 15:30:00+00:00,48.0,0.0,https://docs.fcc.gov/public/attachments/DOC-359533A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,3.0,0.0
+hurricane_dorian_2019,37177,2019-09-06 15:30:00+00:00,10.0,1.0,https://docs.fcc.gov/public/attachments/DOC-359533A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,3.0,10.0
+hurricane_dorian_2019,37187,2019-09-06 15:30:00+00:00,19.0,1.0,https://docs.fcc.gov/public/attachments/DOC-359533A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,3.0,5.2631578947368425
+hurricane_dorian_2019,37191,2019-09-06 15:30:00+00:00,129.0,6.0,https://docs.fcc.gov/public/attachments/DOC-359533A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,3.0,4.651162790697675
+hurricane_dorian_2019,37195,2019-09-06 15:30:00+00:00,76.0,0.0,https://docs.fcc.gov/public/attachments/DOC-359533A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,3.0,0.0
+hurricane_dorian_2019,37013,2019-09-07 15:30:00+00:00,54.0,0.0,https://docs.fcc.gov/public/attachments/DOC-359539A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,27.0,0.0
+hurricane_dorian_2019,37015,2019-09-07 15:30:00+00:00,14.0,0.0,https://docs.fcc.gov/public/attachments/DOC-359539A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,27.0,0.0
+hurricane_dorian_2019,37017,2019-09-07 15:30:00+00:00,57.0,1.0,https://docs.fcc.gov/public/attachments/DOC-359539A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,27.0,1.7543859649122806
+hurricane_dorian_2019,37019,2019-09-07 15:30:00+00:00,184.0,3.0,https://docs.fcc.gov/public/attachments/DOC-359539A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,27.0,1.6304347826086956
+hurricane_dorian_2019,37029,2019-09-07 15:30:00+00:00,36.0,0.0,https://docs.fcc.gov/public/attachments/DOC-359539A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,27.0,0.0
+hurricane_dorian_2019,37031,2019-09-07 15:30:00+00:00,80.0,1.0,https://docs.fcc.gov/public/attachments/DOC-359539A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,27.0,1.25
+hurricane_dorian_2019,37041,2019-09-07 15:30:00+00:00,10.0,0.0,https://docs.fcc.gov/public/attachments/DOC-359539A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,27.0,0.0
+hurricane_dorian_2019,37047,2019-09-07 15:30:00+00:00,68.0,2.0,https://docs.fcc.gov/public/attachments/DOC-359539A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,27.0,2.9411764705882355
+hurricane_dorian_2019,37049,2019-09-07 15:30:00+00:00,139.0,2.0,https://docs.fcc.gov/public/attachments/DOC-359539A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,27.0,1.4388489208633093
+hurricane_dorian_2019,37051,2019-09-07 15:30:00+00:00,327.0,0.0,https://docs.fcc.gov/public/attachments/DOC-359539A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,27.0,0.0
+hurricane_dorian_2019,37053,2019-09-07 15:30:00+00:00,55.0,12.0,https://docs.fcc.gov/public/attachments/DOC-359539A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,27.0,21.818181818181817
+hurricane_dorian_2019,37055,2019-09-07 15:30:00+00:00,68.0,29.0,https://docs.fcc.gov/public/attachments/DOC-359539A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,27.0,42.64705882352941
+hurricane_dorian_2019,37061,2019-09-07 15:30:00+00:00,75.0,1.0,https://docs.fcc.gov/public/attachments/DOC-359539A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,27.0,1.3333333333333333
+hurricane_dorian_2019,37065,2019-09-07 15:30:00+00:00,55.0,0.0,https://docs.fcc.gov/public/attachments/DOC-359539A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,27.0,0.0
+hurricane_dorian_2019,37073,2019-09-07 15:30:00+00:00,15.0,0.0,https://docs.fcc.gov/public/attachments/DOC-359539A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,27.0,0.0
+hurricane_dorian_2019,37079,2019-09-07 15:30:00+00:00,25.0,0.0,https://docs.fcc.gov/public/attachments/DOC-359539A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,27.0,0.0
+hurricane_dorian_2019,37083,2019-09-07 15:30:00+00:00,62.0,0.0,https://docs.fcc.gov/public/attachments/DOC-359539A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,27.0,0.0
+hurricane_dorian_2019,37091,2019-09-07 15:30:00+00:00,21.0,0.0,https://docs.fcc.gov/public/attachments/DOC-359539A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,27.0,0.0
+hurricane_dorian_2019,37093,2019-09-07 15:30:00+00:00,38.0,0.0,https://docs.fcc.gov/public/attachments/DOC-359539A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,27.0,0.0
+hurricane_dorian_2019,37095,2019-09-07 15:30:00+00:00,9.0,1.0,https://docs.fcc.gov/public/attachments/DOC-359539A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,27.0,11.11111111111111
+hurricane_dorian_2019,37101,2019-09-07 15:30:00+00:00,158.0,0.0,https://docs.fcc.gov/public/attachments/DOC-359539A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,27.0,0.0
+hurricane_dorian_2019,37103,2019-09-07 15:30:00+00:00,33.0,0.0,https://docs.fcc.gov/public/attachments/DOC-359539A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,27.0,0.0
+hurricane_dorian_2019,37107,2019-09-07 15:30:00+00:00,72.0,0.0,https://docs.fcc.gov/public/attachments/DOC-359539A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,27.0,0.0
+hurricane_dorian_2019,37117,2019-09-07 15:30:00+00:00,50.0,0.0,https://docs.fcc.gov/public/attachments/DOC-359539A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,27.0,0.0
+hurricane_dorian_2019,37129,2019-09-07 15:30:00+00:00,235.0,1.0,https://docs.fcc.gov/public/attachments/DOC-359539A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,27.0,0.425531914893617
+hurricane_dorian_2019,37133,2019-09-07 15:30:00+00:00,187.0,1.0,https://docs.fcc.gov/public/attachments/DOC-359539A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,27.0,0.5347593582887701
+hurricane_dorian_2019,37137,2019-09-07 15:30:00+00:00,13.0,0.0,https://docs.fcc.gov/public/attachments/DOC-359539A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,27.0,0.0
+hurricane_dorian_2019,37139,2019-09-07 15:30:00+00:00,34.0,1.0,https://docs.fcc.gov/public/attachments/DOC-359539A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,27.0,2.9411764705882355
+hurricane_dorian_2019,37141,2019-09-07 15:30:00+00:00,65.0,0.0,https://docs.fcc.gov/public/attachments/DOC-359539A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,27.0,0.0
+hurricane_dorian_2019,37143,2019-09-07 15:30:00+00:00,18.0,0.0,https://docs.fcc.gov/public/attachments/DOC-359539A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,27.0,0.0
+hurricane_dorian_2019,37147,2019-09-07 15:30:00+00:00,190.0,0.0,https://docs.fcc.gov/public/attachments/DOC-359539A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,27.0,0.0
+hurricane_dorian_2019,37155,2019-09-07 15:30:00+00:00,117.0,0.0,https://docs.fcc.gov/public/attachments/DOC-359539A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,27.0,0.0
+hurricane_dorian_2019,37163,2019-09-07 15:30:00+00:00,77.0,3.0,https://docs.fcc.gov/public/attachments/DOC-359539A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,27.0,3.896103896103896
+hurricane_dorian_2019,37165,2019-09-07 15:30:00+00:00,48.0,0.0,https://docs.fcc.gov/public/attachments/DOC-359539A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,27.0,0.0
+hurricane_dorian_2019,37177,2019-09-07 15:30:00+00:00,10.0,1.0,https://docs.fcc.gov/public/attachments/DOC-359539A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,27.0,10.0
+hurricane_dorian_2019,37187,2019-09-07 15:30:00+00:00,19.0,0.0,https://docs.fcc.gov/public/attachments/DOC-359539A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,27.0,0.0
+hurricane_dorian_2019,37191,2019-09-07 15:30:00+00:00,129.0,1.0,https://docs.fcc.gov/public/attachments/DOC-359539A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,27.0,0.7751937984496124
+hurricane_dorian_2019,37195,2019-09-07 15:30:00+00:00,76.0,0.0,https://docs.fcc.gov/public/attachments/DOC-359539A1.pdf,2019-09-06 12:30:00+00:00,regenerated NC,27.0,0.0
+hurricane_zeta_2020,37149,2020-10-31 16:00:00+00:00,18.0,0.0,https://docs.fcc.gov/public/attachments/DOC-367895A1.pdf,2020-10-28 21:00:00+00:00,regenerated NC,67.0,0.0
+hurricane_helene_2024,37009,2024-09-27 13:00:00+00:00,9.0,0.0,https://docs.fcc.gov/public/attachments/DOC-405876A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,9.833333333333334,0.0
+hurricane_helene_2024,37011,2024-09-27 13:00:00+00:00,21.0,3.0,https://docs.fcc.gov/public/attachments/DOC-405876A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,9.833333333333334,14.285714285714286
+hurricane_helene_2024,37021,2024-09-27 13:00:00+00:00,348.0,30.0,https://docs.fcc.gov/public/attachments/DOC-405876A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,9.833333333333334,8.620689655172415
+hurricane_helene_2024,37023,2024-09-27 13:00:00+00:00,110.0,3.0,https://docs.fcc.gov/public/attachments/DOC-405876A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,9.833333333333334,2.727272727272727
+hurricane_helene_2024,37027,2024-09-27 13:00:00+00:00,93.0,2.0,https://docs.fcc.gov/public/attachments/DOC-405876A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,9.833333333333334,2.150537634408602
+hurricane_helene_2024,37039,2024-09-27 13:00:00+00:00,32.0,0.0,https://docs.fcc.gov/public/attachments/DOC-405876A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,9.833333333333334,0.0
+hurricane_helene_2024,37043,2024-09-27 13:00:00+00:00,11.0,0.0,https://docs.fcc.gov/public/attachments/DOC-405876A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,9.833333333333334,0.0
+hurricane_helene_2024,37075,2024-09-27 13:00:00+00:00,13.0,0.0,https://docs.fcc.gov/public/attachments/DOC-405876A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,9.833333333333334,0.0
+hurricane_helene_2024,37087,2024-09-27 13:00:00+00:00,106.0,0.0,https://docs.fcc.gov/public/attachments/DOC-405876A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,9.833333333333334,0.0
+hurricane_helene_2024,37089,2024-09-27 13:00:00+00:00,158.0,5.0,https://docs.fcc.gov/public/attachments/DOC-405876A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,9.833333333333334,3.1645569620253164
+hurricane_helene_2024,37099,2024-09-27 13:00:00+00:00,71.0,2.0,https://docs.fcc.gov/public/attachments/DOC-405876A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,9.833333333333334,2.816901408450704
+hurricane_helene_2024,37113,2024-09-27 13:00:00+00:00,43.0,1.0,https://docs.fcc.gov/public/attachments/DOC-405876A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,9.833333333333334,2.3255813953488373
+hurricane_helene_2024,37115,2024-09-27 13:00:00+00:00,43.0,0.0,https://docs.fcc.gov/public/attachments/DOC-405876A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,9.833333333333334,0.0
+hurricane_helene_2024,37111,2024-09-27 13:00:00+00:00,83.0,0.0,https://docs.fcc.gov/public/attachments/DOC-405876A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,9.833333333333334,0.0
+hurricane_helene_2024,37121,2024-09-27 13:00:00+00:00,20.0,3.0,https://docs.fcc.gov/public/attachments/DOC-405876A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,9.833333333333334,15.0
+hurricane_helene_2024,37149,2024-09-27 13:00:00+00:00,27.0,1.0,https://docs.fcc.gov/public/attachments/DOC-405876A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,9.833333333333334,3.7037037037037037
+hurricane_helene_2024,37161,2024-09-27 13:00:00+00:00,94.0,4.0,https://docs.fcc.gov/public/attachments/DOC-405876A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,9.833333333333334,4.25531914893617
+hurricane_helene_2024,37173,2024-09-27 13:00:00+00:00,31.0,0.0,https://docs.fcc.gov/public/attachments/DOC-405876A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,9.833333333333334,0.0
+hurricane_helene_2024,37175,2024-09-27 13:00:00+00:00,30.0,0.0,https://docs.fcc.gov/public/attachments/DOC-405876A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,9.833333333333334,0.0
+hurricane_helene_2024,37189,2024-09-27 13:00:00+00:00,87.0,1.0,https://docs.fcc.gov/public/attachments/DOC-405876A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,9.833333333333334,1.1494252873563218
+hurricane_helene_2024,37199,2024-09-27 13:00:00+00:00,22.0,3.0,https://docs.fcc.gov/public/attachments/DOC-405876A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,9.833333333333334,13.636363636363637
+hurricane_helene_2024,37009,2024-09-28 13:00:00+00:00,9.0,2.0,https://docs.fcc.gov/public/attachments/DOC-405893A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,33.833333333333336,22.22222222222222
+hurricane_helene_2024,37011,2024-09-28 13:00:00+00:00,21.0,20.0,https://docs.fcc.gov/public/attachments/DOC-405893A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,33.833333333333336,95.23809523809524
+hurricane_helene_2024,37021,2024-09-28 13:00:00+00:00,348.0,285.0,https://docs.fcc.gov/public/attachments/DOC-405893A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,33.833333333333336,81.89655172413794
+hurricane_helene_2024,37023,2024-09-28 13:00:00+00:00,110.0,81.0,https://docs.fcc.gov/public/attachments/DOC-405893A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,33.833333333333336,73.63636363636364
+hurricane_helene_2024,37027,2024-09-28 13:00:00+00:00,93.0,46.0,https://docs.fcc.gov/public/attachments/DOC-405893A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,33.833333333333336,49.46236559139785
+hurricane_helene_2024,37039,2024-09-28 13:00:00+00:00,32.0,25.0,https://docs.fcc.gov/public/attachments/DOC-405893A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,33.833333333333336,78.125
+hurricane_helene_2024,37043,2024-09-28 13:00:00+00:00,11.0,7.0,https://docs.fcc.gov/public/attachments/DOC-405893A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,33.833333333333336,63.63636363636363
+hurricane_helene_2024,37075,2024-09-28 13:00:00+00:00,13.0,10.0,https://docs.fcc.gov/public/attachments/DOC-405893A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,33.833333333333336,76.92307692307692
+hurricane_helene_2024,37087,2024-09-28 13:00:00+00:00,106.0,93.0,https://docs.fcc.gov/public/attachments/DOC-405893A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,33.833333333333336,87.73584905660377
+hurricane_helene_2024,37089,2024-09-28 13:00:00+00:00,158.0,122.0,https://docs.fcc.gov/public/attachments/DOC-405893A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,33.833333333333336,77.21518987341773
+hurricane_helene_2024,37099,2024-09-28 13:00:00+00:00,71.0,56.0,https://docs.fcc.gov/public/attachments/DOC-405893A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,33.833333333333336,78.87323943661971
+hurricane_helene_2024,37113,2024-09-28 13:00:00+00:00,43.0,33.0,https://docs.fcc.gov/public/attachments/DOC-405893A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,33.833333333333336,76.74418604651163
+hurricane_helene_2024,37115,2024-09-28 13:00:00+00:00,43.0,38.0,https://docs.fcc.gov/public/attachments/DOC-405893A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,33.833333333333336,88.37209302325581
+hurricane_helene_2024,37111,2024-09-28 13:00:00+00:00,83.0,57.0,https://docs.fcc.gov/public/attachments/DOC-405893A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,33.833333333333336,68.67469879518072
+hurricane_helene_2024,37121,2024-09-28 13:00:00+00:00,20.0,18.0,https://docs.fcc.gov/public/attachments/DOC-405893A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,33.833333333333336,90.0
+hurricane_helene_2024,37149,2024-09-28 13:00:00+00:00,27.0,18.0,https://docs.fcc.gov/public/attachments/DOC-405893A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,33.833333333333336,66.66666666666667
+hurricane_helene_2024,37161,2024-09-28 13:00:00+00:00,94.0,73.0,https://docs.fcc.gov/public/attachments/DOC-405893A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,33.833333333333336,77.65957446808511
+hurricane_helene_2024,37173,2024-09-28 13:00:00+00:00,31.0,25.0,https://docs.fcc.gov/public/attachments/DOC-405893A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,33.833333333333336,80.64516129032258
+hurricane_helene_2024,37175,2024-09-28 13:00:00+00:00,30.0,24.0,https://docs.fcc.gov/public/attachments/DOC-405893A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,33.833333333333336,80.0
+hurricane_helene_2024,37189,2024-09-28 13:00:00+00:00,87.0,28.0,https://docs.fcc.gov/public/attachments/DOC-405893A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,33.833333333333336,32.18390804597701
+hurricane_helene_2024,37199,2024-09-28 13:00:00+00:00,22.0,18.0,https://docs.fcc.gov/public/attachments/DOC-405893A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,33.833333333333336,81.81818181818181
+hurricane_helene_2024,37009,2024-09-29 13:00:00+00:00,9.0,2.0,https://docs.fcc.gov/public/attachments/DOC-405897A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,57.833333333333336,22.22222222222222
+hurricane_helene_2024,37011,2024-09-29 13:00:00+00:00,21.0,20.0,https://docs.fcc.gov/public/attachments/DOC-405897A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,57.833333333333336,95.23809523809524
+hurricane_helene_2024,37021,2024-09-29 13:00:00+00:00,452.0,359.0,https://docs.fcc.gov/public/attachments/DOC-405897A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,57.833333333333336,79.42477876106194
+hurricane_helene_2024,37023,2024-09-29 13:00:00+00:00,110.0,80.0,https://docs.fcc.gov/public/attachments/DOC-405897A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,57.833333333333336,72.72727272727273
+hurricane_helene_2024,37027,2024-09-29 13:00:00+00:00,93.0,37.0,https://docs.fcc.gov/public/attachments/DOC-405897A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,57.833333333333336,39.784946236559136
+hurricane_helene_2024,37039,2024-09-29 13:00:00+00:00,32.0,24.0,https://docs.fcc.gov/public/attachments/DOC-405897A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,57.833333333333336,75.0
+hurricane_helene_2024,37043,2024-09-29 13:00:00+00:00,11.0,7.0,https://docs.fcc.gov/public/attachments/DOC-405897A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,57.833333333333336,63.63636363636363
+hurricane_helene_2024,37075,2024-09-29 13:00:00+00:00,13.0,10.0,https://docs.fcc.gov/public/attachments/DOC-405897A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,57.833333333333336,76.92307692307692
+hurricane_helene_2024,37087,2024-09-29 13:00:00+00:00,106.0,60.0,https://docs.fcc.gov/public/attachments/DOC-405897A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,57.833333333333336,56.60377358490566
+hurricane_helene_2024,37089,2024-09-29 13:00:00+00:00,158.0,95.0,https://docs.fcc.gov/public/attachments/DOC-405897A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,57.833333333333336,60.12658227848101
+hurricane_helene_2024,37099,2024-09-29 13:00:00+00:00,71.0,54.0,https://docs.fcc.gov/public/attachments/DOC-405897A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,57.833333333333336,76.05633802816901
+hurricane_helene_2024,37113,2024-09-29 13:00:00+00:00,43.0,33.0,https://docs.fcc.gov/public/attachments/DOC-405897A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,57.833333333333336,76.74418604651163
+hurricane_helene_2024,37115,2024-09-29 13:00:00+00:00,43.0,38.0,https://docs.fcc.gov/public/attachments/DOC-405897A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,57.833333333333336,88.37209302325581
+hurricane_helene_2024,37111,2024-09-29 13:00:00+00:00,83.0,54.0,https://docs.fcc.gov/public/attachments/DOC-405897A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,57.833333333333336,65.06024096385542
+hurricane_helene_2024,37121,2024-09-29 13:00:00+00:00,20.0,18.0,https://docs.fcc.gov/public/attachments/DOC-405897A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,57.833333333333336,90.0
+hurricane_helene_2024,37149,2024-09-29 13:00:00+00:00,27.0,14.0,https://docs.fcc.gov/public/attachments/DOC-405897A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,57.833333333333336,51.851851851851855
+hurricane_helene_2024,37161,2024-09-29 13:00:00+00:00,94.0,39.0,https://docs.fcc.gov/public/attachments/DOC-405897A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,57.833333333333336,41.48936170212766
+hurricane_helene_2024,37173,2024-09-29 13:00:00+00:00,31.0,25.0,https://docs.fcc.gov/public/attachments/DOC-405897A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,57.833333333333336,80.64516129032258
+hurricane_helene_2024,37175,2024-09-29 13:00:00+00:00,30.0,22.0,https://docs.fcc.gov/public/attachments/DOC-405897A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,57.833333333333336,73.33333333333333
+hurricane_helene_2024,37189,2024-09-29 13:00:00+00:00,87.0,25.0,https://docs.fcc.gov/public/attachments/DOC-405897A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,57.833333333333336,28.735632183908045
+hurricane_helene_2024,37199,2024-09-29 13:00:00+00:00,22.0,18.0,https://docs.fcc.gov/public/attachments/DOC-405897A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,57.833333333333336,81.81818181818181
+hurricane_helene_2024,37009,2024-09-30 13:00:00+00:00,9.0,2.0,https://docs.fcc.gov/public/attachments/DOC-405943A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,81.83333333333333,22.22222222222222
+hurricane_helene_2024,37011,2024-09-30 13:00:00+00:00,21.0,20.0,https://docs.fcc.gov/public/attachments/DOC-405943A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,81.83333333333333,95.23809523809524
+hurricane_helene_2024,37021,2024-09-30 13:00:00+00:00,348.0,235.0,https://docs.fcc.gov/public/attachments/DOC-405943A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,81.83333333333333,67.52873563218391
+hurricane_helene_2024,37023,2024-09-30 13:00:00+00:00,110.0,26.0,https://docs.fcc.gov/public/attachments/DOC-405943A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,81.83333333333333,23.636363636363637
+hurricane_helene_2024,37027,2024-09-30 13:00:00+00:00,93.0,21.0,https://docs.fcc.gov/public/attachments/DOC-405943A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,81.83333333333333,22.580645161290324
+hurricane_helene_2024,37039,2024-09-30 13:00:00+00:00,32.0,23.0,https://docs.fcc.gov/public/attachments/DOC-405943A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,81.83333333333333,71.875
+hurricane_helene_2024,37043,2024-09-30 13:00:00+00:00,11.0,8.0,https://docs.fcc.gov/public/attachments/DOC-405943A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,81.83333333333333,72.72727272727273
+hurricane_helene_2024,37075,2024-09-30 13:00:00+00:00,13.0,9.0,https://docs.fcc.gov/public/attachments/DOC-405943A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,81.83333333333333,69.23076923076923
+hurricane_helene_2024,37087,2024-09-30 13:00:00+00:00,106.0,61.0,https://docs.fcc.gov/public/attachments/DOC-405943A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,81.83333333333333,57.54716981132076
+hurricane_helene_2024,37089,2024-09-30 13:00:00+00:00,158.0,88.0,https://docs.fcc.gov/public/attachments/DOC-405943A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,81.83333333333333,55.69620253164557
+hurricane_helene_2024,37099,2024-09-30 13:00:00+00:00,71.0,44.0,https://docs.fcc.gov/public/attachments/DOC-405943A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,81.83333333333333,61.971830985915496
+hurricane_helene_2024,37113,2024-09-30 13:00:00+00:00,43.0,28.0,https://docs.fcc.gov/public/attachments/DOC-405943A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,81.83333333333333,65.11627906976744
+hurricane_helene_2024,37115,2024-09-30 13:00:00+00:00,43.0,34.0,https://docs.fcc.gov/public/attachments/DOC-405943A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,81.83333333333333,79.06976744186046
+hurricane_helene_2024,37111,2024-09-30 13:00:00+00:00,83.0,41.0,https://docs.fcc.gov/public/attachments/DOC-405943A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,81.83333333333333,49.397590361445786
+hurricane_helene_2024,37121,2024-09-30 13:00:00+00:00,20.0,18.0,https://docs.fcc.gov/public/attachments/DOC-405943A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,81.83333333333333,90.0
+hurricane_helene_2024,37149,2024-09-30 13:00:00+00:00,27.0,14.0,https://docs.fcc.gov/public/attachments/DOC-405943A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,81.83333333333333,51.851851851851855
+hurricane_helene_2024,37161,2024-09-30 13:00:00+00:00,94.0,31.0,https://docs.fcc.gov/public/attachments/DOC-405943A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,81.83333333333333,32.97872340425532
+hurricane_helene_2024,37173,2024-09-30 13:00:00+00:00,31.0,20.0,https://docs.fcc.gov/public/attachments/DOC-405943A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,81.83333333333333,64.51612903225806
+hurricane_helene_2024,37175,2024-09-30 13:00:00+00:00,30.0,24.0,https://docs.fcc.gov/public/attachments/DOC-405943A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,81.83333333333333,80.0
+hurricane_helene_2024,37189,2024-09-30 13:00:00+00:00,87.0,17.0,https://docs.fcc.gov/public/attachments/DOC-405943A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,81.83333333333333,19.54022988505747
+hurricane_helene_2024,37199,2024-09-30 13:00:00+00:00,22.0,20.0,https://docs.fcc.gov/public/attachments/DOC-405943A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,81.83333333333333,90.9090909090909
+hurricane_helene_2024,37009,2024-10-01 13:00:00+00:00,9.0,2.0,https://docs.fcc.gov/public/attachments/DOC-406055A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,105.83333333333333,22.22222222222222
+hurricane_helene_2024,37011,2024-10-01 13:00:00+00:00,21.0,11.0,https://docs.fcc.gov/public/attachments/DOC-406055A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,105.83333333333333,52.38095238095238
+hurricane_helene_2024,37021,2024-10-01 13:00:00+00:00,348.0,215.0,https://docs.fcc.gov/public/attachments/DOC-406055A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,105.83333333333333,61.7816091954023
+hurricane_helene_2024,37023,2024-10-01 13:00:00+00:00,110.0,21.0,https://docs.fcc.gov/public/attachments/DOC-406055A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,105.83333333333333,19.09090909090909
+hurricane_helene_2024,37027,2024-10-01 13:00:00+00:00,93.0,12.0,https://docs.fcc.gov/public/attachments/DOC-406055A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,105.83333333333333,12.903225806451612
+hurricane_helene_2024,37039,2024-10-01 13:00:00+00:00,32.0,10.0,https://docs.fcc.gov/public/attachments/DOC-406055A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,105.83333333333333,31.25
+hurricane_helene_2024,37043,2024-10-01 13:00:00+00:00,11.0,3.0,https://docs.fcc.gov/public/attachments/DOC-406055A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,105.83333333333333,27.272727272727273
+hurricane_helene_2024,37075,2024-10-01 13:00:00+00:00,13.0,3.0,https://docs.fcc.gov/public/attachments/DOC-406055A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,105.83333333333333,23.076923076923077
+hurricane_helene_2024,37087,2024-10-01 13:00:00+00:00,106.0,59.0,https://docs.fcc.gov/public/attachments/DOC-406055A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,105.83333333333333,55.660377358490564
+hurricane_helene_2024,37089,2024-10-01 13:00:00+00:00,158.0,116.0,https://docs.fcc.gov/public/attachments/DOC-406055A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,105.83333333333333,73.41772151898734
+hurricane_helene_2024,37099,2024-10-01 13:00:00+00:00,71.0,33.0,https://docs.fcc.gov/public/attachments/DOC-406055A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,105.83333333333333,46.478873239436616
+hurricane_helene_2024,37113,2024-10-01 13:00:00+00:00,43.0,23.0,https://docs.fcc.gov/public/attachments/DOC-406055A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,105.83333333333333,53.48837209302326
+hurricane_helene_2024,37115,2024-10-01 13:00:00+00:00,43.0,24.0,https://docs.fcc.gov/public/attachments/DOC-406055A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,105.83333333333333,55.81395348837209
+hurricane_helene_2024,37111,2024-10-01 13:00:00+00:00,83.0,39.0,https://docs.fcc.gov/public/attachments/DOC-406055A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,105.83333333333333,46.98795180722892
+hurricane_helene_2024,37121,2024-10-01 13:00:00+00:00,20.0,18.0,https://docs.fcc.gov/public/attachments/DOC-406055A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,105.83333333333333,90.0
+hurricane_helene_2024,37149,2024-10-01 13:00:00+00:00,27.0,15.0,https://docs.fcc.gov/public/attachments/DOC-406055A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,105.83333333333333,55.55555555555556
+hurricane_helene_2024,37161,2024-10-01 13:00:00+00:00,94.0,35.0,https://docs.fcc.gov/public/attachments/DOC-406055A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,105.83333333333333,37.234042553191486
+hurricane_helene_2024,37173,2024-10-01 13:00:00+00:00,31.0,12.0,https://docs.fcc.gov/public/attachments/DOC-406055A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,105.83333333333333,38.70967741935484
+hurricane_helene_2024,37175,2024-10-01 13:00:00+00:00,30.0,21.0,https://docs.fcc.gov/public/attachments/DOC-406055A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,105.83333333333333,70.0
+hurricane_helene_2024,37189,2024-10-01 13:00:00+00:00,87.0,15.0,https://docs.fcc.gov/public/attachments/DOC-406055A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,105.83333333333333,17.24137931034483
+hurricane_helene_2024,37199,2024-10-01 13:00:00+00:00,22.0,20.0,https://docs.fcc.gov/public/attachments/DOC-406055A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,105.83333333333333,90.9090909090909
+hurricane_helene_2024,37009,2024-10-02 13:00:00+00:00,9.0,2.0,https://docs.fcc.gov/public/attachments/DOC-406099A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,129.83333333333334,22.22222222222222
+hurricane_helene_2024,37011,2024-10-02 13:00:00+00:00,21.0,10.0,https://docs.fcc.gov/public/attachments/DOC-406099A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,129.83333333333334,47.61904761904762
+hurricane_helene_2024,37021,2024-10-02 13:00:00+00:00,347.0,195.0,https://docs.fcc.gov/public/attachments/DOC-406099A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,129.83333333333334,56.195965417867434
+hurricane_helene_2024,37023,2024-10-02 13:00:00+00:00,110.0,20.0,https://docs.fcc.gov/public/attachments/DOC-406099A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,129.83333333333334,18.181818181818183
+hurricane_helene_2024,37027,2024-10-02 13:00:00+00:00,93.0,6.0,https://docs.fcc.gov/public/attachments/DOC-406099A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,129.83333333333334,6.451612903225806
+hurricane_helene_2024,37039,2024-10-02 13:00:00+00:00,32.0,3.0,https://docs.fcc.gov/public/attachments/DOC-406099A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,129.83333333333334,9.375
+hurricane_helene_2024,37043,2024-10-02 13:00:00+00:00,11.0,2.0,https://docs.fcc.gov/public/attachments/DOC-406099A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,129.83333333333334,18.181818181818183
+hurricane_helene_2024,37075,2024-10-02 13:00:00+00:00,13.0,1.0,https://docs.fcc.gov/public/attachments/DOC-406099A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,129.83333333333334,7.6923076923076925
+hurricane_helene_2024,37087,2024-10-02 13:00:00+00:00,105.0,39.0,https://docs.fcc.gov/public/attachments/DOC-406099A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,129.83333333333334,37.142857142857146
+hurricane_helene_2024,37089,2024-10-02 13:00:00+00:00,158.0,101.0,https://docs.fcc.gov/public/attachments/DOC-406099A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,129.83333333333334,63.924050632911396
+hurricane_helene_2024,37099,2024-10-02 13:00:00+00:00,71.0,12.0,https://docs.fcc.gov/public/attachments/DOC-406099A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,129.83333333333334,16.901408450704224
+hurricane_helene_2024,37113,2024-10-02 13:00:00+00:00,43.0,12.0,https://docs.fcc.gov/public/attachments/DOC-406099A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,129.83333333333334,27.906976744186046
+hurricane_helene_2024,37115,2024-10-02 13:00:00+00:00,43.0,15.0,https://docs.fcc.gov/public/attachments/DOC-406099A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,129.83333333333334,34.883720930232556
+hurricane_helene_2024,37111,2024-10-02 13:00:00+00:00,83.0,36.0,https://docs.fcc.gov/public/attachments/DOC-406099A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,129.83333333333334,43.373493975903614
+hurricane_helene_2024,37121,2024-10-02 13:00:00+00:00,20.0,18.0,https://docs.fcc.gov/public/attachments/DOC-406099A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,129.83333333333334,90.0
+hurricane_helene_2024,37149,2024-10-02 13:00:00+00:00,27.0,10.0,https://docs.fcc.gov/public/attachments/DOC-406099A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,129.83333333333334,37.03703703703704
+hurricane_helene_2024,37161,2024-10-02 13:00:00+00:00,92.0,30.0,https://docs.fcc.gov/public/attachments/DOC-406099A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,129.83333333333334,32.608695652173914
+hurricane_helene_2024,37173,2024-10-02 13:00:00+00:00,31.0,4.0,https://docs.fcc.gov/public/attachments/DOC-406099A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,129.83333333333334,12.903225806451612
+hurricane_helene_2024,37175,2024-10-02 13:00:00+00:00,30.0,10.0,https://docs.fcc.gov/public/attachments/DOC-406099A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,129.83333333333334,33.333333333333336
+hurricane_helene_2024,37189,2024-10-02 13:00:00+00:00,87.0,10.0,https://docs.fcc.gov/public/attachments/DOC-406099A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,129.83333333333334,11.494252873563218
+hurricane_helene_2024,37199,2024-10-02 13:00:00+00:00,22.0,18.0,https://docs.fcc.gov/public/attachments/DOC-406099A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,129.83333333333334,81.81818181818181
+hurricane_helene_2024,37009,2024-10-03 13:00:00+00:00,9.0,1.0,https://docs.fcc.gov/public/attachments/DOC-406144A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,153.83333333333334,11.11111111111111
+hurricane_helene_2024,37011,2024-10-03 13:00:00+00:00,21.0,6.0,https://docs.fcc.gov/public/attachments/DOC-406144A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,153.83333333333334,28.571428571428573
+hurricane_helene_2024,37021,2024-10-03 13:00:00+00:00,347.0,160.0,https://docs.fcc.gov/public/attachments/DOC-406144A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,153.83333333333334,46.10951008645533
+hurricane_helene_2024,37023,2024-10-03 13:00:00+00:00,110.0,11.0,https://docs.fcc.gov/public/attachments/DOC-406144A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,153.83333333333334,10.0
+hurricane_helene_2024,37027,2024-10-03 13:00:00+00:00,93.0,2.0,https://docs.fcc.gov/public/attachments/DOC-406144A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,153.83333333333334,2.150537634408602
+hurricane_helene_2024,37039,2024-10-03 13:00:00+00:00,32.0,3.0,https://docs.fcc.gov/public/attachments/DOC-406144A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,153.83333333333334,9.375
+hurricane_helene_2024,37043,2024-10-03 13:00:00+00:00,11.0,2.0,https://docs.fcc.gov/public/attachments/DOC-406144A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,153.83333333333334,18.181818181818183
+hurricane_helene_2024,37075,2024-10-03 13:00:00+00:00,13.0,1.0,https://docs.fcc.gov/public/attachments/DOC-406144A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,153.83333333333334,7.6923076923076925
+hurricane_helene_2024,37087,2024-10-03 13:00:00+00:00,105.0,29.0,https://docs.fcc.gov/public/attachments/DOC-406144A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,153.83333333333334,27.61904761904762
+hurricane_helene_2024,37089,2024-10-03 13:00:00+00:00,158.0,66.0,https://docs.fcc.gov/public/attachments/DOC-406144A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,153.83333333333334,41.77215189873418
+hurricane_helene_2024,37099,2024-10-03 13:00:00+00:00,71.0,7.0,https://docs.fcc.gov/public/attachments/DOC-406144A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,153.83333333333334,9.859154929577464
+hurricane_helene_2024,37113,2024-10-03 13:00:00+00:00,43.0,5.0,https://docs.fcc.gov/public/attachments/DOC-406144A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,153.83333333333334,11.627906976744185
+hurricane_helene_2024,37115,2024-10-03 13:00:00+00:00,43.0,15.0,https://docs.fcc.gov/public/attachments/DOC-406144A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,153.83333333333334,34.883720930232556
+hurricane_helene_2024,37111,2024-10-03 13:00:00+00:00,83.0,28.0,https://docs.fcc.gov/public/attachments/DOC-406144A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,153.83333333333334,33.734939759036145
+hurricane_helene_2024,37121,2024-10-03 13:00:00+00:00,20.0,18.0,https://docs.fcc.gov/public/attachments/DOC-406144A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,153.83333333333334,90.0
+hurricane_helene_2024,37149,2024-10-03 13:00:00+00:00,27.0,9.0,https://docs.fcc.gov/public/attachments/DOC-406144A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,153.83333333333334,33.333333333333336
+hurricane_helene_2024,37161,2024-10-03 13:00:00+00:00,92.0,12.0,https://docs.fcc.gov/public/attachments/DOC-406144A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,153.83333333333334,13.043478260869565
+hurricane_helene_2024,37173,2024-10-03 13:00:00+00:00,31.0,4.0,https://docs.fcc.gov/public/attachments/DOC-406144A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,153.83333333333334,12.903225806451612
+hurricane_helene_2024,37175,2024-10-03 13:00:00+00:00,30.0,7.0,https://docs.fcc.gov/public/attachments/DOC-406144A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,153.83333333333334,23.333333333333332
+hurricane_helene_2024,37189,2024-10-03 13:00:00+00:00,87.0,7.0,https://docs.fcc.gov/public/attachments/DOC-406144A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,153.83333333333334,8.045977011494253
+hurricane_helene_2024,37199,2024-10-03 13:00:00+00:00,22.0,17.0,https://docs.fcc.gov/public/attachments/DOC-406144A1.pdf,2024-09-27 03:10:00+00:00,official Helene full series,153.83333333333334,77.27272727272727

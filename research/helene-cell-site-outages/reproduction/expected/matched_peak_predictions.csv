@@ -1,0 +1,610 @@
+event_id,county_fips,observed_pct,rule,fit,evaluation_label,predicted_pct
+hurricane_helene_2024,37011,95.23809523809524,original,full frozen peak ridge,full week reported maximum,1.4468922757998521
+hurricane_helene_2024,37199,90.9090909090909,original,full frozen peak ridge,full week reported maximum,1.6405524305871977
+hurricane_helene_2024,37121,90.0,original,full frozen peak ridge,full week reported maximum,1.5940832622522945
+hurricane_helene_2024,37115,88.37209302325581,original,full frozen peak ridge,full week reported maximum,1.6563365785415092
+hurricane_helene_2024,37087,87.73584905660377,original,full frozen peak ridge,full week reported maximum,1.8914123694237144
+hurricane_helene_2024,37021,81.89655172413794,original,full frozen peak ridge,full week reported maximum,1.7274183504145728
+hurricane_helene_2024,37173,80.64516129032258,original,full frozen peak ridge,full week reported maximum,2.298570862279268
+hurricane_helene_2024,37175,80.0,original,full frozen peak ridge,full week reported maximum,2.075947044718253
+hurricane_helene_2024,37099,78.87323943661971,original,full frozen peak ridge,full week reported maximum,2.3112967157976274
+hurricane_helene_2024,37039,78.125,original,full frozen peak ridge,full week reported maximum,3.8810044451781973
+hurricane_helene_2024,37161,77.65957446808511,original,full frozen peak ridge,full week reported maximum,1.6405524305871977
+hurricane_helene_2024,37089,77.21518987341773,original,full frozen peak ridge,full week reported maximum,1.8752453436721508
+hurricane_helene_2024,37075,76.92307692307692,original,full frozen peak ridge,full week reported maximum,2.971257509922776
+hurricane_helene_2024,37113,76.74418604651163,original,full frozen peak ridge,full week reported maximum,2.9414856621227945
+hurricane_helene_2024,37023,73.63636363636364,original,full frozen peak ridge,full week reported maximum,1.635673643383075
+hurricane_helene_2024,37111,68.67469879518072,original,full frozen peak ridge,full week reported maximum,1.6405524305871977
+hurricane_helene_2024,37149,66.66666666666667,original,full frozen peak ridge,full week reported maximum,1.7652679136786897
+hurricane_helene_2024,37043,72.72727272727273,original,full frozen peak ridge,full week reported maximum,3.7383847724446193
+hurricane_helene_2024,37027,49.46236559139785,original,full frozen peak ridge,full week reported maximum,0.7590217542245826
+hurricane_helene_2024,37189,32.18390804597701,original,full frozen peak ridge,full week reported maximum,0.7417003924251461
+hurricane_helene_2024,37009,22.22222222222222,original,full frozen peak ridge,full week reported maximum,0.7417003924251461
+hurricane_helene_2024,37011,95.23809523809524,original,pooled training median,full week reported maximum,1.941747572815534
+hurricane_helene_2024,37199,90.9090909090909,original,pooled training median,full week reported maximum,1.941747572815534
+hurricane_helene_2024,37121,90.0,original,pooled training median,full week reported maximum,1.941747572815534
+hurricane_helene_2024,37115,88.37209302325581,original,pooled training median,full week reported maximum,1.941747572815534
+hurricane_helene_2024,37087,87.73584905660377,original,pooled training median,full week reported maximum,1.941747572815534
+hurricane_helene_2024,37021,81.89655172413794,original,pooled training median,full week reported maximum,1.941747572815534
+hurricane_helene_2024,37173,80.64516129032258,original,pooled training median,full week reported maximum,1.941747572815534
+hurricane_helene_2024,37175,80.0,original,pooled training median,full week reported maximum,1.941747572815534
+hurricane_helene_2024,37099,78.87323943661971,original,pooled training median,full week reported maximum,1.941747572815534
+hurricane_helene_2024,37039,78.125,original,pooled training median,full week reported maximum,1.941747572815534
+hurricane_helene_2024,37161,77.65957446808511,original,pooled training median,full week reported maximum,1.941747572815534
+hurricane_helene_2024,37089,77.21518987341773,original,pooled training median,full week reported maximum,1.941747572815534
+hurricane_helene_2024,37075,76.92307692307692,original,pooled training median,full week reported maximum,1.941747572815534
+hurricane_helene_2024,37113,76.74418604651163,original,pooled training median,full week reported maximum,1.941747572815534
+hurricane_helene_2024,37023,73.63636363636364,original,pooled training median,full week reported maximum,1.941747572815534
+hurricane_helene_2024,37111,68.67469879518072,original,pooled training median,full week reported maximum,1.941747572815534
+hurricane_helene_2024,37149,66.66666666666667,original,pooled training median,full week reported maximum,1.941747572815534
+hurricane_helene_2024,37043,72.72727272727273,original,pooled training median,full week reported maximum,1.941747572815534
+hurricane_helene_2024,37027,49.46236559139785,original,pooled training median,full week reported maximum,1.941747572815534
+hurricane_helene_2024,37189,32.18390804597701,original,pooled training median,full week reported maximum,1.941747572815534
+hurricane_helene_2024,37009,22.22222222222222,original,pooled training median,full week reported maximum,1.941747572815534
+hurricane_helene_2024,37011,95.23809523809524,original,storm-balanced training median,full week reported maximum,1.7543859649122806
+hurricane_helene_2024,37199,90.9090909090909,original,storm-balanced training median,full week reported maximum,1.7543859649122806
+hurricane_helene_2024,37121,90.0,original,storm-balanced training median,full week reported maximum,1.7543859649122806
+hurricane_helene_2024,37115,88.37209302325581,original,storm-balanced training median,full week reported maximum,1.7543859649122806
+hurricane_helene_2024,37087,87.73584905660377,original,storm-balanced training median,full week reported maximum,1.7543859649122806
+hurricane_helene_2024,37021,81.89655172413794,original,storm-balanced training median,full week reported maximum,1.7543859649122806
+hurricane_helene_2024,37173,80.64516129032258,original,storm-balanced training median,full week reported maximum,1.7543859649122806
+hurricane_helene_2024,37175,80.0,original,storm-balanced training median,full week reported maximum,1.7543859649122806
+hurricane_helene_2024,37099,78.87323943661971,original,storm-balanced training median,full week reported maximum,1.7543859649122806
+hurricane_helene_2024,37039,78.125,original,storm-balanced training median,full week reported maximum,1.7543859649122806
+hurricane_helene_2024,37161,77.65957446808511,original,storm-balanced training median,full week reported maximum,1.7543859649122806
+hurricane_helene_2024,37089,77.21518987341773,original,storm-balanced training median,full week reported maximum,1.7543859649122806
+hurricane_helene_2024,37075,76.92307692307692,original,storm-balanced training median,full week reported maximum,1.7543859649122806
+hurricane_helene_2024,37113,76.74418604651163,original,storm-balanced training median,full week reported maximum,1.7543859649122806
+hurricane_helene_2024,37023,73.63636363636364,original,storm-balanced training median,full week reported maximum,1.7543859649122806
+hurricane_helene_2024,37111,68.67469879518072,original,storm-balanced training median,full week reported maximum,1.7543859649122806
+hurricane_helene_2024,37149,66.66666666666667,original,storm-balanced training median,full week reported maximum,1.7543859649122806
+hurricane_helene_2024,37043,72.72727272727273,original,storm-balanced training median,full week reported maximum,1.7543859649122806
+hurricane_helene_2024,37027,49.46236559139785,original,storm-balanced training median,full week reported maximum,1.7543859649122806
+hurricane_helene_2024,37189,32.18390804597701,original,storm-balanced training median,full week reported maximum,1.7543859649122806
+hurricane_helene_2024,37009,22.22222222222222,original,storm-balanced training median,full week reported maximum,1.7543859649122806
+hurricane_helene_2024,37011,95.23809523809524,original,pooled training mean,full week reported maximum,8.684540707743363
+hurricane_helene_2024,37199,90.9090909090909,original,pooled training mean,full week reported maximum,8.684540707743363
+hurricane_helene_2024,37121,90.0,original,pooled training mean,full week reported maximum,8.684540707743363
+hurricane_helene_2024,37115,88.37209302325581,original,pooled training mean,full week reported maximum,8.684540707743363
+hurricane_helene_2024,37087,87.73584905660377,original,pooled training mean,full week reported maximum,8.684540707743363
+hurricane_helene_2024,37021,81.89655172413794,original,pooled training mean,full week reported maximum,8.684540707743363
+hurricane_helene_2024,37173,80.64516129032258,original,pooled training mean,full week reported maximum,8.684540707743363
+hurricane_helene_2024,37175,80.0,original,pooled training mean,full week reported maximum,8.684540707743363
+hurricane_helene_2024,37099,78.87323943661971,original,pooled training mean,full week reported maximum,8.684540707743363
+hurricane_helene_2024,37039,78.125,original,pooled training mean,full week reported maximum,8.684540707743363
+hurricane_helene_2024,37161,77.65957446808511,original,pooled training mean,full week reported maximum,8.684540707743363
+hurricane_helene_2024,37089,77.21518987341773,original,pooled training mean,full week reported maximum,8.684540707743363
+hurricane_helene_2024,37075,76.92307692307692,original,pooled training mean,full week reported maximum,8.684540707743363
+hurricane_helene_2024,37113,76.74418604651163,original,pooled training mean,full week reported maximum,8.684540707743363
+hurricane_helene_2024,37023,73.63636363636364,original,pooled training mean,full week reported maximum,8.684540707743363
+hurricane_helene_2024,37111,68.67469879518072,original,pooled training mean,full week reported maximum,8.684540707743363
+hurricane_helene_2024,37149,66.66666666666667,original,pooled training mean,full week reported maximum,8.684540707743363
+hurricane_helene_2024,37043,72.72727272727273,original,pooled training mean,full week reported maximum,8.684540707743363
+hurricane_helene_2024,37027,49.46236559139785,original,pooled training mean,full week reported maximum,8.684540707743363
+hurricane_helene_2024,37189,32.18390804597701,original,pooled training mean,full week reported maximum,8.684540707743363
+hurricane_helene_2024,37009,22.22222222222222,original,pooled training mean,full week reported maximum,8.684540707743363
+hurricane_helene_2024,37011,95.23809523809524,original,storm-balanced training mean,full week reported maximum,7.864623515823692
+hurricane_helene_2024,37199,90.9090909090909,original,storm-balanced training mean,full week reported maximum,7.864623515823692
+hurricane_helene_2024,37121,90.0,original,storm-balanced training mean,full week reported maximum,7.864623515823692
+hurricane_helene_2024,37115,88.37209302325581,original,storm-balanced training mean,full week reported maximum,7.864623515823692
+hurricane_helene_2024,37087,87.73584905660377,original,storm-balanced training mean,full week reported maximum,7.864623515823692
+hurricane_helene_2024,37021,81.89655172413794,original,storm-balanced training mean,full week reported maximum,7.864623515823692
+hurricane_helene_2024,37173,80.64516129032258,original,storm-balanced training mean,full week reported maximum,7.864623515823692
+hurricane_helene_2024,37175,80.0,original,storm-balanced training mean,full week reported maximum,7.864623515823692
+hurricane_helene_2024,37099,78.87323943661971,original,storm-balanced training mean,full week reported maximum,7.864623515823692
+hurricane_helene_2024,37039,78.125,original,storm-balanced training mean,full week reported maximum,7.864623515823692
+hurricane_helene_2024,37161,77.65957446808511,original,storm-balanced training mean,full week reported maximum,7.864623515823692
+hurricane_helene_2024,37089,77.21518987341773,original,storm-balanced training mean,full week reported maximum,7.864623515823692
+hurricane_helene_2024,37075,76.92307692307692,original,storm-balanced training mean,full week reported maximum,7.864623515823692
+hurricane_helene_2024,37113,76.74418604651163,original,storm-balanced training mean,full week reported maximum,7.864623515823692
+hurricane_helene_2024,37023,73.63636363636364,original,storm-balanced training mean,full week reported maximum,7.864623515823692
+hurricane_helene_2024,37111,68.67469879518072,original,storm-balanced training mean,full week reported maximum,7.864623515823692
+hurricane_helene_2024,37149,66.66666666666667,original,storm-balanced training mean,full week reported maximum,7.864623515823692
+hurricane_helene_2024,37043,72.72727272727273,original,storm-balanced training mean,full week reported maximum,7.864623515823692
+hurricane_helene_2024,37027,49.46236559139785,original,storm-balanced training mean,full week reported maximum,7.864623515823692
+hurricane_helene_2024,37189,32.18390804597701,original,storm-balanced training mean,full week reported maximum,7.864623515823692
+hurricane_helene_2024,37009,22.22222222222222,original,storm-balanced training mean,full week reported maximum,7.864623515823692
+hurricane_helene_2024,37011,95.23809523809524,primary: +36h ±12h,full frozen peak ridge,full week reported maximum,1.4468922757998521
+hurricane_helene_2024,37199,90.9090909090909,primary: +36h ±12h,full frozen peak ridge,full week reported maximum,1.6405524305871977
+hurricane_helene_2024,37121,90.0,primary: +36h ±12h,full frozen peak ridge,full week reported maximum,1.5940832622522945
+hurricane_helene_2024,37115,88.37209302325581,primary: +36h ±12h,full frozen peak ridge,full week reported maximum,1.6563365785415092
+hurricane_helene_2024,37087,87.73584905660377,primary: +36h ±12h,full frozen peak ridge,full week reported maximum,1.8914123694237144
+hurricane_helene_2024,37021,81.89655172413794,primary: +36h ±12h,full frozen peak ridge,full week reported maximum,1.7274183504145728
+hurricane_helene_2024,37173,80.64516129032258,primary: +36h ±12h,full frozen peak ridge,full week reported maximum,2.298570862279268
+hurricane_helene_2024,37175,80.0,primary: +36h ±12h,full frozen peak ridge,full week reported maximum,2.075947044718253
+hurricane_helene_2024,37099,78.87323943661971,primary: +36h ±12h,full frozen peak ridge,full week reported maximum,2.3112967157976274
+hurricane_helene_2024,37039,78.125,primary: +36h ±12h,full frozen peak ridge,full week reported maximum,3.8810044451781973
+hurricane_helene_2024,37161,77.65957446808511,primary: +36h ±12h,full frozen peak ridge,full week reported maximum,1.6405524305871977
+hurricane_helene_2024,37089,77.21518987341773,primary: +36h ±12h,full frozen peak ridge,full week reported maximum,1.8752453436721508
+hurricane_helene_2024,37075,76.92307692307692,primary: +36h ±12h,full frozen peak ridge,full week reported maximum,2.971257509922776
+hurricane_helene_2024,37113,76.74418604651163,primary: +36h ±12h,full frozen peak ridge,full week reported maximum,2.9414856621227945
+hurricane_helene_2024,37023,73.63636363636364,primary: +36h ±12h,full frozen peak ridge,full week reported maximum,1.635673643383075
+hurricane_helene_2024,37111,68.67469879518072,primary: +36h ±12h,full frozen peak ridge,full week reported maximum,1.6405524305871977
+hurricane_helene_2024,37149,66.66666666666667,primary: +36h ±12h,full frozen peak ridge,full week reported maximum,1.7652679136786897
+hurricane_helene_2024,37043,72.72727272727273,primary: +36h ±12h,full frozen peak ridge,full week reported maximum,3.7383847724446193
+hurricane_helene_2024,37027,49.46236559139785,primary: +36h ±12h,full frozen peak ridge,full week reported maximum,0.7590217542245826
+hurricane_helene_2024,37189,32.18390804597701,primary: +36h ±12h,full frozen peak ridge,full week reported maximum,0.7417003924251461
+hurricane_helene_2024,37009,22.22222222222222,primary: +36h ±12h,full frozen peak ridge,full week reported maximum,0.7417003924251461
+hurricane_helene_2024,37011,95.23809523809524,primary: +36h ±12h,full frozen peak ridge,matched window reported maximum,1.4468922757998521
+hurricane_helene_2024,37199,81.81818181818181,primary: +36h ±12h,full frozen peak ridge,matched window reported maximum,1.6405524305871977
+hurricane_helene_2024,37121,90.0,primary: +36h ±12h,full frozen peak ridge,matched window reported maximum,1.5940832622522945
+hurricane_helene_2024,37115,88.37209302325581,primary: +36h ±12h,full frozen peak ridge,matched window reported maximum,1.6563365785415092
+hurricane_helene_2024,37087,87.73584905660377,primary: +36h ±12h,full frozen peak ridge,matched window reported maximum,1.8914123694237144
+hurricane_helene_2024,37021,81.89655172413794,primary: +36h ±12h,full frozen peak ridge,matched window reported maximum,1.7274183504145728
+hurricane_helene_2024,37173,80.64516129032258,primary: +36h ±12h,full frozen peak ridge,matched window reported maximum,2.298570862279268
+hurricane_helene_2024,37175,80.0,primary: +36h ±12h,full frozen peak ridge,matched window reported maximum,2.075947044718253
+hurricane_helene_2024,37099,78.87323943661971,primary: +36h ±12h,full frozen peak ridge,matched window reported maximum,2.3112967157976274
+hurricane_helene_2024,37039,78.125,primary: +36h ±12h,full frozen peak ridge,matched window reported maximum,3.8810044451781973
+hurricane_helene_2024,37161,77.65957446808511,primary: +36h ±12h,full frozen peak ridge,matched window reported maximum,1.6405524305871977
+hurricane_helene_2024,37089,77.21518987341773,primary: +36h ±12h,full frozen peak ridge,matched window reported maximum,1.8752453436721508
+hurricane_helene_2024,37075,76.92307692307692,primary: +36h ±12h,full frozen peak ridge,matched window reported maximum,2.971257509922776
+hurricane_helene_2024,37113,76.74418604651163,primary: +36h ±12h,full frozen peak ridge,matched window reported maximum,2.9414856621227945
+hurricane_helene_2024,37023,73.63636363636364,primary: +36h ±12h,full frozen peak ridge,matched window reported maximum,1.635673643383075
+hurricane_helene_2024,37111,68.67469879518072,primary: +36h ±12h,full frozen peak ridge,matched window reported maximum,1.6405524305871977
+hurricane_helene_2024,37149,66.66666666666667,primary: +36h ±12h,full frozen peak ridge,matched window reported maximum,1.7652679136786897
+hurricane_helene_2024,37043,63.63636363636363,primary: +36h ±12h,full frozen peak ridge,matched window reported maximum,3.7383847724446193
+hurricane_helene_2024,37027,49.46236559139785,primary: +36h ±12h,full frozen peak ridge,matched window reported maximum,0.7590217542245826
+hurricane_helene_2024,37189,32.18390804597701,primary: +36h ±12h,full frozen peak ridge,matched window reported maximum,0.7417003924251461
+hurricane_helene_2024,37009,22.22222222222222,primary: +36h ±12h,full frozen peak ridge,matched window reported maximum,0.7417003924251461
+hurricane_helene_2024,37011,95.23809523809524,primary: +36h ±12h,full frozen peak ridge,matched nearest snapshot,1.4468922757998521
+hurricane_helene_2024,37199,81.81818181818181,primary: +36h ±12h,full frozen peak ridge,matched nearest snapshot,1.6405524305871977
+hurricane_helene_2024,37121,90.0,primary: +36h ±12h,full frozen peak ridge,matched nearest snapshot,1.5940832622522945
+hurricane_helene_2024,37115,88.37209302325581,primary: +36h ±12h,full frozen peak ridge,matched nearest snapshot,1.6563365785415092
+hurricane_helene_2024,37087,87.73584905660377,primary: +36h ±12h,full frozen peak ridge,matched nearest snapshot,1.8914123694237144
+hurricane_helene_2024,37021,81.89655172413794,primary: +36h ±12h,full frozen peak ridge,matched nearest snapshot,1.7274183504145728
+hurricane_helene_2024,37173,80.64516129032258,primary: +36h ±12h,full frozen peak ridge,matched nearest snapshot,2.298570862279268
+hurricane_helene_2024,37175,80.0,primary: +36h ±12h,full frozen peak ridge,matched nearest snapshot,2.075947044718253
+hurricane_helene_2024,37099,78.87323943661971,primary: +36h ±12h,full frozen peak ridge,matched nearest snapshot,2.3112967157976274
+hurricane_helene_2024,37039,78.125,primary: +36h ±12h,full frozen peak ridge,matched nearest snapshot,3.8810044451781973
+hurricane_helene_2024,37161,77.65957446808511,primary: +36h ±12h,full frozen peak ridge,matched nearest snapshot,1.6405524305871977
+hurricane_helene_2024,37089,77.21518987341773,primary: +36h ±12h,full frozen peak ridge,matched nearest snapshot,1.8752453436721508
+hurricane_helene_2024,37075,76.92307692307692,primary: +36h ±12h,full frozen peak ridge,matched nearest snapshot,2.971257509922776
+hurricane_helene_2024,37113,76.74418604651163,primary: +36h ±12h,full frozen peak ridge,matched nearest snapshot,2.9414856621227945
+hurricane_helene_2024,37023,73.63636363636364,primary: +36h ±12h,full frozen peak ridge,matched nearest snapshot,1.635673643383075
+hurricane_helene_2024,37111,68.67469879518072,primary: +36h ±12h,full frozen peak ridge,matched nearest snapshot,1.6405524305871977
+hurricane_helene_2024,37149,66.66666666666667,primary: +36h ±12h,full frozen peak ridge,matched nearest snapshot,1.7652679136786897
+hurricane_helene_2024,37043,63.63636363636363,primary: +36h ±12h,full frozen peak ridge,matched nearest snapshot,3.7383847724446193
+hurricane_helene_2024,37027,49.46236559139785,primary: +36h ±12h,full frozen peak ridge,matched nearest snapshot,0.7590217542245826
+hurricane_helene_2024,37189,32.18390804597701,primary: +36h ±12h,full frozen peak ridge,matched nearest snapshot,0.7417003924251461
+hurricane_helene_2024,37009,22.22222222222222,primary: +36h ±12h,full frozen peak ridge,matched nearest snapshot,0.7417003924251461
+hurricane_helene_2024,37011,95.23809523809524,primary: +36h ±12h,matched-cohort full week peak ridge,full week reported maximum,0.0
+hurricane_helene_2024,37199,90.9090909090909,primary: +36h ±12h,matched-cohort full week peak ridge,full week reported maximum,0.0
+hurricane_helene_2024,37121,90.0,primary: +36h ±12h,matched-cohort full week peak ridge,full week reported maximum,0.0
+hurricane_helene_2024,37115,88.37209302325581,primary: +36h ±12h,matched-cohort full week peak ridge,full week reported maximum,0.0
+hurricane_helene_2024,37087,87.73584905660377,primary: +36h ±12h,matched-cohort full week peak ridge,full week reported maximum,0.0
+hurricane_helene_2024,37021,81.89655172413794,primary: +36h ±12h,matched-cohort full week peak ridge,full week reported maximum,0.0
+hurricane_helene_2024,37173,80.64516129032258,primary: +36h ±12h,matched-cohort full week peak ridge,full week reported maximum,0.0
+hurricane_helene_2024,37175,80.0,primary: +36h ±12h,matched-cohort full week peak ridge,full week reported maximum,0.0
+hurricane_helene_2024,37099,78.87323943661971,primary: +36h ±12h,matched-cohort full week peak ridge,full week reported maximum,0.0
+hurricane_helene_2024,37039,78.125,primary: +36h ±12h,matched-cohort full week peak ridge,full week reported maximum,0.6322881238524942
+hurricane_helene_2024,37161,77.65957446808511,primary: +36h ±12h,matched-cohort full week peak ridge,full week reported maximum,0.0
+hurricane_helene_2024,37089,77.21518987341773,primary: +36h ±12h,matched-cohort full week peak ridge,full week reported maximum,0.0
+hurricane_helene_2024,37075,76.92307692307692,primary: +36h ±12h,matched-cohort full week peak ridge,full week reported maximum,0.05136622646215567
+hurricane_helene_2024,37113,76.74418604651163,primary: +36h ±12h,matched-cohort full week peak ridge,full week reported maximum,0.03462841556782051
+hurricane_helene_2024,37023,73.63636363636364,primary: +36h ±12h,matched-cohort full week peak ridge,full week reported maximum,0.0
+hurricane_helene_2024,37111,68.67469879518072,primary: +36h ±12h,matched-cohort full week peak ridge,full week reported maximum,0.0
+hurricane_helene_2024,37149,66.66666666666667,primary: +36h ±12h,matched-cohort full week peak ridge,full week reported maximum,0.0
+hurricane_helene_2024,37043,72.72727272727273,primary: +36h ±12h,matched-cohort full week peak ridge,full week reported maximum,0.5322549434824012
+hurricane_helene_2024,37027,49.46236559139785,primary: +36h ±12h,matched-cohort full week peak ridge,full week reported maximum,0.0
+hurricane_helene_2024,37189,32.18390804597701,primary: +36h ±12h,matched-cohort full week peak ridge,full week reported maximum,0.0
+hurricane_helene_2024,37009,22.22222222222222,primary: +36h ±12h,matched-cohort full week peak ridge,full week reported maximum,0.0
+hurricane_helene_2024,37011,95.23809523809524,primary: +36h ±12h,matched-cohort full week peak ridge,matched window reported maximum,0.0
+hurricane_helene_2024,37199,81.81818181818181,primary: +36h ±12h,matched-cohort full week peak ridge,matched window reported maximum,0.0
+hurricane_helene_2024,37121,90.0,primary: +36h ±12h,matched-cohort full week peak ridge,matched window reported maximum,0.0
+hurricane_helene_2024,37115,88.37209302325581,primary: +36h ±12h,matched-cohort full week peak ridge,matched window reported maximum,0.0
+hurricane_helene_2024,37087,87.73584905660377,primary: +36h ±12h,matched-cohort full week peak ridge,matched window reported maximum,0.0
+hurricane_helene_2024,37021,81.89655172413794,primary: +36h ±12h,matched-cohort full week peak ridge,matched window reported maximum,0.0
+hurricane_helene_2024,37173,80.64516129032258,primary: +36h ±12h,matched-cohort full week peak ridge,matched window reported maximum,0.0
+hurricane_helene_2024,37175,80.0,primary: +36h ±12h,matched-cohort full week peak ridge,matched window reported maximum,0.0
+hurricane_helene_2024,37099,78.87323943661971,primary: +36h ±12h,matched-cohort full week peak ridge,matched window reported maximum,0.0
+hurricane_helene_2024,37039,78.125,primary: +36h ±12h,matched-cohort full week peak ridge,matched window reported maximum,0.6322881238524942
+hurricane_helene_2024,37161,77.65957446808511,primary: +36h ±12h,matched-cohort full week peak ridge,matched window reported maximum,0.0
+hurricane_helene_2024,37089,77.21518987341773,primary: +36h ±12h,matched-cohort full week peak ridge,matched window reported maximum,0.0
+hurricane_helene_2024,37075,76.92307692307692,primary: +36h ±12h,matched-cohort full week peak ridge,matched window reported maximum,0.05136622646215567
+hurricane_helene_2024,37113,76.74418604651163,primary: +36h ±12h,matched-cohort full week peak ridge,matched window reported maximum,0.03462841556782051
+hurricane_helene_2024,37023,73.63636363636364,primary: +36h ±12h,matched-cohort full week peak ridge,matched window reported maximum,0.0
+hurricane_helene_2024,37111,68.67469879518072,primary: +36h ±12h,matched-cohort full week peak ridge,matched window reported maximum,0.0
+hurricane_helene_2024,37149,66.66666666666667,primary: +36h ±12h,matched-cohort full week peak ridge,matched window reported maximum,0.0
+hurricane_helene_2024,37043,63.63636363636363,primary: +36h ±12h,matched-cohort full week peak ridge,matched window reported maximum,0.5322549434824012
+hurricane_helene_2024,37027,49.46236559139785,primary: +36h ±12h,matched-cohort full week peak ridge,matched window reported maximum,0.0
+hurricane_helene_2024,37189,32.18390804597701,primary: +36h ±12h,matched-cohort full week peak ridge,matched window reported maximum,0.0
+hurricane_helene_2024,37009,22.22222222222222,primary: +36h ±12h,matched-cohort full week peak ridge,matched window reported maximum,0.0
+hurricane_helene_2024,37011,95.23809523809524,primary: +36h ±12h,matched-cohort full week peak ridge,matched nearest snapshot,0.0
+hurricane_helene_2024,37199,81.81818181818181,primary: +36h ±12h,matched-cohort full week peak ridge,matched nearest snapshot,0.0
+hurricane_helene_2024,37121,90.0,primary: +36h ±12h,matched-cohort full week peak ridge,matched nearest snapshot,0.0
+hurricane_helene_2024,37115,88.37209302325581,primary: +36h ±12h,matched-cohort full week peak ridge,matched nearest snapshot,0.0
+hurricane_helene_2024,37087,87.73584905660377,primary: +36h ±12h,matched-cohort full week peak ridge,matched nearest snapshot,0.0
+hurricane_helene_2024,37021,81.89655172413794,primary: +36h ±12h,matched-cohort full week peak ridge,matched nearest snapshot,0.0
+hurricane_helene_2024,37173,80.64516129032258,primary: +36h ±12h,matched-cohort full week peak ridge,matched nearest snapshot,0.0
+hurricane_helene_2024,37175,80.0,primary: +36h ±12h,matched-cohort full week peak ridge,matched nearest snapshot,0.0
+hurricane_helene_2024,37099,78.87323943661971,primary: +36h ±12h,matched-cohort full week peak ridge,matched nearest snapshot,0.0
+hurricane_helene_2024,37039,78.125,primary: +36h ±12h,matched-cohort full week peak ridge,matched nearest snapshot,0.6322881238524942
+hurricane_helene_2024,37161,77.65957446808511,primary: +36h ±12h,matched-cohort full week peak ridge,matched nearest snapshot,0.0
+hurricane_helene_2024,37089,77.21518987341773,primary: +36h ±12h,matched-cohort full week peak ridge,matched nearest snapshot,0.0
+hurricane_helene_2024,37075,76.92307692307692,primary: +36h ±12h,matched-cohort full week peak ridge,matched nearest snapshot,0.05136622646215567
+hurricane_helene_2024,37113,76.74418604651163,primary: +36h ±12h,matched-cohort full week peak ridge,matched nearest snapshot,0.03462841556782051
+hurricane_helene_2024,37023,73.63636363636364,primary: +36h ±12h,matched-cohort full week peak ridge,matched nearest snapshot,0.0
+hurricane_helene_2024,37111,68.67469879518072,primary: +36h ±12h,matched-cohort full week peak ridge,matched nearest snapshot,0.0
+hurricane_helene_2024,37149,66.66666666666667,primary: +36h ±12h,matched-cohort full week peak ridge,matched nearest snapshot,0.0
+hurricane_helene_2024,37043,63.63636363636363,primary: +36h ±12h,matched-cohort full week peak ridge,matched nearest snapshot,0.5322549434824012
+hurricane_helene_2024,37027,49.46236559139785,primary: +36h ±12h,matched-cohort full week peak ridge,matched nearest snapshot,0.0
+hurricane_helene_2024,37189,32.18390804597701,primary: +36h ±12h,matched-cohort full week peak ridge,matched nearest snapshot,0.0
+hurricane_helene_2024,37009,22.22222222222222,primary: +36h ±12h,matched-cohort full week peak ridge,matched nearest snapshot,0.0
+hurricane_helene_2024,37011,95.23809523809524,primary: +36h ±12h,matched-cohort window peak ridge,full week reported maximum,0.0
+hurricane_helene_2024,37199,90.9090909090909,primary: +36h ±12h,matched-cohort window peak ridge,full week reported maximum,0.0
+hurricane_helene_2024,37121,90.0,primary: +36h ±12h,matched-cohort window peak ridge,full week reported maximum,0.0
+hurricane_helene_2024,37115,88.37209302325581,primary: +36h ±12h,matched-cohort window peak ridge,full week reported maximum,0.0
+hurricane_helene_2024,37087,87.73584905660377,primary: +36h ±12h,matched-cohort window peak ridge,full week reported maximum,0.0
+hurricane_helene_2024,37021,81.89655172413794,primary: +36h ±12h,matched-cohort window peak ridge,full week reported maximum,0.0
+hurricane_helene_2024,37173,80.64516129032258,primary: +36h ±12h,matched-cohort window peak ridge,full week reported maximum,0.0
+hurricane_helene_2024,37175,80.0,primary: +36h ±12h,matched-cohort window peak ridge,full week reported maximum,0.0
+hurricane_helene_2024,37099,78.87323943661971,primary: +36h ±12h,matched-cohort window peak ridge,full week reported maximum,0.0
+hurricane_helene_2024,37039,78.125,primary: +36h ±12h,matched-cohort window peak ridge,full week reported maximum,0.22234652381039888
+hurricane_helene_2024,37161,77.65957446808511,primary: +36h ±12h,matched-cohort window peak ridge,full week reported maximum,0.0
+hurricane_helene_2024,37089,77.21518987341773,primary: +36h ±12h,matched-cohort window peak ridge,full week reported maximum,0.0
+hurricane_helene_2024,37075,76.92307692307692,primary: +36h ±12h,matched-cohort window peak ridge,full week reported maximum,0.0
+hurricane_helene_2024,37113,76.74418604651163,primary: +36h ±12h,matched-cohort window peak ridge,full week reported maximum,0.0
+hurricane_helene_2024,37023,73.63636363636364,primary: +36h ±12h,matched-cohort window peak ridge,full week reported maximum,0.0
+hurricane_helene_2024,37111,68.67469879518072,primary: +36h ±12h,matched-cohort window peak ridge,full week reported maximum,0.0
+hurricane_helene_2024,37149,66.66666666666667,primary: +36h ±12h,matched-cohort window peak ridge,full week reported maximum,0.0
+hurricane_helene_2024,37043,72.72727272727273,primary: +36h ±12h,matched-cohort window peak ridge,full week reported maximum,0.15723283575764613
+hurricane_helene_2024,37027,49.46236559139785,primary: +36h ±12h,matched-cohort window peak ridge,full week reported maximum,0.0
+hurricane_helene_2024,37189,32.18390804597701,primary: +36h ±12h,matched-cohort window peak ridge,full week reported maximum,0.0
+hurricane_helene_2024,37009,22.22222222222222,primary: +36h ±12h,matched-cohort window peak ridge,full week reported maximum,0.0
+hurricane_helene_2024,37011,95.23809523809524,primary: +36h ±12h,matched-cohort window peak ridge,matched window reported maximum,0.0
+hurricane_helene_2024,37199,81.81818181818181,primary: +36h ±12h,matched-cohort window peak ridge,matched window reported maximum,0.0
+hurricane_helene_2024,37121,90.0,primary: +36h ±12h,matched-cohort window peak ridge,matched window reported maximum,0.0
+hurricane_helene_2024,37115,88.37209302325581,primary: +36h ±12h,matched-cohort window peak ridge,matched window reported maximum,0.0
+hurricane_helene_2024,37087,87.73584905660377,primary: +36h ±12h,matched-cohort window peak ridge,matched window reported maximum,0.0
+hurricane_helene_2024,37021,81.89655172413794,primary: +36h ±12h,matched-cohort window peak ridge,matched window reported maximum,0.0
+hurricane_helene_2024,37173,80.64516129032258,primary: +36h ±12h,matched-cohort window peak ridge,matched window reported maximum,0.0
+hurricane_helene_2024,37175,80.0,primary: +36h ±12h,matched-cohort window peak ridge,matched window reported maximum,0.0
+hurricane_helene_2024,37099,78.87323943661971,primary: +36h ±12h,matched-cohort window peak ridge,matched window reported maximum,0.0
+hurricane_helene_2024,37039,78.125,primary: +36h ±12h,matched-cohort window peak ridge,matched window reported maximum,0.22234652381039888
+hurricane_helene_2024,37161,77.65957446808511,primary: +36h ±12h,matched-cohort window peak ridge,matched window reported maximum,0.0
+hurricane_helene_2024,37089,77.21518987341773,primary: +36h ±12h,matched-cohort window peak ridge,matched window reported maximum,0.0
+hurricane_helene_2024,37075,76.92307692307692,primary: +36h ±12h,matched-cohort window peak ridge,matched window reported maximum,0.0
+hurricane_helene_2024,37113,76.74418604651163,primary: +36h ±12h,matched-cohort window peak ridge,matched window reported maximum,0.0
+hurricane_helene_2024,37023,73.63636363636364,primary: +36h ±12h,matched-cohort window peak ridge,matched window reported maximum,0.0
+hurricane_helene_2024,37111,68.67469879518072,primary: +36h ±12h,matched-cohort window peak ridge,matched window reported maximum,0.0
+hurricane_helene_2024,37149,66.66666666666667,primary: +36h ±12h,matched-cohort window peak ridge,matched window reported maximum,0.0
+hurricane_helene_2024,37043,63.63636363636363,primary: +36h ±12h,matched-cohort window peak ridge,matched window reported maximum,0.15723283575764613
+hurricane_helene_2024,37027,49.46236559139785,primary: +36h ±12h,matched-cohort window peak ridge,matched window reported maximum,0.0
+hurricane_helene_2024,37189,32.18390804597701,primary: +36h ±12h,matched-cohort window peak ridge,matched window reported maximum,0.0
+hurricane_helene_2024,37009,22.22222222222222,primary: +36h ±12h,matched-cohort window peak ridge,matched window reported maximum,0.0
+hurricane_helene_2024,37011,95.23809523809524,primary: +36h ±12h,matched-cohort window peak ridge,matched nearest snapshot,0.0
+hurricane_helene_2024,37199,81.81818181818181,primary: +36h ±12h,matched-cohort window peak ridge,matched nearest snapshot,0.0
+hurricane_helene_2024,37121,90.0,primary: +36h ±12h,matched-cohort window peak ridge,matched nearest snapshot,0.0
+hurricane_helene_2024,37115,88.37209302325581,primary: +36h ±12h,matched-cohort window peak ridge,matched nearest snapshot,0.0
+hurricane_helene_2024,37087,87.73584905660377,primary: +36h ±12h,matched-cohort window peak ridge,matched nearest snapshot,0.0
+hurricane_helene_2024,37021,81.89655172413794,primary: +36h ±12h,matched-cohort window peak ridge,matched nearest snapshot,0.0
+hurricane_helene_2024,37173,80.64516129032258,primary: +36h ±12h,matched-cohort window peak ridge,matched nearest snapshot,0.0
+hurricane_helene_2024,37175,80.0,primary: +36h ±12h,matched-cohort window peak ridge,matched nearest snapshot,0.0
+hurricane_helene_2024,37099,78.87323943661971,primary: +36h ±12h,matched-cohort window peak ridge,matched nearest snapshot,0.0
+hurricane_helene_2024,37039,78.125,primary: +36h ±12h,matched-cohort window peak ridge,matched nearest snapshot,0.22234652381039888
+hurricane_helene_2024,37161,77.65957446808511,primary: +36h ±12h,matched-cohort window peak ridge,matched nearest snapshot,0.0
+hurricane_helene_2024,37089,77.21518987341773,primary: +36h ±12h,matched-cohort window peak ridge,matched nearest snapshot,0.0
+hurricane_helene_2024,37075,76.92307692307692,primary: +36h ±12h,matched-cohort window peak ridge,matched nearest snapshot,0.0
+hurricane_helene_2024,37113,76.74418604651163,primary: +36h ±12h,matched-cohort window peak ridge,matched nearest snapshot,0.0
+hurricane_helene_2024,37023,73.63636363636364,primary: +36h ±12h,matched-cohort window peak ridge,matched nearest snapshot,0.0
+hurricane_helene_2024,37111,68.67469879518072,primary: +36h ±12h,matched-cohort window peak ridge,matched nearest snapshot,0.0
+hurricane_helene_2024,37149,66.66666666666667,primary: +36h ±12h,matched-cohort window peak ridge,matched nearest snapshot,0.0
+hurricane_helene_2024,37043,63.63636363636363,primary: +36h ±12h,matched-cohort window peak ridge,matched nearest snapshot,0.15723283575764613
+hurricane_helene_2024,37027,49.46236559139785,primary: +36h ±12h,matched-cohort window peak ridge,matched nearest snapshot,0.0
+hurricane_helene_2024,37189,32.18390804597701,primary: +36h ±12h,matched-cohort window peak ridge,matched nearest snapshot,0.0
+hurricane_helene_2024,37009,22.22222222222222,primary: +36h ±12h,matched-cohort window peak ridge,matched nearest snapshot,0.0
+hurricane_helene_2024,37011,95.23809523809524,primary: +36h ±12h,matched-cohort nearest-snapshot ridge,full week reported maximum,0.0
+hurricane_helene_2024,37199,90.9090909090909,primary: +36h ±12h,matched-cohort nearest-snapshot ridge,full week reported maximum,0.0
+hurricane_helene_2024,37121,90.0,primary: +36h ±12h,matched-cohort nearest-snapshot ridge,full week reported maximum,0.0
+hurricane_helene_2024,37115,88.37209302325581,primary: +36h ±12h,matched-cohort nearest-snapshot ridge,full week reported maximum,0.0
+hurricane_helene_2024,37087,87.73584905660377,primary: +36h ±12h,matched-cohort nearest-snapshot ridge,full week reported maximum,0.0
+hurricane_helene_2024,37021,81.89655172413794,primary: +36h ±12h,matched-cohort nearest-snapshot ridge,full week reported maximum,0.0
+hurricane_helene_2024,37173,80.64516129032258,primary: +36h ±12h,matched-cohort nearest-snapshot ridge,full week reported maximum,0.0
+hurricane_helene_2024,37175,80.0,primary: +36h ±12h,matched-cohort nearest-snapshot ridge,full week reported maximum,0.0
+hurricane_helene_2024,37099,78.87323943661971,primary: +36h ±12h,matched-cohort nearest-snapshot ridge,full week reported maximum,0.0
+hurricane_helene_2024,37039,78.125,primary: +36h ±12h,matched-cohort nearest-snapshot ridge,full week reported maximum,0.22234652381039888
+hurricane_helene_2024,37161,77.65957446808511,primary: +36h ±12h,matched-cohort nearest-snapshot ridge,full week reported maximum,0.0
+hurricane_helene_2024,37089,77.21518987341773,primary: +36h ±12h,matched-cohort nearest-snapshot ridge,full week reported maximum,0.0
+hurricane_helene_2024,37075,76.92307692307692,primary: +36h ±12h,matched-cohort nearest-snapshot ridge,full week reported maximum,0.0
+hurricane_helene_2024,37113,76.74418604651163,primary: +36h ±12h,matched-cohort nearest-snapshot ridge,full week reported maximum,0.0
+hurricane_helene_2024,37023,73.63636363636364,primary: +36h ±12h,matched-cohort nearest-snapshot ridge,full week reported maximum,0.0
+hurricane_helene_2024,37111,68.67469879518072,primary: +36h ±12h,matched-cohort nearest-snapshot ridge,full week reported maximum,0.0
+hurricane_helene_2024,37149,66.66666666666667,primary: +36h ±12h,matched-cohort nearest-snapshot ridge,full week reported maximum,0.0
+hurricane_helene_2024,37043,72.72727272727273,primary: +36h ±12h,matched-cohort nearest-snapshot ridge,full week reported maximum,0.15723283575764613
+hurricane_helene_2024,37027,49.46236559139785,primary: +36h ±12h,matched-cohort nearest-snapshot ridge,full week reported maximum,0.0
+hurricane_helene_2024,37189,32.18390804597701,primary: +36h ±12h,matched-cohort nearest-snapshot ridge,full week reported maximum,0.0
+hurricane_helene_2024,37009,22.22222222222222,primary: +36h ±12h,matched-cohort nearest-snapshot ridge,full week reported maximum,0.0
+hurricane_helene_2024,37011,95.23809523809524,primary: +36h ±12h,matched-cohort nearest-snapshot ridge,matched window reported maximum,0.0
+hurricane_helene_2024,37199,81.81818181818181,primary: +36h ±12h,matched-cohort nearest-snapshot ridge,matched window reported maximum,0.0
+hurricane_helene_2024,37121,90.0,primary: +36h ±12h,matched-cohort nearest-snapshot ridge,matched window reported maximum,0.0
+hurricane_helene_2024,37115,88.37209302325581,primary: +36h ±12h,matched-cohort nearest-snapshot ridge,matched window reported maximum,0.0
+hurricane_helene_2024,37087,87.73584905660377,primary: +36h ±12h,matched-cohort nearest-snapshot ridge,matched window reported maximum,0.0
+hurricane_helene_2024,37021,81.89655172413794,primary: +36h ±12h,matched-cohort nearest-snapshot ridge,matched window reported maximum,0.0
+hurricane_helene_2024,37173,80.64516129032258,primary: +36h ±12h,matched-cohort nearest-snapshot ridge,matched window reported maximum,0.0
+hurricane_helene_2024,37175,80.0,primary: +36h ±12h,matched-cohort nearest-snapshot ridge,matched window reported maximum,0.0
+hurricane_helene_2024,37099,78.87323943661971,primary: +36h ±12h,matched-cohort nearest-snapshot ridge,matched window reported maximum,0.0
+hurricane_helene_2024,37039,78.125,primary: +36h ±12h,matched-cohort nearest-snapshot ridge,matched window reported maximum,0.22234652381039888
+hurricane_helene_2024,37161,77.65957446808511,primary: +36h ±12h,matched-cohort nearest-snapshot ridge,matched window reported maximum,0.0
+hurricane_helene_2024,37089,77.21518987341773,primary: +36h ±12h,matched-cohort nearest-snapshot ridge,matched window reported maximum,0.0
+hurricane_helene_2024,37075,76.92307692307692,primary: +36h ±12h,matched-cohort nearest-snapshot ridge,matched window reported maximum,0.0
+hurricane_helene_2024,37113,76.74418604651163,primary: +36h ±12h,matched-cohort nearest-snapshot ridge,matched window reported maximum,0.0
+hurricane_helene_2024,37023,73.63636363636364,primary: +36h ±12h,matched-cohort nearest-snapshot ridge,matched window reported maximum,0.0
+hurricane_helene_2024,37111,68.67469879518072,primary: +36h ±12h,matched-cohort nearest-snapshot ridge,matched window reported maximum,0.0
+hurricane_helene_2024,37149,66.66666666666667,primary: +36h ±12h,matched-cohort nearest-snapshot ridge,matched window reported maximum,0.0
+hurricane_helene_2024,37043,63.63636363636363,primary: +36h ±12h,matched-cohort nearest-snapshot ridge,matched window reported maximum,0.15723283575764613
+hurricane_helene_2024,37027,49.46236559139785,primary: +36h ±12h,matched-cohort nearest-snapshot ridge,matched window reported maximum,0.0
+hurricane_helene_2024,37189,32.18390804597701,primary: +36h ±12h,matched-cohort nearest-snapshot ridge,matched window reported maximum,0.0
+hurricane_helene_2024,37009,22.22222222222222,primary: +36h ±12h,matched-cohort nearest-snapshot ridge,matched window reported maximum,0.0
+hurricane_helene_2024,37011,95.23809523809524,primary: +36h ±12h,matched-cohort nearest-snapshot ridge,matched nearest snapshot,0.0
+hurricane_helene_2024,37199,81.81818181818181,primary: +36h ±12h,matched-cohort nearest-snapshot ridge,matched nearest snapshot,0.0
+hurricane_helene_2024,37121,90.0,primary: +36h ±12h,matched-cohort nearest-snapshot ridge,matched nearest snapshot,0.0
+hurricane_helene_2024,37115,88.37209302325581,primary: +36h ±12h,matched-cohort nearest-snapshot ridge,matched nearest snapshot,0.0
+hurricane_helene_2024,37087,87.73584905660377,primary: +36h ±12h,matched-cohort nearest-snapshot ridge,matched nearest snapshot,0.0
+hurricane_helene_2024,37021,81.89655172413794,primary: +36h ±12h,matched-cohort nearest-snapshot ridge,matched nearest snapshot,0.0
+hurricane_helene_2024,37173,80.64516129032258,primary: +36h ±12h,matched-cohort nearest-snapshot ridge,matched nearest snapshot,0.0
+hurricane_helene_2024,37175,80.0,primary: +36h ±12h,matched-cohort nearest-snapshot ridge,matched nearest snapshot,0.0
+hurricane_helene_2024,37099,78.87323943661971,primary: +36h ±12h,matched-cohort nearest-snapshot ridge,matched nearest snapshot,0.0
+hurricane_helene_2024,37039,78.125,primary: +36h ±12h,matched-cohort nearest-snapshot ridge,matched nearest snapshot,0.22234652381039888
+hurricane_helene_2024,37161,77.65957446808511,primary: +36h ±12h,matched-cohort nearest-snapshot ridge,matched nearest snapshot,0.0
+hurricane_helene_2024,37089,77.21518987341773,primary: +36h ±12h,matched-cohort nearest-snapshot ridge,matched nearest snapshot,0.0
+hurricane_helene_2024,37075,76.92307692307692,primary: +36h ±12h,matched-cohort nearest-snapshot ridge,matched nearest snapshot,0.0
+hurricane_helene_2024,37113,76.74418604651163,primary: +36h ±12h,matched-cohort nearest-snapshot ridge,matched nearest snapshot,0.0
+hurricane_helene_2024,37023,73.63636363636364,primary: +36h ±12h,matched-cohort nearest-snapshot ridge,matched nearest snapshot,0.0
+hurricane_helene_2024,37111,68.67469879518072,primary: +36h ±12h,matched-cohort nearest-snapshot ridge,matched nearest snapshot,0.0
+hurricane_helene_2024,37149,66.66666666666667,primary: +36h ±12h,matched-cohort nearest-snapshot ridge,matched nearest snapshot,0.0
+hurricane_helene_2024,37043,63.63636363636363,primary: +36h ±12h,matched-cohort nearest-snapshot ridge,matched nearest snapshot,0.15723283575764613
+hurricane_helene_2024,37027,49.46236559139785,primary: +36h ±12h,matched-cohort nearest-snapshot ridge,matched nearest snapshot,0.0
+hurricane_helene_2024,37189,32.18390804597701,primary: +36h ±12h,matched-cohort nearest-snapshot ridge,matched nearest snapshot,0.0
+hurricane_helene_2024,37009,22.22222222222222,primary: +36h ±12h,matched-cohort nearest-snapshot ridge,matched nearest snapshot,0.0
+hurricane_helene_2024,37011,95.23809523809524,alternate: +12h ±6h,full frozen peak ridge,full week reported maximum,1.4468922757998521
+hurricane_helene_2024,37199,90.9090909090909,alternate: +12h ±6h,full frozen peak ridge,full week reported maximum,1.6405524305871977
+hurricane_helene_2024,37121,90.0,alternate: +12h ±6h,full frozen peak ridge,full week reported maximum,1.5940832622522945
+hurricane_helene_2024,37115,88.37209302325581,alternate: +12h ±6h,full frozen peak ridge,full week reported maximum,1.6563365785415092
+hurricane_helene_2024,37087,87.73584905660377,alternate: +12h ±6h,full frozen peak ridge,full week reported maximum,1.8914123694237144
+hurricane_helene_2024,37021,81.89655172413794,alternate: +12h ±6h,full frozen peak ridge,full week reported maximum,1.7274183504145728
+hurricane_helene_2024,37173,80.64516129032258,alternate: +12h ±6h,full frozen peak ridge,full week reported maximum,2.298570862279268
+hurricane_helene_2024,37175,80.0,alternate: +12h ±6h,full frozen peak ridge,full week reported maximum,2.075947044718253
+hurricane_helene_2024,37099,78.87323943661971,alternate: +12h ±6h,full frozen peak ridge,full week reported maximum,2.3112967157976274
+hurricane_helene_2024,37039,78.125,alternate: +12h ±6h,full frozen peak ridge,full week reported maximum,3.8810044451781973
+hurricane_helene_2024,37161,77.65957446808511,alternate: +12h ±6h,full frozen peak ridge,full week reported maximum,1.6405524305871977
+hurricane_helene_2024,37089,77.21518987341773,alternate: +12h ±6h,full frozen peak ridge,full week reported maximum,1.8752453436721508
+hurricane_helene_2024,37075,76.92307692307692,alternate: +12h ±6h,full frozen peak ridge,full week reported maximum,2.971257509922776
+hurricane_helene_2024,37113,76.74418604651163,alternate: +12h ±6h,full frozen peak ridge,full week reported maximum,2.9414856621227945
+hurricane_helene_2024,37023,73.63636363636364,alternate: +12h ±6h,full frozen peak ridge,full week reported maximum,1.635673643383075
+hurricane_helene_2024,37111,68.67469879518072,alternate: +12h ±6h,full frozen peak ridge,full week reported maximum,1.6405524305871977
+hurricane_helene_2024,37149,66.66666666666667,alternate: +12h ±6h,full frozen peak ridge,full week reported maximum,1.7652679136786897
+hurricane_helene_2024,37043,72.72727272727273,alternate: +12h ±6h,full frozen peak ridge,full week reported maximum,3.7383847724446193
+hurricane_helene_2024,37027,49.46236559139785,alternate: +12h ±6h,full frozen peak ridge,full week reported maximum,0.7590217542245826
+hurricane_helene_2024,37189,32.18390804597701,alternate: +12h ±6h,full frozen peak ridge,full week reported maximum,0.7417003924251461
+hurricane_helene_2024,37009,22.22222222222222,alternate: +12h ±6h,full frozen peak ridge,full week reported maximum,0.7417003924251461
+hurricane_helene_2024,37011,14.285714285714286,alternate: +12h ±6h,full frozen peak ridge,matched window reported maximum,1.4468922757998521
+hurricane_helene_2024,37199,13.636363636363637,alternate: +12h ±6h,full frozen peak ridge,matched window reported maximum,1.6405524305871977
+hurricane_helene_2024,37121,15.0,alternate: +12h ±6h,full frozen peak ridge,matched window reported maximum,1.5940832622522945
+hurricane_helene_2024,37115,0.0,alternate: +12h ±6h,full frozen peak ridge,matched window reported maximum,1.6563365785415092
+hurricane_helene_2024,37087,0.0,alternate: +12h ±6h,full frozen peak ridge,matched window reported maximum,1.8914123694237144
+hurricane_helene_2024,37021,8.620689655172415,alternate: +12h ±6h,full frozen peak ridge,matched window reported maximum,1.7274183504145728
+hurricane_helene_2024,37173,0.0,alternate: +12h ±6h,full frozen peak ridge,matched window reported maximum,2.298570862279268
+hurricane_helene_2024,37175,0.0,alternate: +12h ±6h,full frozen peak ridge,matched window reported maximum,2.075947044718253
+hurricane_helene_2024,37099,2.816901408450704,alternate: +12h ±6h,full frozen peak ridge,matched window reported maximum,2.3112967157976274
+hurricane_helene_2024,37039,0.0,alternate: +12h ±6h,full frozen peak ridge,matched window reported maximum,3.8810044451781973
+hurricane_helene_2024,37161,4.25531914893617,alternate: +12h ±6h,full frozen peak ridge,matched window reported maximum,1.6405524305871977
+hurricane_helene_2024,37089,3.1645569620253164,alternate: +12h ±6h,full frozen peak ridge,matched window reported maximum,1.8752453436721508
+hurricane_helene_2024,37075,0.0,alternate: +12h ±6h,full frozen peak ridge,matched window reported maximum,2.971257509922776
+hurricane_helene_2024,37113,2.3255813953488373,alternate: +12h ±6h,full frozen peak ridge,matched window reported maximum,2.9414856621227945
+hurricane_helene_2024,37023,2.727272727272727,alternate: +12h ±6h,full frozen peak ridge,matched window reported maximum,1.635673643383075
+hurricane_helene_2024,37111,0.0,alternate: +12h ±6h,full frozen peak ridge,matched window reported maximum,1.6405524305871977
+hurricane_helene_2024,37149,3.7037037037037037,alternate: +12h ±6h,full frozen peak ridge,matched window reported maximum,1.7652679136786897
+hurricane_helene_2024,37043,0.0,alternate: +12h ±6h,full frozen peak ridge,matched window reported maximum,3.7383847724446193
+hurricane_helene_2024,37027,2.150537634408602,alternate: +12h ±6h,full frozen peak ridge,matched window reported maximum,0.7590217542245826
+hurricane_helene_2024,37189,1.1494252873563218,alternate: +12h ±6h,full frozen peak ridge,matched window reported maximum,0.7417003924251461
+hurricane_helene_2024,37009,0.0,alternate: +12h ±6h,full frozen peak ridge,matched window reported maximum,0.7417003924251461
+hurricane_helene_2024,37011,14.285714285714286,alternate: +12h ±6h,full frozen peak ridge,matched nearest snapshot,1.4468922757998521
+hurricane_helene_2024,37199,13.636363636363637,alternate: +12h ±6h,full frozen peak ridge,matched nearest snapshot,1.6405524305871977
+hurricane_helene_2024,37121,15.0,alternate: +12h ±6h,full frozen peak ridge,matched nearest snapshot,1.5940832622522945
+hurricane_helene_2024,37115,0.0,alternate: +12h ±6h,full frozen peak ridge,matched nearest snapshot,1.6563365785415092
+hurricane_helene_2024,37087,0.0,alternate: +12h ±6h,full frozen peak ridge,matched nearest snapshot,1.8914123694237144
+hurricane_helene_2024,37021,8.620689655172415,alternate: +12h ±6h,full frozen peak ridge,matched nearest snapshot,1.7274183504145728
+hurricane_helene_2024,37173,0.0,alternate: +12h ±6h,full frozen peak ridge,matched nearest snapshot,2.298570862279268
+hurricane_helene_2024,37175,0.0,alternate: +12h ±6h,full frozen peak ridge,matched nearest snapshot,2.075947044718253
+hurricane_helene_2024,37099,2.816901408450704,alternate: +12h ±6h,full frozen peak ridge,matched nearest snapshot,2.3112967157976274
+hurricane_helene_2024,37039,0.0,alternate: +12h ±6h,full frozen peak ridge,matched nearest snapshot,3.8810044451781973
+hurricane_helene_2024,37161,4.25531914893617,alternate: +12h ±6h,full frozen peak ridge,matched nearest snapshot,1.6405524305871977
+hurricane_helene_2024,37089,3.1645569620253164,alternate: +12h ±6h,full frozen peak ridge,matched nearest snapshot,1.8752453436721508
+hurricane_helene_2024,37075,0.0,alternate: +12h ±6h,full frozen peak ridge,matched nearest snapshot,2.971257509922776
+hurricane_helene_2024,37113,2.3255813953488373,alternate: +12h ±6h,full frozen peak ridge,matched nearest snapshot,2.9414856621227945
+hurricane_helene_2024,37023,2.727272727272727,alternate: +12h ±6h,full frozen peak ridge,matched nearest snapshot,1.635673643383075
+hurricane_helene_2024,37111,0.0,alternate: +12h ±6h,full frozen peak ridge,matched nearest snapshot,1.6405524305871977
+hurricane_helene_2024,37149,3.7037037037037037,alternate: +12h ±6h,full frozen peak ridge,matched nearest snapshot,1.7652679136786897
+hurricane_helene_2024,37043,0.0,alternate: +12h ±6h,full frozen peak ridge,matched nearest snapshot,3.7383847724446193
+hurricane_helene_2024,37027,2.150537634408602,alternate: +12h ±6h,full frozen peak ridge,matched nearest snapshot,0.7590217542245826
+hurricane_helene_2024,37189,1.1494252873563218,alternate: +12h ±6h,full frozen peak ridge,matched nearest snapshot,0.7417003924251461
+hurricane_helene_2024,37009,0.0,alternate: +12h ±6h,full frozen peak ridge,matched nearest snapshot,0.7417003924251461
+hurricane_helene_2024,37011,95.23809523809524,alternate: +12h ±6h,matched-cohort full week peak ridge,full week reported maximum,0.8285592430860019
+hurricane_helene_2024,37199,90.9090909090909,alternate: +12h ±6h,matched-cohort full week peak ridge,full week reported maximum,1.0034658773835743
+hurricane_helene_2024,37121,90.0,alternate: +12h ±6h,matched-cohort full week peak ridge,full week reported maximum,0.9612558655124002
+hurricane_helene_2024,37115,88.37209302325581,alternate: +12h ±6h,matched-cohort full week peak ridge,full week reported maximum,1.0178371700742115
+hurricane_helene_2024,37087,87.73584905660377,alternate: +12h ±6h,matched-cohort full week peak ridge,full week reported maximum,1.233843834860524
+hurricane_helene_2024,37021,81.89655172413794,alternate: +12h ±6h,matched-cohort full week peak ridge,full week reported maximum,1.0827662114869325
+hurricane_helene_2024,37173,80.64516129032258,alternate: +12h ±6h,matched-cohort full week peak ridge,full week reported maximum,1.6162059792548065
+hurricane_helene_2024,37175,80.0,alternate: +12h ±6h,matched-cohort full week peak ridge,full week reported maximum,1.4058951413456564
+hurricane_helene_2024,37099,78.87323943661971,alternate: +12h ±6h,matched-cohort full week peak ridge,full week reported maximum,1.6283155604599044
+hurricane_helene_2024,37039,78.125,alternate: +12h ±6h,matched-cohort full week peak ridge,full week reported maximum,3.1857527187505887
+hurricane_helene_2024,37161,77.65957446808511,alternate: +12h ±6h,matched-cohort full week peak ridge,full week reported maximum,1.0034658773835743
+hurricane_helene_2024,37089,77.21518987341773,alternate: +12h ±6h,matched-cohort full week peak ridge,full week reported maximum,1.2188725245169894
+hurricane_helene_2024,37075,76.92307692307692,alternate: +12h ±6h,matched-cohort full week peak ridge,full week reported maximum,2.2684249802714254
+hurricane_helene_2024,37113,76.74418604651163,alternate: +12h ±6h,matched-cohort full week peak ridge,full week reported maximum,2.2390606322120634
+hurricane_helene_2024,37023,73.63636363636364,alternate: +12h ±6h,matched-cohort full week peak ridge,full week reported maximum,0.9990272534977267
+hurricane_helene_2024,37111,68.67469879518072,alternate: +12h ±6h,matched-cohort full week peak ridge,full week reported maximum,1.0034658773835743
+hurricane_helene_2024,37149,66.66666666666667,alternate: +12h ±6h,matched-cohort full week peak ridge,full week reported maximum,1.117477995297294
+hurricane_helene_2024,37043,72.72727272727273,alternate: +12h ±6h,matched-cohort full week peak ridge,full week reported maximum,3.039502443099056
+hurricane_helene_2024,37027,49.46236559139785,alternate: +12h ±6h,matched-cohort full week peak ridge,full week reported maximum,0.3005862447849958
+hurricane_helene_2024,37189,32.18390804597701,alternate: +12h ±6h,matched-cohort full week peak ridge,full week reported maximum,0.28524177805885975
+hurricane_helene_2024,37009,22.22222222222222,alternate: +12h ±6h,matched-cohort full week peak ridge,full week reported maximum,0.28524177805885975
+hurricane_helene_2024,37011,14.285714285714286,alternate: +12h ±6h,matched-cohort full week peak ridge,matched window reported maximum,0.8285592430860019
+hurricane_helene_2024,37199,13.636363636363637,alternate: +12h ±6h,matched-cohort full week peak ridge,matched window reported maximum,1.0034658773835743
+hurricane_helene_2024,37121,15.0,alternate: +12h ±6h,matched-cohort full week peak ridge,matched window reported maximum,0.9612558655124002
+hurricane_helene_2024,37115,0.0,alternate: +12h ±6h,matched-cohort full week peak ridge,matched window reported maximum,1.0178371700742115
+hurricane_helene_2024,37087,0.0,alternate: +12h ±6h,matched-cohort full week peak ridge,matched window reported maximum,1.233843834860524
+hurricane_helene_2024,37021,8.620689655172415,alternate: +12h ±6h,matched-cohort full week peak ridge,matched window reported maximum,1.0827662114869325
+hurricane_helene_2024,37173,0.0,alternate: +12h ±6h,matched-cohort full week peak ridge,matched window reported maximum,1.6162059792548065
+hurricane_helene_2024,37175,0.0,alternate: +12h ±6h,matched-cohort full week peak ridge,matched window reported maximum,1.4058951413456564
+hurricane_helene_2024,37099,2.816901408450704,alternate: +12h ±6h,matched-cohort full week peak ridge,matched window reported maximum,1.6283155604599044
+hurricane_helene_2024,37039,0.0,alternate: +12h ±6h,matched-cohort full week peak ridge,matched window reported maximum,3.1857527187505887
+hurricane_helene_2024,37161,4.25531914893617,alternate: +12h ±6h,matched-cohort full week peak ridge,matched window reported maximum,1.0034658773835743
+hurricane_helene_2024,37089,3.1645569620253164,alternate: +12h ±6h,matched-cohort full week peak ridge,matched window reported maximum,1.2188725245169894
+hurricane_helene_2024,37075,0.0,alternate: +12h ±6h,matched-cohort full week peak ridge,matched window reported maximum,2.2684249802714254
+hurricane_helene_2024,37113,2.3255813953488373,alternate: +12h ±6h,matched-cohort full week peak ridge,matched window reported maximum,2.2390606322120634
+hurricane_helene_2024,37023,2.727272727272727,alternate: +12h ±6h,matched-cohort full week peak ridge,matched window reported maximum,0.9990272534977267
+hurricane_helene_2024,37111,0.0,alternate: +12h ±6h,matched-cohort full week peak ridge,matched window reported maximum,1.0034658773835743
+hurricane_helene_2024,37149,3.7037037037037037,alternate: +12h ±6h,matched-cohort full week peak ridge,matched window reported maximum,1.117477995297294
+hurricane_helene_2024,37043,0.0,alternate: +12h ±6h,matched-cohort full week peak ridge,matched window reported maximum,3.039502443099056
+hurricane_helene_2024,37027,2.150537634408602,alternate: +12h ±6h,matched-cohort full week peak ridge,matched window reported maximum,0.3005862447849958
+hurricane_helene_2024,37189,1.1494252873563218,alternate: +12h ±6h,matched-cohort full week peak ridge,matched window reported maximum,0.28524177805885975
+hurricane_helene_2024,37009,0.0,alternate: +12h ±6h,matched-cohort full week peak ridge,matched window reported maximum,0.28524177805885975
+hurricane_helene_2024,37011,14.285714285714286,alternate: +12h ±6h,matched-cohort full week peak ridge,matched nearest snapshot,0.8285592430860019
+hurricane_helene_2024,37199,13.636363636363637,alternate: +12h ±6h,matched-cohort full week peak ridge,matched nearest snapshot,1.0034658773835743
+hurricane_helene_2024,37121,15.0,alternate: +12h ±6h,matched-cohort full week peak ridge,matched nearest snapshot,0.9612558655124002
+hurricane_helene_2024,37115,0.0,alternate: +12h ±6h,matched-cohort full week peak ridge,matched nearest snapshot,1.0178371700742115
+hurricane_helene_2024,37087,0.0,alternate: +12h ±6h,matched-cohort full week peak ridge,matched nearest snapshot,1.233843834860524
+hurricane_helene_2024,37021,8.620689655172415,alternate: +12h ±6h,matched-cohort full week peak ridge,matched nearest snapshot,1.0827662114869325
+hurricane_helene_2024,37173,0.0,alternate: +12h ±6h,matched-cohort full week peak ridge,matched nearest snapshot,1.6162059792548065
+hurricane_helene_2024,37175,0.0,alternate: +12h ±6h,matched-cohort full week peak ridge,matched nearest snapshot,1.4058951413456564
+hurricane_helene_2024,37099,2.816901408450704,alternate: +12h ±6h,matched-cohort full week peak ridge,matched nearest snapshot,1.6283155604599044
+hurricane_helene_2024,37039,0.0,alternate: +12h ±6h,matched-cohort full week peak ridge,matched nearest snapshot,3.1857527187505887
+hurricane_helene_2024,37161,4.25531914893617,alternate: +12h ±6h,matched-cohort full week peak ridge,matched nearest snapshot,1.0034658773835743
+hurricane_helene_2024,37089,3.1645569620253164,alternate: +12h ±6h,matched-cohort full week peak ridge,matched nearest snapshot,1.2188725245169894
+hurricane_helene_2024,37075,0.0,alternate: +12h ±6h,matched-cohort full week peak ridge,matched nearest snapshot,2.2684249802714254
+hurricane_helene_2024,37113,2.3255813953488373,alternate: +12h ±6h,matched-cohort full week peak ridge,matched nearest snapshot,2.2390606322120634
+hurricane_helene_2024,37023,2.727272727272727,alternate: +12h ±6h,matched-cohort full week peak ridge,matched nearest snapshot,0.9990272534977267
+hurricane_helene_2024,37111,0.0,alternate: +12h ±6h,matched-cohort full week peak ridge,matched nearest snapshot,1.0034658773835743
+hurricane_helene_2024,37149,3.7037037037037037,alternate: +12h ±6h,matched-cohort full week peak ridge,matched nearest snapshot,1.117477995297294
+hurricane_helene_2024,37043,0.0,alternate: +12h ±6h,matched-cohort full week peak ridge,matched nearest snapshot,3.039502443099056
+hurricane_helene_2024,37027,2.150537634408602,alternate: +12h ±6h,matched-cohort full week peak ridge,matched nearest snapshot,0.3005862447849958
+hurricane_helene_2024,37189,1.1494252873563218,alternate: +12h ±6h,matched-cohort full week peak ridge,matched nearest snapshot,0.28524177805885975
+hurricane_helene_2024,37009,0.0,alternate: +12h ±6h,matched-cohort full week peak ridge,matched nearest snapshot,0.28524177805885975
+hurricane_helene_2024,37011,95.23809523809524,alternate: +12h ±6h,matched-cohort window peak ridge,full week reported maximum,0.8285592430860019
+hurricane_helene_2024,37199,90.9090909090909,alternate: +12h ±6h,matched-cohort window peak ridge,full week reported maximum,1.0034658773835743
+hurricane_helene_2024,37121,90.0,alternate: +12h ±6h,matched-cohort window peak ridge,full week reported maximum,0.9612558655124002
+hurricane_helene_2024,37115,88.37209302325581,alternate: +12h ±6h,matched-cohort window peak ridge,full week reported maximum,1.0178371700742115
+hurricane_helene_2024,37087,87.73584905660377,alternate: +12h ±6h,matched-cohort window peak ridge,full week reported maximum,1.233843834860524
+hurricane_helene_2024,37021,81.89655172413794,alternate: +12h ±6h,matched-cohort window peak ridge,full week reported maximum,1.0827662114869325
+hurricane_helene_2024,37173,80.64516129032258,alternate: +12h ±6h,matched-cohort window peak ridge,full week reported maximum,1.6162059792548065
+hurricane_helene_2024,37175,80.0,alternate: +12h ±6h,matched-cohort window peak ridge,full week reported maximum,1.4058951413456564
+hurricane_helene_2024,37099,78.87323943661971,alternate: +12h ±6h,matched-cohort window peak ridge,full week reported maximum,1.6283155604599044
+hurricane_helene_2024,37039,78.125,alternate: +12h ±6h,matched-cohort window peak ridge,full week reported maximum,3.1857527187505887
+hurricane_helene_2024,37161,77.65957446808511,alternate: +12h ±6h,matched-cohort window peak ridge,full week reported maximum,1.0034658773835743
+hurricane_helene_2024,37089,77.21518987341773,alternate: +12h ±6h,matched-cohort window peak ridge,full week reported maximum,1.2188725245169894
+hurricane_helene_2024,37075,76.92307692307692,alternate: +12h ±6h,matched-cohort window peak ridge,full week reported maximum,2.2684249802714254
+hurricane_helene_2024,37113,76.74418604651163,alternate: +12h ±6h,matched-cohort window peak ridge,full week reported maximum,2.2390606322120634
+hurricane_helene_2024,37023,73.63636363636364,alternate: +12h ±6h,matched-cohort window peak ridge,full week reported maximum,0.9990272534977267
+hurricane_helene_2024,37111,68.67469879518072,alternate: +12h ±6h,matched-cohort window peak ridge,full week reported maximum,1.0034658773835743
+hurricane_helene_2024,37149,66.66666666666667,alternate: +12h ±6h,matched-cohort window peak ridge,full week reported maximum,1.117477995297294
+hurricane_helene_2024,37043,72.72727272727273,alternate: +12h ±6h,matched-cohort window peak ridge,full week reported maximum,3.039502443099056
+hurricane_helene_2024,37027,49.46236559139785,alternate: +12h ±6h,matched-cohort window peak ridge,full week reported maximum,0.3005862447849958
+hurricane_helene_2024,37189,32.18390804597701,alternate: +12h ±6h,matched-cohort window peak ridge,full week reported maximum,0.28524177805885975
+hurricane_helene_2024,37009,22.22222222222222,alternate: +12h ±6h,matched-cohort window peak ridge,full week reported maximum,0.28524177805885975
+hurricane_helene_2024,37011,14.285714285714286,alternate: +12h ±6h,matched-cohort window peak ridge,matched window reported maximum,0.8285592430860019
+hurricane_helene_2024,37199,13.636363636363637,alternate: +12h ±6h,matched-cohort window peak ridge,matched window reported maximum,1.0034658773835743
+hurricane_helene_2024,37121,15.0,alternate: +12h ±6h,matched-cohort window peak ridge,matched window reported maximum,0.9612558655124002
+hurricane_helene_2024,37115,0.0,alternate: +12h ±6h,matched-cohort window peak ridge,matched window reported maximum,1.0178371700742115
+hurricane_helene_2024,37087,0.0,alternate: +12h ±6h,matched-cohort window peak ridge,matched window reported maximum,1.233843834860524
+hurricane_helene_2024,37021,8.620689655172415,alternate: +12h ±6h,matched-cohort window peak ridge,matched window reported maximum,1.0827662114869325
+hurricane_helene_2024,37173,0.0,alternate: +12h ±6h,matched-cohort window peak ridge,matched window reported maximum,1.6162059792548065
+hurricane_helene_2024,37175,0.0,alternate: +12h ±6h,matched-cohort window peak ridge,matched window reported maximum,1.4058951413456564
+hurricane_helene_2024,37099,2.816901408450704,alternate: +12h ±6h,matched-cohort window peak ridge,matched window reported maximum,1.6283155604599044
+hurricane_helene_2024,37039,0.0,alternate: +12h ±6h,matched-cohort window peak ridge,matched window reported maximum,3.1857527187505887
+hurricane_helene_2024,37161,4.25531914893617,alternate: +12h ±6h,matched-cohort window peak ridge,matched window reported maximum,1.0034658773835743
+hurricane_helene_2024,37089,3.1645569620253164,alternate: +12h ±6h,matched-cohort window peak ridge,matched window reported maximum,1.2188725245169894
+hurricane_helene_2024,37075,0.0,alternate: +12h ±6h,matched-cohort window peak ridge,matched window reported maximum,2.2684249802714254
+hurricane_helene_2024,37113,2.3255813953488373,alternate: +12h ±6h,matched-cohort window peak ridge,matched window reported maximum,2.2390606322120634
+hurricane_helene_2024,37023,2.727272727272727,alternate: +12h ±6h,matched-cohort window peak ridge,matched window reported maximum,0.9990272534977267
+hurricane_helene_2024,37111,0.0,alternate: +12h ±6h,matched-cohort window peak ridge,matched window reported maximum,1.0034658773835743
+hurricane_helene_2024,37149,3.7037037037037037,alternate: +12h ±6h,matched-cohort window peak ridge,matched window reported maximum,1.117477995297294
+hurricane_helene_2024,37043,0.0,alternate: +12h ±6h,matched-cohort window peak ridge,matched window reported maximum,3.039502443099056
+hurricane_helene_2024,37027,2.150537634408602,alternate: +12h ±6h,matched-cohort window peak ridge,matched window reported maximum,0.3005862447849958
+hurricane_helene_2024,37189,1.1494252873563218,alternate: +12h ±6h,matched-cohort window peak ridge,matched window reported maximum,0.28524177805885975
+hurricane_helene_2024,37009,0.0,alternate: +12h ±6h,matched-cohort window peak ridge,matched window reported maximum,0.28524177805885975
+hurricane_helene_2024,37011,14.285714285714286,alternate: +12h ±6h,matched-cohort window peak ridge,matched nearest snapshot,0.8285592430860019
+hurricane_helene_2024,37199,13.636363636363637,alternate: +12h ±6h,matched-cohort window peak ridge,matched nearest snapshot,1.0034658773835743
+hurricane_helene_2024,37121,15.0,alternate: +12h ±6h,matched-cohort window peak ridge,matched nearest snapshot,0.9612558655124002
+hurricane_helene_2024,37115,0.0,alternate: +12h ±6h,matched-cohort window peak ridge,matched nearest snapshot,1.0178371700742115
+hurricane_helene_2024,37087,0.0,alternate: +12h ±6h,matched-cohort window peak ridge,matched nearest snapshot,1.233843834860524
+hurricane_helene_2024,37021,8.620689655172415,alternate: +12h ±6h,matched-cohort window peak ridge,matched nearest snapshot,1.0827662114869325
+hurricane_helene_2024,37173,0.0,alternate: +12h ±6h,matched-cohort window peak ridge,matched nearest snapshot,1.6162059792548065
+hurricane_helene_2024,37175,0.0,alternate: +12h ±6h,matched-cohort window peak ridge,matched nearest snapshot,1.4058951413456564
+hurricane_helene_2024,37099,2.816901408450704,alternate: +12h ±6h,matched-cohort window peak ridge,matched nearest snapshot,1.6283155604599044
+hurricane_helene_2024,37039,0.0,alternate: +12h ±6h,matched-cohort window peak ridge,matched nearest snapshot,3.1857527187505887
+hurricane_helene_2024,37161,4.25531914893617,alternate: +12h ±6h,matched-cohort window peak ridge,matched nearest snapshot,1.0034658773835743
+hurricane_helene_2024,37089,3.1645569620253164,alternate: +12h ±6h,matched-cohort window peak ridge,matched nearest snapshot,1.2188725245169894
+hurricane_helene_2024,37075,0.0,alternate: +12h ±6h,matched-cohort window peak ridge,matched nearest snapshot,2.2684249802714254
+hurricane_helene_2024,37113,2.3255813953488373,alternate: +12h ±6h,matched-cohort window peak ridge,matched nearest snapshot,2.2390606322120634
+hurricane_helene_2024,37023,2.727272727272727,alternate: +12h ±6h,matched-cohort window peak ridge,matched nearest snapshot,0.9990272534977267
+hurricane_helene_2024,37111,0.0,alternate: +12h ±6h,matched-cohort window peak ridge,matched nearest snapshot,1.0034658773835743
+hurricane_helene_2024,37149,3.7037037037037037,alternate: +12h ±6h,matched-cohort window peak ridge,matched nearest snapshot,1.117477995297294
+hurricane_helene_2024,37043,0.0,alternate: +12h ±6h,matched-cohort window peak ridge,matched nearest snapshot,3.039502443099056
+hurricane_helene_2024,37027,2.150537634408602,alternate: +12h ±6h,matched-cohort window peak ridge,matched nearest snapshot,0.3005862447849958
+hurricane_helene_2024,37189,1.1494252873563218,alternate: +12h ±6h,matched-cohort window peak ridge,matched nearest snapshot,0.28524177805885975
+hurricane_helene_2024,37009,0.0,alternate: +12h ±6h,matched-cohort window peak ridge,matched nearest snapshot,0.28524177805885975
+hurricane_helene_2024,37011,95.23809523809524,alternate: +12h ±6h,matched-cohort nearest-snapshot ridge,full week reported maximum,0.8285592430860019
+hurricane_helene_2024,37199,90.9090909090909,alternate: +12h ±6h,matched-cohort nearest-snapshot ridge,full week reported maximum,1.0034658773835743
+hurricane_helene_2024,37121,90.0,alternate: +12h ±6h,matched-cohort nearest-snapshot ridge,full week reported maximum,0.9612558655124002
+hurricane_helene_2024,37115,88.37209302325581,alternate: +12h ±6h,matched-cohort nearest-snapshot ridge,full week reported maximum,1.0178371700742115
+hurricane_helene_2024,37087,87.73584905660377,alternate: +12h ±6h,matched-cohort nearest-snapshot ridge,full week reported maximum,1.233843834860524
+hurricane_helene_2024,37021,81.89655172413794,alternate: +12h ±6h,matched-cohort nearest-snapshot ridge,full week reported maximum,1.0827662114869325
+hurricane_helene_2024,37173,80.64516129032258,alternate: +12h ±6h,matched-cohort nearest-snapshot ridge,full week reported maximum,1.6162059792548065
+hurricane_helene_2024,37175,80.0,alternate: +12h ±6h,matched-cohort nearest-snapshot ridge,full week reported maximum,1.4058951413456564
+hurricane_helene_2024,37099,78.87323943661971,alternate: +12h ±6h,matched-cohort nearest-snapshot ridge,full week reported maximum,1.6283155604599044
+hurricane_helene_2024,37039,78.125,alternate: +12h ±6h,matched-cohort nearest-snapshot ridge,full week reported maximum,3.1857527187505887
+hurricane_helene_2024,37161,77.65957446808511,alternate: +12h ±6h,matched-cohort nearest-snapshot ridge,full week reported maximum,1.0034658773835743
+hurricane_helene_2024,37089,77.21518987341773,alternate: +12h ±6h,matched-cohort nearest-snapshot ridge,full week reported maximum,1.2188725245169894
+hurricane_helene_2024,37075,76.92307692307692,alternate: +12h ±6h,matched-cohort nearest-snapshot ridge,full week reported maximum,2.2684249802714254
+hurricane_helene_2024,37113,76.74418604651163,alternate: +12h ±6h,matched-cohort nearest-snapshot ridge,full week reported maximum,2.2390606322120634
+hurricane_helene_2024,37023,73.63636363636364,alternate: +12h ±6h,matched-cohort nearest-snapshot ridge,full week reported maximum,0.9990272534977267
+hurricane_helene_2024,37111,68.67469879518072,alternate: +12h ±6h,matched-cohort nearest-snapshot ridge,full week reported maximum,1.0034658773835743
+hurricane_helene_2024,37149,66.66666666666667,alternate: +12h ±6h,matched-cohort nearest-snapshot ridge,full week reported maximum,1.117477995297294
+hurricane_helene_2024,37043,72.72727272727273,alternate: +12h ±6h,matched-cohort nearest-snapshot ridge,full week reported maximum,3.039502443099056
+hurricane_helene_2024,37027,49.46236559139785,alternate: +12h ±6h,matched-cohort nearest-snapshot ridge,full week reported maximum,0.3005862447849958
+hurricane_helene_2024,37189,32.18390804597701,alternate: +12h ±6h,matched-cohort nearest-snapshot ridge,full week reported maximum,0.28524177805885975
+hurricane_helene_2024,37009,22.22222222222222,alternate: +12h ±6h,matched-cohort nearest-snapshot ridge,full week reported maximum,0.28524177805885975
+hurricane_helene_2024,37011,14.285714285714286,alternate: +12h ±6h,matched-cohort nearest-snapshot ridge,matched window reported maximum,0.8285592430860019
+hurricane_helene_2024,37199,13.636363636363637,alternate: +12h ±6h,matched-cohort nearest-snapshot ridge,matched window reported maximum,1.0034658773835743
+hurricane_helene_2024,37121,15.0,alternate: +12h ±6h,matched-cohort nearest-snapshot ridge,matched window reported maximum,0.9612558655124002
+hurricane_helene_2024,37115,0.0,alternate: +12h ±6h,matched-cohort nearest-snapshot ridge,matched window reported maximum,1.0178371700742115
+hurricane_helene_2024,37087,0.0,alternate: +12h ±6h,matched-cohort nearest-snapshot ridge,matched window reported maximum,1.233843834860524
+hurricane_helene_2024,37021,8.620689655172415,alternate: +12h ±6h,matched-cohort nearest-snapshot ridge,matched window reported maximum,1.0827662114869325
+hurricane_helene_2024,37173,0.0,alternate: +12h ±6h,matched-cohort nearest-snapshot ridge,matched window reported maximum,1.6162059792548065
+hurricane_helene_2024,37175,0.0,alternate: +12h ±6h,matched-cohort nearest-snapshot ridge,matched window reported maximum,1.4058951413456564
+hurricane_helene_2024,37099,2.816901408450704,alternate: +12h ±6h,matched-cohort nearest-snapshot ridge,matched window reported maximum,1.6283155604599044
+hurricane_helene_2024,37039,0.0,alternate: +12h ±6h,matched-cohort nearest-snapshot ridge,matched window reported maximum,3.1857527187505887
+hurricane_helene_2024,37161,4.25531914893617,alternate: +12h ±6h,matched-cohort nearest-snapshot ridge,matched window reported maximum,1.0034658773835743
+hurricane_helene_2024,37089,3.1645569620253164,alternate: +12h ±6h,matched-cohort nearest-snapshot ridge,matched window reported maximum,1.2188725245169894
+hurricane_helene_2024,37075,0.0,alternate: +12h ±6h,matched-cohort nearest-snapshot ridge,matched window reported maximum,2.2684249802714254
+hurricane_helene_2024,37113,2.3255813953488373,alternate: +12h ±6h,matched-cohort nearest-snapshot ridge,matched window reported maximum,2.2390606322120634
+hurricane_helene_2024,37023,2.727272727272727,alternate: +12h ±6h,matched-cohort nearest-snapshot ridge,matched window reported maximum,0.9990272534977267
+hurricane_helene_2024,37111,0.0,alternate: +12h ±6h,matched-cohort nearest-snapshot ridge,matched window reported maximum,1.0034658773835743
+hurricane_helene_2024,37149,3.7037037037037037,alternate: +12h ±6h,matched-cohort nearest-snapshot ridge,matched window reported maximum,1.117477995297294
+hurricane_helene_2024,37043,0.0,alternate: +12h ±6h,matched-cohort nearest-snapshot ridge,matched window reported maximum,3.039502443099056
+hurricane_helene_2024,37027,2.150537634408602,alternate: +12h ±6h,matched-cohort nearest-snapshot ridge,matched window reported maximum,0.3005862447849958
+hurricane_helene_2024,37189,1.1494252873563218,alternate: +12h ±6h,matched-cohort nearest-snapshot ridge,matched window reported maximum,0.28524177805885975
+hurricane_helene_2024,37009,0.0,alternate: +12h ±6h,matched-cohort nearest-snapshot ridge,matched window reported maximum,0.28524177805885975
+hurricane_helene_2024,37011,14.285714285714286,alternate: +12h ±6h,matched-cohort nearest-snapshot ridge,matched nearest snapshot,0.8285592430860019
+hurricane_helene_2024,37199,13.636363636363637,alternate: +12h ±6h,matched-cohort nearest-snapshot ridge,matched nearest snapshot,1.0034658773835743
+hurricane_helene_2024,37121,15.0,alternate: +12h ±6h,matched-cohort nearest-snapshot ridge,matched nearest snapshot,0.9612558655124002
+hurricane_helene_2024,37115,0.0,alternate: +12h ±6h,matched-cohort nearest-snapshot ridge,matched nearest snapshot,1.0178371700742115
+hurricane_helene_2024,37087,0.0,alternate: +12h ±6h,matched-cohort nearest-snapshot ridge,matched nearest snapshot,1.233843834860524
+hurricane_helene_2024,37021,8.620689655172415,alternate: +12h ±6h,matched-cohort nearest-snapshot ridge,matched nearest snapshot,1.0827662114869325
+hurricane_helene_2024,37173,0.0,alternate: +12h ±6h,matched-cohort nearest-snapshot ridge,matched nearest snapshot,1.6162059792548065
+hurricane_helene_2024,37175,0.0,alternate: +12h ±6h,matched-cohort nearest-snapshot ridge,matched nearest snapshot,1.4058951413456564
+hurricane_helene_2024,37099,2.816901408450704,alternate: +12h ±6h,matched-cohort nearest-snapshot ridge,matched nearest snapshot,1.6283155604599044
+hurricane_helene_2024,37039,0.0,alternate: +12h ±6h,matched-cohort nearest-snapshot ridge,matched nearest snapshot,3.1857527187505887
+hurricane_helene_2024,37161,4.25531914893617,alternate: +12h ±6h,matched-cohort nearest-snapshot ridge,matched nearest snapshot,1.0034658773835743
+hurricane_helene_2024,37089,3.1645569620253164,alternate: +12h ±6h,matched-cohort nearest-snapshot ridge,matched nearest snapshot,1.2188725245169894
+hurricane_helene_2024,37075,0.0,alternate: +12h ±6h,matched-cohort nearest-snapshot ridge,matched nearest snapshot,2.2684249802714254
+hurricane_helene_2024,37113,2.3255813953488373,alternate: +12h ±6h,matched-cohort nearest-snapshot ridge,matched nearest snapshot,2.2390606322120634
+hurricane_helene_2024,37023,2.727272727272727,alternate: +12h ±6h,matched-cohort nearest-snapshot ridge,matched nearest snapshot,0.9990272534977267
+hurricane_helene_2024,37111,0.0,alternate: +12h ±6h,matched-cohort nearest-snapshot ridge,matched nearest snapshot,1.0034658773835743
+hurricane_helene_2024,37149,3.7037037037037037,alternate: +12h ±6h,matched-cohort nearest-snapshot ridge,matched nearest snapshot,1.117477995297294
+hurricane_helene_2024,37043,0.0,alternate: +12h ±6h,matched-cohort nearest-snapshot ridge,matched nearest snapshot,3.039502443099056
+hurricane_helene_2024,37027,2.150537634408602,alternate: +12h ±6h,matched-cohort nearest-snapshot ridge,matched nearest snapshot,0.3005862447849958
+hurricane_helene_2024,37189,1.1494252873563218,alternate: +12h ±6h,matched-cohort nearest-snapshot ridge,matched nearest snapshot,0.28524177805885975
+hurricane_helene_2024,37009,0.0,alternate: +12h ±6h,matched-cohort nearest-snapshot ridge,matched nearest snapshot,0.28524177805885975

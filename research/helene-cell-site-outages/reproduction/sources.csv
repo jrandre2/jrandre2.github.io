@@ -1,0 +1,18 @@
+input,upstream_workflow,public_provider,source_url,boundary
+peak_training.csv,run_nc.py and historical staged county panel,FCC DIRS,https://www.fcc.gov/communications-status-reports,Each of 589 rows has exact FCC report PDF link; inherited national cohort and staged labels frozen rather than rebuilt from all available public reports
+peak_helene_weather.csv,run_nc.py archive extraction,NOAA NHC wind archive,https://www.nhc.noaa.gov/gis/archive_wsp.php,Derived county predictors; raw geospatial extraction not replayed
+peak_weather_provenance.csv,historical wind and rainfall manifests,NOAA NHC and Iowa Environmental Mesonet,https://mesonet.agron.iastate.edu/cgi-bin/request/gis/outlooks.py?help,Exact per-event wind and WPC archive links and hashes in input
+helene_fcc_daily.csv and extraction manifest,Helene daily FCC extraction,FCC,https://www.fcc.gov/helene,Each of 420 rows has exact source PDF link; does not download or parse PDFs
+helene_sparse_peak_labels.csv,Original NC scored target vintage,FCC,https://www.fcc.gov/helene,Each of 21 old labels links its originally selected PDF; original extraction code not rerun
+timing_matched_features.csv and timing_weather_provenance.csv,Forecast Timing archive feature extraction,NHC WPC IEM and FCC,https://mesonet.agron.iastate.edu/cgi-bin/request/gis/outlooks.py?help,Derived matched panel and exact source URLs; no archive downloading or spatial overlay
+nc_trigger_frozen_predictions.csv and nc_trigger_provenance.csv,Forecast Timing forecast-only NC trigger,NOAA NHC ATCF and WPC,https://ftp.nhc.noaa.gov/atcf/archive/,Frozen model scores rescored against full FCC outcome; DETECTOR/fitting not rerun
+terrain_county_derived.csv,flood/build_flood_features.py,USGS 3DEP,https://www.usgs.gov/3d-elevation-program,Modern-vintage tract-derived county slopes; original tract summaries and rasters not included
+recovery_reconciled_reports.csv and conflict audit,FCC Mechanisms Test source reconciliation,FCC DIRS,https://www.fcc.gov/communications-status-reports,Each of 3458 rows links exact public report PDF; input starts after source quality reconciliation
+helene_landfall,Revised NHC Tropical Cyclone Report,NOAA NHC,https://www.nhc.noaa.gov/data/tcr/AL092024_Helene.pdf,03:10 UTC September 27 2024
+ian_landfall,Revised NHC Tropical Cyclone Report,NOAA NHC,https://www.nhc.noaa.gov/data/tcr/AL092022_Ian.pdf,No-Ian peak sensitivity omits Ian; timing and recovery panels use corrected September 28 2022 anchor
+county_boundaries,2023 cartographic boundary file used upstream,U.S. Census Bureau,https://www2.census.gov/geo/tiger/GENZ2023/shp/cb_2023_us_county_500k.zip,Needed for original geographic artwork/feature derivation; no shapes required to rebuild figure plotting data
+hazard_county_derived.csv,Follow-up county hazard comparison,NCEM,https://www.arcgis.com/home/item.html?id=066cfdfa2f3545f4b848685d48f52746,Derived flood measures. Raw county overlays not reproduced.
+hazard_county_derived.csv,Follow-up county hazard comparison,USGS,https://doi.org/10.5066/P14CHGKS,Derived geographic exposure to landslides. Raw county overlays not reproduced.
+hazard_county_derived.csv,Follow-up county hazard comparison,NC DIT,https://www.arcgis.com/home/item.html?id=1f6119f7970049d695d9dbbc56e74edd,Derived exposure weighted by broadband serviceable locations. Not observed service losses.
+hazard_county_derived.csv,Follow-up county hazard comparison,NOAA,https://registry.opendata.aws/noaa-hrrr-pds/,Derived forecast rainfall summary. Raw grid extraction not reproduced.
+hazard_county_derived.csv,Follow-up county hazard comparison,FCC,https://www.fcc.gov/helene,Daily outage shares from the report ledger. No individual site records.

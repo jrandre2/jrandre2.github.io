@@ -1,0 +1,611 @@
+{
+  "source": "Direct FCC PDF for every date Sep 26\u2013Oct 19, 2024",
+  "timestamps": "13:00 UTC is FCC observation time, not publication time.",
+  "no_fill": "Only directly reported county rows retained, never impute an unreported county to zero.",
+  "cause_notes": "Cause counts are as reported, not necessarily exhaustive or mutually exclusive. Unattributed subtraction is an audit field, not a fourth definitive cause.",
+  "coverage": "21 counties through Oct 12, 9 from Oct 13. Site denominators can change.",
+  "landfall": "2024-09-27T03:10:00Z per NHC TCR, so Sep 26 observation is pre-landfall.",
+  "n": 420,
+  "daily": [
+    {
+      "date": "2024-09-26",
+      "report_timestamp_utc": "2024-09-26T13:00:00Z",
+      "doc_id": "405827",
+      "n_counties": 21,
+      "county_sums": [
+        1287,
+        5,
+        0,
+        3,
+        2,
+        5
+      ],
+      "published_nc_totals": [
+        1287,
+        5,
+        0,
+        3,
+        2,
+        5
+      ],
+      "all_six_match": true,
+      "sha256": "6ba00e9e8c450bd039d3da93c7b321eca377213d509f0158bd8a7652ed4d5c30",
+      "source_url": "https://docs.fcc.gov/public/attachments/DOC-405827A1.pdf"
+    },
+    {
+      "date": "2024-09-27",
+      "report_timestamp_utc": "2024-09-27T13:00:00Z",
+      "doc_id": "405876",
+      "n_counties": 21,
+      "county_sums": [
+        1452,
+        58,
+        1,
+        4,
+        52,
+        90
+      ],
+      "published_nc_totals": [
+        1452,
+        58,
+        1,
+        4,
+        52,
+        90
+      ],
+      "all_six_match": true,
+      "sha256": "007606789a20aafa79b20eb4bd41cf7f3bdfab3af75c81d62d7dc59cf69805d0",
+      "source_url": "https://docs.fcc.gov/public/attachments/DOC-405876A1.pdf"
+    },
+    {
+      "date": "2024-09-28",
+      "report_timestamp_utc": "2024-09-28T13:00:00Z",
+      "doc_id": "405893",
+      "n_counties": 21,
+      "county_sums": [
+        1452,
+        1079,
+        7,
+        428,
+        622,
+        76
+      ],
+      "published_nc_totals": [
+        1452,
+        1079,
+        7,
+        428,
+        622,
+        76
+      ],
+      "all_six_match": true,
+      "sha256": "49b693a2f1dd0a0abfb535513f439106f96e34639487c8aefa267f07811415df",
+      "source_url": "https://docs.fcc.gov/public/attachments/DOC-405893A1.pdf"
+    },
+    {
+      "date": "2024-09-29",
+      "report_timestamp_utc": "2024-09-29T13:00:00Z",
+      "doc_id": "405897",
+      "n_counties": 21,
+      "county_sums": [
+        1556,
+        1034,
+        5,
+        509,
+        493,
+        111
+      ],
+      "published_nc_totals": [
+        1556,
+        1034,
+        5,
+        509,
+        493,
+        111
+      ],
+      "all_six_match": true,
+      "sha256": "d273f2313e1174bd1e7bf8d90db6b6db61a6a4aa4a90ada3cb5f7a27c57eb005",
+      "source_url": "https://docs.fcc.gov/public/attachments/DOC-405897A1.pdf"
+    },
+    {
+      "date": "2024-09-30",
+      "report_timestamp_utc": "2024-09-30T13:00:00Z",
+      "doc_id": "405943",
+      "n_counties": 21,
+      "county_sums": [
+        1452,
+        784,
+        3,
+        385,
+        370,
+        103
+      ],
+      "published_nc_totals": [
+        1452,
+        784,
+        3,
+        385,
+        370,
+        103
+      ],
+      "all_six_match": true,
+      "sha256": "b169c65b2ba327b032b5f499bf2ed787ab22f899d8911981b3a9fbf266750715",
+      "source_url": "https://docs.fcc.gov/public/attachments/DOC-405943A1.pdf"
+    },
+    {
+      "date": "2024-10-01",
+      "report_timestamp_utc": "2024-10-01T13:00:00Z",
+      "doc_id": "406055",
+      "n_counties": 21,
+      "county_sums": [
+        1452,
+        707,
+        3,
+        303,
+        338,
+        102
+      ],
+      "published_nc_totals": [
+        1452,
+        707,
+        3,
+        303,
+        338,
+        102
+      ],
+      "all_six_match": true,
+      "sha256": "b570623899aa5b9282d1a50686d4a900aff5d53038337e6bdf1fd0b38dd6cc2d",
+      "source_url": "https://docs.fcc.gov/public/attachments/DOC-406055A1.pdf"
+    },
+    {
+      "date": "2024-10-02",
+      "report_timestamp_utc": "2024-10-02T13:00:00Z",
+      "doc_id": "406099",
+      "n_counties": 21,
+      "county_sums": [
+        1448,
+        554,
+        3,
+        255,
+        269,
+        129
+      ],
+      "published_nc_totals": [
+        1448,
+        554,
+        3,
+        255,
+        269,
+        129
+      ],
+      "all_six_match": true,
+      "sha256": "85f87241ac8138f45cd007cc0ffacd5c6afddbea38a440f866d9da7561fa5fb5",
+      "source_url": "https://docs.fcc.gov/public/attachments/DOC-406099A1.pdf"
+    },
+    {
+      "date": "2024-10-03",
+      "report_timestamp_utc": "2024-10-03T13:00:00Z",
+      "doc_id": "406144",
+      "n_counties": 21,
+      "county_sums": [
+        1448,
+        410,
+        2,
+        178,
+        193,
+        149
+      ],
+      "published_nc_totals": [
+        1448,
+        410,
+        2,
+        178,
+        193,
+        149
+      ],
+      "all_six_match": true,
+      "sha256": "8c3f0a0c9b059a47167d6653d2cfa2d6ec8e02548a4d5ea67d12f45c2fb1cd49",
+      "source_url": "https://docs.fcc.gov/public/attachments/DOC-406144A1.pdf"
+    },
+    {
+      "date": "2024-10-04",
+      "report_timestamp_utc": "2024-10-04T13:00:00Z",
+      "doc_id": "406197",
+      "n_counties": 21,
+      "county_sums": [
+        1448,
+        321,
+        3,
+        134,
+        149,
+        141
+      ],
+      "published_nc_totals": [
+        1448,
+        321,
+        3,
+        134,
+        149,
+        141
+      ],
+      "all_six_match": true,
+      "sha256": "10830e30ca3f5fdf14e23be2df8bdc3dca7089f0613018a67e5e2a82b07fe06f",
+      "source_url": "https://docs.fcc.gov/public/attachments/DOC-406197A1.pdf"
+    },
+    {
+      "date": "2024-10-05",
+      "report_timestamp_utc": "2024-10-05T13:00:00Z",
+      "doc_id": "406202",
+      "n_counties": 21,
+      "county_sums": [
+        1448,
+        277,
+        3,
+        119,
+        121,
+        141
+      ],
+      "published_nc_totals": [
+        1448,
+        277,
+        3,
+        119,
+        121,
+        141
+      ],
+      "all_six_match": true,
+      "sha256": "30dfc09993bd9c5cfbc8cdd41552bfe567a8993c6c794ce271dfa166a4ad98ad",
+      "source_url": "https://docs.fcc.gov/public/attachments/DOC-406202A1.pdf"
+    },
+    {
+      "date": "2024-10-06",
+      "report_timestamp_utc": "2024-10-06T13:00:00Z",
+      "doc_id": "406206",
+      "n_counties": 21,
+      "county_sums": [
+        1448,
+        244,
+        2,
+        116,
+        88,
+        103
+      ],
+      "published_nc_totals": [
+        1448,
+        244,
+        2,
+        116,
+        88,
+        103
+      ],
+      "all_six_match": true,
+      "sha256": "7f9083005a8e4bce9ae4b81d2c0dfd2cea8dd0d4f673a4bb3618f1b53f8346d4",
+      "source_url": "https://docs.fcc.gov/public/attachments/DOC-406206A1.pdf"
+    },
+    {
+      "date": "2024-10-07",
+      "report_timestamp_utc": "2024-10-07T13:00:00Z",
+      "doc_id": "406257",
+      "n_counties": 21,
+      "county_sums": [
+        1448,
+        209,
+        1,
+        99,
+        69,
+        105
+      ],
+      "published_nc_totals": [
+        1448,
+        209,
+        1,
+        99,
+        69,
+        105
+      ],
+      "all_six_match": true,
+      "sha256": "e72cd7bb4795373f91399414a107b71890d48fbeeee4a24beacc3b5ff6aa5ed5",
+      "source_url": "https://docs.fcc.gov/public/attachments/DOC-406257A1.pdf"
+    },
+    {
+      "date": "2024-10-08",
+      "report_timestamp_utc": "2024-10-08T13:00:00Z",
+      "doc_id": "406312",
+      "n_counties": 21,
+      "county_sums": [
+        1448,
+        213,
+        1,
+        108,
+        65,
+        84
+      ],
+      "published_nc_totals": [
+        1448,
+        213,
+        1,
+        108,
+        65,
+        84
+      ],
+      "all_six_match": true,
+      "sha256": "24b9da0f14501815671f4d0b423862f433c717f6c5fd1cf5f90e9a2449d9f783",
+      "source_url": "https://docs.fcc.gov/public/attachments/DOC-406312A1.pdf"
+    },
+    {
+      "date": "2024-10-09",
+      "report_timestamp_utc": "2024-10-09T13:00:00Z",
+      "doc_id": "406403",
+      "n_counties": 21,
+      "county_sums": [
+        1448,
+        184,
+        0,
+        116,
+        39,
+        62
+      ],
+      "published_nc_totals": [
+        1448,
+        184,
+        0,
+        116,
+        39,
+        62
+      ],
+      "all_six_match": true,
+      "sha256": "63bb558cabe2878d900311594b29660dbcf55ac2e3d7dbfef221515585ac8591",
+      "source_url": "https://docs.fcc.gov/public/attachments/DOC-406403A1.pdf"
+    },
+    {
+      "date": "2024-10-10",
+      "report_timestamp_utc": "2024-10-10T13:00:00Z",
+      "doc_id": "406461",
+      "n_counties": 21,
+      "county_sums": [
+        1448,
+        154,
+        0,
+        102,
+        35,
+        45
+      ],
+      "published_nc_totals": [
+        1448,
+        154,
+        0,
+        102,
+        35,
+        45
+      ],
+      "all_six_match": true,
+      "sha256": "33444dac670608abc8851d2e6f441f00d7f9af7876760514512f301a9339d587",
+      "source_url": "https://docs.fcc.gov/public/attachments/DOC-406461A1.pdf"
+    },
+    {
+      "date": "2024-10-11",
+      "report_timestamp_utc": "2024-10-11T13:00:00Z",
+      "doc_id": "406495",
+      "n_counties": 21,
+      "county_sums": [
+        1448,
+        115,
+        0,
+        77,
+        26,
+        31
+      ],
+      "published_nc_totals": [
+        1448,
+        115,
+        0,
+        77,
+        26,
+        31
+      ],
+      "all_six_match": true,
+      "sha256": "83d49560e0230091ef637900b2a9ab258ad42bd13c21e314d146f60910a42a3c",
+      "source_url": "https://docs.fcc.gov/public/attachments/DOC-406495A1.pdf"
+    },
+    {
+      "date": "2024-10-12",
+      "report_timestamp_utc": "2024-10-12T13:00:00Z",
+      "doc_id": "406511",
+      "n_counties": 21,
+      "county_sums": [
+        1452,
+        96,
+        0,
+        60,
+        24,
+        26
+      ],
+      "published_nc_totals": [
+        1452,
+        96,
+        0,
+        60,
+        24,
+        26
+      ],
+      "all_six_match": true,
+      "sha256": "db138c19bc430881616292b786beccc623fcfa5c4ef8155bb59f0b736fadddfc",
+      "source_url": "https://docs.fcc.gov/public/attachments/DOC-406511A1.pdf"
+    },
+    {
+      "date": "2024-10-13",
+      "report_timestamp_utc": "2024-10-13T13:00:00Z",
+      "doc_id": "406521",
+      "n_counties": 9,
+      "county_sums": [
+        901,
+        54,
+        0,
+        33,
+        14,
+        16
+      ],
+      "published_nc_totals": [
+        901,
+        54,
+        0,
+        33,
+        14,
+        16
+      ],
+      "all_six_match": true,
+      "sha256": "abc3bbf4b9aef72fe7118285462d0dcd8983240c1c4d5f74371a9f7989632a0e",
+      "source_url": "https://docs.fcc.gov/public/attachments/DOC-406521A1.pdf"
+    },
+    {
+      "date": "2024-10-14",
+      "report_timestamp_utc": "2024-10-14T13:00:00Z",
+      "doc_id": "406529",
+      "n_counties": 9,
+      "county_sums": [
+        901,
+        80,
+        0,
+        68,
+        14,
+        12
+      ],
+      "published_nc_totals": [
+        901,
+        80,
+        0,
+        68,
+        14,
+        12
+      ],
+      "all_six_match": true,
+      "sha256": "f0f6463a88a2912b51a4323933f2cfe93502779dcf7d3377c14250bffd5cddae",
+      "source_url": "https://docs.fcc.gov/public/attachments/DOC-406529A1.pdf"
+    },
+    {
+      "date": "2024-10-15",
+      "report_timestamp_utc": "2024-10-15T13:00:00Z",
+      "doc_id": "406585",
+      "n_counties": 9,
+      "county_sums": [
+        901,
+        123,
+        0,
+        115,
+        12,
+        10
+      ],
+      "published_nc_totals": [
+        901,
+        123,
+        0,
+        115,
+        12,
+        10
+      ],
+      "all_six_match": true,
+      "sha256": "6dff5a64efd0f8df737ab47711cc5782e4ab66e9f557e92ff642f9120a75246c",
+      "source_url": "https://docs.fcc.gov/public/attachments/DOC-406585A1.pdf"
+    },
+    {
+      "date": "2024-10-16",
+      "report_timestamp_utc": "2024-10-16T13:00:00Z",
+      "doc_id": "406641",
+      "n_counties": 9,
+      "county_sums": [
+        901,
+        58,
+        0,
+        39,
+        8,
+        6
+      ],
+      "published_nc_totals": [
+        901,
+        58,
+        0,
+        39,
+        8,
+        6
+      ],
+      "all_six_match": true,
+      "sha256": "74b438a23d9f7b4d01c782df3cbfb4fbb6e4454b42ed75928dc1837dbd59ea7a",
+      "source_url": "https://docs.fcc.gov/public/attachments/DOC-406641A1.pdf"
+    },
+    {
+      "date": "2024-10-17",
+      "report_timestamp_utc": "2024-10-17T13:00:00Z",
+      "doc_id": "406692",
+      "n_counties": 9,
+      "county_sums": [
+        901,
+        39,
+        1,
+        32,
+        6,
+        6
+      ],
+      "published_nc_totals": [
+        901,
+        39,
+        1,
+        32,
+        6,
+        6
+      ],
+      "all_six_match": true,
+      "sha256": "0aa8a426c402febdd5441e5d37015fa99596c2f314e0a716cef7a4640a246b04",
+      "source_url": "https://docs.fcc.gov/public/attachments/DOC-406692A1.pdf"
+    },
+    {
+      "date": "2024-10-18",
+      "report_timestamp_utc": "2024-10-18T13:00:00Z",
+      "doc_id": "406759",
+      "n_counties": 9,
+      "county_sums": [
+        901,
+        32,
+        1,
+        28,
+        2,
+        4
+      ],
+      "published_nc_totals": [
+        901,
+        32,
+        1,
+        28,
+        2,
+        4
+      ],
+      "all_six_match": true,
+      "sha256": "35ed97b5d99303d9bd027deff3d5a85a4be96032a6bb93c74ea656ef13dc6930",
+      "source_url": "https://docs.fcc.gov/public/attachments/DOC-406759A1.pdf"
+    },
+    {
+      "date": "2024-10-19",
+      "report_timestamp_utc": "2024-10-19T13:00:00Z",
+      "doc_id": "406771",
+      "n_counties": 9,
+      "county_sums": [
+        901,
+        20,
+        0,
+        17,
+        3,
+        4
+      ],
+      "published_nc_totals": [
+        901,
+        20,
+        0,
+        17,
+        3,
+        4
+      ],
+      "all_six_match": true,
+      "sha256": "782ec5b68e09e1d8cc7fbc190db0c75d8fe48b8ec2334626fe5de15b42e46905",
+      "source_url": "https://docs.fcc.gov/public/attachments/DOC-406771A1.pdf"
+    }
+  ]
+}
